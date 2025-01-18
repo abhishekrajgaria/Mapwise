@@ -29,7 +29,7 @@ Next Install the required packages:
 ## Dataset Structure
 
 - `dataset/`
-
+    - `final_template.csv`
     - `india/`
         - `hatched/` (55 files)
         - `metadata/` (109 files)
