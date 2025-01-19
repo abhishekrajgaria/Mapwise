@@ -25,6 +25,19 @@ Next Install the required packages:
      
      pip install -r requirements.txt
 
+> **Note**: The `requirements.txt` file may be incomplete. If you encounter any missing dependencies while running the scripts, install them using `pip install <package-name>` and then update the `requirements.txt` file by running:
+   > ```bash
+   > pip freeze > requirements.txt
+   > ```
+
+Create a `.env` file in the root directory of the project. This file should contain the necessary credentials for the project, including:
+    ```plaintext
+
+    GEMINI_API_KEY = your_gemini_api_key
+    OPENAI_API_KEY = your_openai_api_key
+
+    ```
+
 
 ## Dataset Structure
 
@@ -67,5 +80,29 @@ Next Install the required packages:
             - `shuff_data.csv`
 
     
+## Scripts
+
+### `csv_to_json.py`
+
+Our original question answer data was captured and stored in csv format, but for efficient use and consistency we convert it to a json array format.\
+It takes two parameters --country and --map_type \
+country could be {'usa', 'india', 'china', 'orgs', 'jumb', 'shuff','img'}
+- orgs - original maps with annotation from usa dataset which are used to create counterfactual maps.
+- jumb - counterfactual maps in which the values are altered.
+- shuff - counterfactual maps in which the position of states are shuffled.
+- img - counterfactual maps in which the name of states are replaced with imaginary names.
+
+map_type = {wo, w, h}
+- wo - maps without annotation
+- w - maps with annotation
+- h - hatched maps
+
+To run for actual maps you could choose country from {'usa', 'india', 'china'} and map_type form {wo, w, h}, e.g., 
+
+    python csv_to_json.py --country=usa --map_type=wo
+
+For counterfactual maps you could choose country from {'orgs', 'jumb', 'shuff','img'} and map_type from {w}, e.g.,
+
+    python csv_to_json.py --country=shuff --map_type=w
 
     
