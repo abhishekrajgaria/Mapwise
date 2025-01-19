@@ -31,12 +31,10 @@ Next Install the required packages:
    > ```
 
 Create a `.env` file in the root directory of the project. This file should contain the necessary credentials for the project, including:
-    ```plaintext
-
+    
     GEMINI_API_KEY = your_gemini_api_key
     OPENAI_API_KEY = your_openai_api_key
-
-    ```
+    
 
 
 ## Dataset Structure
