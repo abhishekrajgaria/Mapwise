@@ -81,14 +81,14 @@ Create a `.env` file in the root directory of the project. This file should cont
 
 ### Overview
 
-This `main.py` script processes map-related data for various models and generates structured responses. It supports multiple models, countries, and map types, with options to customize the input prompts and shuffle or sample the dataset.
+This `scripts/main.py` script processes queries on map data for various models and generates structured responses. It supports multiple models, countries, and map types, with options to customize the input prompts and shuffle or sample the dataset.
 
 Usage
 
 Run the script using the command line:
 
 ```bash
-python main.py --model <MODEL> --country <COUNTRY> --map_type <MAP_TYPE> --prompt <PROMPT> [--random] [--sample_size <SIZE>]
+python scripts/main.py --model <MODEL> --country <COUNTRY> --map_type <MAP_TYPE> --prompt <PROMPT> [--random] [--sample_size <SIZE>]
 ```
 ### Arguments
 

@@ -2,8 +2,12 @@ import os
 import re
 import sys
 import json
+import time
+import torch
 import argparse
 import importlib
+from tqdm import tqdm
+from utils import format_prompt
 import models.gemini.gemini_model as gemini
 import models.cog.cog_model as cog
 import models.internlm.internlm_model as internlm
@@ -32,7 +36,7 @@ def load_json_data(file_path: str) -> list:
     json_objects = json_object_pattern.findall(file_content)
     json_array = []
     # Process each JSON object
-    for json_string in json_objects:
+    for json_string in tqdm(json_objects, desc="Processing JSON objects"):
         try:
             # Parse the JSON object
             json_object = json.loads(json_string)
@@ -43,6 +47,25 @@ def load_json_data(file_path: str) -> list:
             print("JSON string was:", json_string)
 
     return json_array
+
+
+def fix_response_format(responses_json, model):
+    json_data = []
+    for obj in tqdm(json_array, desc="Fixing response format"):
+        question = obj["question"]
+        answer_format = obj["ground_truth_type"]
+        response = obj["response"]
+
+        prompt = format_prompt.format(
+            question=question, answer_format=answer_format, response=response
+        )
+        formated_response = gemini.send_request(model, prompt)
+        obj["response"] = formated_response
+        json_data.append(obj)
+        delay = REQUEST_DELAY_FREE
+        time.sleep(delay)
+
+    return json_data
 
 
 if __name__ == "__main__":
@@ -94,7 +117,7 @@ if __name__ == "__main__":
         default=-1,
         help="An optional numeric value for specifing the number of responses",
     )
-
+    torch.set_grad_enabled(False)
     args = parser.parse_args()
 
     model_name = args.model
@@ -158,10 +181,11 @@ if __name__ == "__main__":
             no_response_filename,
         )
     elif model_name == "cog":
-        model = cog.get_cog_model()
+        model, tokenizer = cog.get_cog_model()
         cog.execute_store_response(
             json_data,
             model,
+            tokenizer,
             country_name,
             prompt_type,
             response_filename,
@@ -169,10 +193,11 @@ if __name__ == "__main__":
         )
 
     elif model_name == "internlm":
-        model = internlm.get_internlm_model()
+        model, tokenizer = internlm.get_internlm_model()
         internlm.execute_store_response(
             json_data,
             model,
+            tokenizer,
             country_name,
             prompt_type,
             response_filename,
@@ -180,10 +205,11 @@ if __name__ == "__main__":
         )
 
     elif model_name == "qwen":
-        model = qwen.get_qwen_model()
+        model, tokenizer = qwen.get_qwen_model()
         qwen.execute_store_response(
             json_data,
             model,
+            tokenizer,
             country_name,
             prompt_type,
             response_filename,
@@ -191,10 +217,11 @@ if __name__ == "__main__":
         )
 
     elif model_name == "idefics":
-        model = idefics.get_idefics_model()
+        model, processor = idefics.get_idefics_model()
         idefics.execute_store_response(
             json_data,
             model,
+            processor,
             country_name,
             prompt_type,
             response_filename,
@@ -206,6 +233,15 @@ if __name__ == "__main__":
 
     json_array = load_json_data(response_filename)
     # print(json_array)
+
+    if (
+        model_name == "cog"
+        or model_name == "idefics"
+        or model_name == "internlm"
+        or model_name == "qwen"
+    ):
+        gemini_model = gemini.get_gemini_model()
+        json_array = fix_response_format(json_array, gemini_model)
 
     with open(response_filename, "w") as file:
         json.dump(json_array, file, indent=4)

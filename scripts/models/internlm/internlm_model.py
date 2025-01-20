@@ -14,14 +14,11 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../.
 from constants import *
 from prompts.prompts_for_open_models import *
 
-torch.set_grad_enabled(False)
-
-tokenizer = AutoTokenizer.from_pretrained(
-    "internlm/internlm-xcomposer2-vl-7b", trust_remote_code=True
-)
-
 
 def get_internlm_model():
+    tokenizer = AutoTokenizer.from_pretrained(
+        "internlm/internlm-xcomposer2-vl-7b", trust_remote_code=True
+    )
     model = (
         AutoModel.from_pretrained(
             "internlm/internlm-xcomposer2-vl-7b",
@@ -33,10 +30,10 @@ def get_internlm_model():
         .half()
     )
     model.tokenizer = tokenizer
-    return model
+    return model, tokenizer
 
 
-def askInternLM(model, prompt, image_path):
+def askInternLM(model, tokenizer, prompt, image_path):
     query = f"<ImageHere> {prompt}"
     image = f"{image_path}"
     with torch.amp.autocast("cuda"):
@@ -71,7 +68,7 @@ def get_open_model_prompt(country, prompt_type, question):
 
 
 def execute_store_response(
-    data, model, country, prompt_type, response_file, no_response_file
+    data, model, tokenizer, country, prompt_type, response_file, no_response_file
 ):
     cnt = 0
     print("*****************************")
@@ -90,7 +87,7 @@ def execute_store_response(
 
             prompt = get_open_model_prompt(country, prompt_type, question)
 
-            response = askInternLM(model, prompt, img_path)
+            response = askInternLM(model, tokenizer, prompt, img_path)
 
             if response:
                 obj["response"] = response

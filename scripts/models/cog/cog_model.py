@@ -13,9 +13,8 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../.
 from constants import *
 from prompts.prompts_for_open_models import *
 
-torch.set_grad_enabled(False)
+
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-tokenizer = LlamaTokenizer.from_pretrained("lmsys/vicuna-7b-v1.5")
 torch_type = torch.bfloat16
 
 
@@ -23,6 +22,7 @@ def get_cog_model():
     torch.set_grad_enabled(False)
     DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     torch_type = torch.bfloat16
+    tokenizer = LlamaTokenizer.from_pretrained("lmsys/vicuna-7b-v1.5")
 
     model = AutoModelForCausalLM.from_pretrained(
         "THUDM/cogagent-vqa-hf",
@@ -33,11 +33,11 @@ def get_cog_model():
     )
     model = model.to(DEVICE)
     model.eval()
-    return model
+    return model, tokenizer
 
 
 def ask_cog_agent(
-    model, query, image_path, history=[], temperature=0.9, do_sample=False
+    model, tokenizer, query, image_path, history=[], temperature=0.9, do_sample=False
 ):
     """
     Get the response from the cogagent based on the given image, query, and conversation history.
@@ -110,7 +110,7 @@ def get_open_model_prompt(country, prompt_type, question):
 
 
 def execute_store_response(
-    data, model, country, prompt_type, response_file, no_response_file
+    data, model, tokenizer, country, prompt_type, response_file, no_response_file
 ):
     cnt = 0
     print("*****************************")
@@ -129,7 +129,7 @@ def execute_store_response(
 
             prompt = get_open_model_prompt(country, prompt_type, question)
 
-            response = ask_cog_agent(model, prompt, img_path)
+            response = ask_cog_agent(model, tokenizer, prompt, img_path)
 
             if response:
                 obj["response"] = response

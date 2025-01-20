@@ -15,13 +15,12 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../.
 from constants import *
 from prompts.prompts_for_open_models import *
 
-model_dir = snapshot_download("qwen/Qwen-VL", cache_dir=CACHE_DIR)
-tokenizer = AutoTokenizer.from_pretrained(model_dir, trust_remote_code=True)
-tokenizer.pad_token = "<|endoftext|>"
-tokenizer.padding_side = "left"
-
 
 def get_qwen_model():
+    model_dir = snapshot_download("qwen/Qwen-VL", cache_dir=CACHE_DIR)
+    tokenizer = AutoTokenizer.from_pretrained(model_dir, trust_remote_code=True)
+    tokenizer.pad_token = "<|endoftext|>"
+    tokenizer.padding_side = "left"
     torch_type = torch.bfloat16
     model = (
         AutoModelForCausalLM.from_pretrained(
@@ -34,10 +33,10 @@ def get_qwen_model():
         .cuda()
     )
 
-    return model
+    return model, tokenizer
 
 
-def askQwen(model, prompt_w_question, image_path):
+def askQwen(model, tokenizer, prompt_w_question, image_path):
     query = tokenizer.from_list_format(
         [
             {"image": image_path},
@@ -85,12 +84,17 @@ def get_open_model_prompt(country, prompt_type, question):
 
 
 def execute_store_response(
-    data, model, country, prompt_type, response_file, no_response_file
+    data,
+    model,
+    tokenizer,
+    country,
+    prompt_type,
+    response_file,
+    no_response_file,
 ):
     cnt = 0
     print("*****************************")
     print("Total Queries to be executed - ", len(data))
-    img1 = None
 
     no_response_file_reader = open(no_response_file, "w")
 
@@ -104,7 +108,7 @@ def execute_store_response(
 
             prompt = get_open_model_prompt(country, prompt_type, question)
 
-            response = askQwen(model, prompt, img_path)
+            response = askQwen(model, tokenizer, prompt, img_path)
 
             if response:
                 obj["response"] = response

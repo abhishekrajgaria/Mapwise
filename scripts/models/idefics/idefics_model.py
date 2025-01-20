@@ -14,13 +14,12 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../.
 from constants import *
 from prompts.prompts_for_idefics import *
 
-torch.set_grad_enabled(False)
-DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-processor = AutoProcessor.from_pretrained("HuggingFaceM4/idefics2-8b")
+DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 def get_idefics_model():
+    processor = AutoProcessor.from_pretrained("HuggingFaceM4/idefics2-8b")
     model = (
         AutoModelForVision2Seq.from_pretrained(
             "HuggingFaceM4/idefics2-8b",
@@ -33,10 +32,10 @@ def get_idefics_model():
         .cuda()
         .half()
     )
-    return model
+    return model, processor
 
 
-def askIdeFics(model, message, image_path):
+def askIdeFics(model, processor, message, image_path):
 
     img = load_image(image_path)
     prompt = processor.apply_chat_template(message, add_generation_prompt=True)
@@ -74,7 +73,7 @@ def get_idefics_model_prompt(country, prompt_type, question):
 
 
 def execute_store_response(
-    data, model, country, prompt_type, response_file, no_response_file
+    data, model, processor, country, prompt_type, response_file, no_response_file
 ):
     cnt = 0
     print("*****************************")
@@ -93,7 +92,7 @@ def execute_store_response(
 
             prompt = get_idefics_model_prompt(country, prompt_type, question)
 
-            response = askIdeFics(model, prompt, img_path)
+            response = askIdeFics(model, processor, prompt, img_path)
 
             if response:
                 obj["response"] = response
