@@ -17,3 +17,4 @@ apex
 modelscope
 tiktoken
 transformers_stream_generator
+tqdm

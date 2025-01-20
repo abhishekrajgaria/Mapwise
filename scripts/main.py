@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 import json
 import argparse
@@ -137,6 +138,9 @@ if __name__ == "__main__":
     ) as file:
         json_data = json.load(file)
 
+    if sample_size != -1:
+        json_data = json_data[:sample_size]
+
     if model_name == "gemini":
         model = gemini.get_gemini_model()
         gemini.execute_store_response(
@@ -146,7 +150,12 @@ if __name__ == "__main__":
             prompt_type,
             response_filename,
             no_response_filename,
-            sample_size,
         )
+
+    json_array = load_json_data(response_filename)
+    print(json_array)
+
+    with open(response_filename, "w") as file:
+        json.dump(json_array, file, indent=4)
 
     print("done")

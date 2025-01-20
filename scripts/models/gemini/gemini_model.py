@@ -3,6 +3,7 @@ import sys
 import time
 import json
 import PIL.Image
+from tqdm import tqdm
 from dotenv import load_dotenv
 import google.generativeai as genai
 
@@ -16,7 +17,6 @@ from prompts.prompts_for_closed_models import *
 
 def get_gemini_model():
     load_dotenv(dotenv_path=env_dir_path)
-    print(env_dir_path)
 
     genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
@@ -86,7 +86,7 @@ def get_closed_model_prompt(country, prompt_type, question):
 
 
 def execute_store_response(
-    data, model, country, prompt_type, response_file, no_response_file, sample_size=-1
+    data, model, country, prompt_type, response_file, no_response_file
 ):
     cnt = 0
     print("*****************************")
@@ -99,10 +99,9 @@ def execute_store_response(
     no_response_file_reader = open(no_response_file, "w")
 
     with open(response_file, "w") as file:
-        for ind, obj in enumerate(data):
+        for ind, obj in enumerate(tqdm(data, desc="Processing items")):
 
             cnt += 1
-            print(ind)
 
             question = obj["question"]
             img = PIL.Image.open(obj["map_path"])
@@ -127,8 +126,6 @@ def execute_store_response(
             delay = REQUEST_DELAY_FREE
 
             time.sleep(delay)
-            if cnt == sample_size:
-                break
 
     no_response_file_reader.close()
 
