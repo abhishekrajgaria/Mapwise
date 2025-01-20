@@ -106,7 +106,7 @@ python scripts/main.py --model <MODEL> --country <COUNTRY> --map_type <MAP_TYPE>
 
 ### `csv_to_json.py`
 
-Our original question answer data was captured and stored in csv format, but for efficient use and consistency we convert it to a json array format. (We recommend directly using the json data only)\
+Our original question answer data was captured and stored in csv format, but for efficient use and consistency we convert it to a json array format. (**We recommend directly using the json data only**)\
 It takes two parameters --country and --map_type \
 country could be {'usa', 'india', 'china', 'orgs', 'jumb', 'shuff','img'}
 - orgs - original maps with annotation from usa dataset which are used to create counterfactual maps.
