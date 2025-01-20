@@ -88,7 +88,7 @@ Usage
 Run the script using the command line:
 
 ```bash
-python scripts/main.py --model <MODEL> --country <COUNTRY> --map_type <MAP_TYPE> --prompt <PROMPT> [--random] [--sample_size <SIZE>]
+python scripts/main.py --model <model_name> --country <country_name> --map_type <map_type> --prompt <prompt_type> [--random] [--sample_size <size>]
 ```
 ### Arguments
 
@@ -101,8 +101,34 @@ python scripts/main.py --model <MODEL> --country <COUNTRY> --map_type <MAP_TYPE>
 | `--random`     | Flag   | No       | None                                                                                         | Shuffles the dataset if specified.                                                           |
 | `--sample_size`| Int    | No       | Any positive integer                                                                         | Limits the number of records to process. Default is `-1` (process all records).              |
 
-    
-## Scripts
+
+## Evaluating Model Responses
+
+### Overview
+This script is designed to evaluate model responses based on various parameters like the model name, country, map type, and prompt type. The responses are loaded from a structured directory and processed using a defined evaluation function.
+
+Usage
+
+Run the script from the command line with the required arguments to specify the model, country, map type, and evaluation options.
+
+```bash
+python evaluate_model.py --model <model_name> --country <country_name> --map_type <map_type> --prompt <prompt_type> --c_or_d <continuous_or_discrete> --r_yn <relative_or_nonrelative>
+```
+
+### Arguments
+### Arguments
+
+| Argument       | Type   | Required | Choices                                                                                       | Description                                                                                   |
+|----------------|--------|----------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| `--model`      | String | Yes      | `gemini`, `gpt4`, `cog`, `idefics`, `internlm`, `qwen`                                       | Specifies the model to evaluate.                                                             |
+| `--country`    | String | Yes      | `usa`, `india`, `china`, `orgs`, `img`, `shuff`, `jumb`                                      | Specifies the country or data category for evaluation.                                        |
+| `--map_type`   | String | Yes      | `w`, `wo`, `h`                                                                               | Specifies the type of map: `w` (with annotations), `wo` (without annotations), or `h` (hatched). |
+| `--prompt`     | String | Yes      | `d`, `cot_z`, `cot_f`, `cot_f2`, `eer`                                                      | Specifies the prompt type for generating responses.                                           |
+| `--c_or_d`     | String | No       | `y`, `n`, `_`                                                                                | Specifies if the evaluation is `y` (continuous), `n` (discrete), or `_` (default/other).      |
+| `--r_yn`       | String | No       | `y`, `n`, `_`                                                                                | Specifies if the evaluation is `y` (relative), `n` (non-relative), or `_` (default/other).    |
+
+
+## Other Scripts
 
 ### `csv_to_json.py`
 
