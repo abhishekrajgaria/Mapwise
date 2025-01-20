@@ -8,6 +8,7 @@ import models.gemini.gemini_model as gemini
 import models.cog.cog_model as cog
 import models.internlm.internlm_model as internlm
 import models.qwen.qwen_model as qwen
+import models.idefics.idefics_model as idefics
 
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
@@ -116,8 +117,10 @@ if __name__ == "__main__":
     os.makedirs(responses_dir_path, exist_ok=True)
     os.makedirs(no_responses_dir_path, exist_ok=True)
 
-    response_file_dir = f"{responses_dir_path}/{country_name}/{map_type}/"
-    no_response_file_dir = f"{no_responses_dir_path}/{country_name}/{map_type}/"
+    response_file_dir = f"{responses_dir_path}/{model_name}/{country_name}/{map_type}/"
+    no_response_file_dir = (
+        f"{no_responses_dir_path}/{model_name}/{country_name}/{map_type}/"
+    )
 
     os.makedirs(response_file_dir, exist_ok=True)
     os.makedirs(no_response_file_dir, exist_ok=True)
@@ -175,6 +178,31 @@ if __name__ == "__main__":
             response_filename,
             no_response_filename,
         )
+
+    elif model_name == "qwen":
+        model = qwen.get_qwen_model()
+        qwen.execute_store_response(
+            json_data,
+            model,
+            country_name,
+            prompt_type,
+            response_filename,
+            no_response_filename,
+        )
+
+    elif model_name == "idefics":
+        model = idefics.get_idefics_model()
+        idefics.execute_store_response(
+            json_data,
+            model,
+            country_name,
+            prompt_type,
+            response_filename,
+            no_response_filename,
+        )
+    else:
+        print("Unsupported model")
+        raise Exception("Unsupported model")
 
     json_array = load_json_data(response_filename)
     # print(json_array)
