@@ -44,6 +44,7 @@ Create a `.env` file in the root directory of the project. This file should cont
     - `india/`
         - `hatched/` (55 files)
         - `metadata/` (109 files)
+        - `json_data/` (3 files)
         - `with_annotations/` (110 files)
         - `wo_annotations/` (110 files)
         - `final_india_cleaned.csv`
@@ -51,6 +52,7 @@ Create a `.env` file in the root directory of the project. This file should cont
     - `china/`
         - `hatched/` (51 files)
         - `metadata/` (100 files)
+        - `json_data/` (3 files)
         - `with_annotations/` (100 files)
         - `wo_annotations/` (100 files)
         - `final_china_cleaned.csv`
@@ -58,6 +60,7 @@ Create a `.env` file in the root directory of the project. This file should cont
     - `usa/`
         - `hatched/` (81 files)
         - `metadata/` (120 files)
+        - `json_data/` (3 files)
         - `original_maps/` (120 files)
         - `with_annotations/` (120 files)
         - `wo_annotations/` (120 files)
@@ -66,15 +69,19 @@ Create a `.env` file in the root directory of the project. This file should cont
     - `counter_factuals/`
         - `img/`
             - `img_maps/` (120 files)
+            - `json_data/` (1 files)
             - `img_data.csv`
         - `jumb/`
             - `jumb_maps/` (120 files)
+            - `json_data/` (1 files)
             - `jumb_data.csv`
         - `orgs/`
             - `orgs_maps/` (120 files)
+            - `json_data/` (1 files)
             - `orgs_data.csv`
         - `shuff/`
             - `shuff_maps/` (120 files)
+            - `json_data/` (1 files)
             - `shuff_data.csv`
 
 ## Running Models
@@ -154,3 +161,61 @@ For counterfactual maps you could choose country from {'orgs', 'jumb', 'shuff','
     python scripts/csv_to_json.py --country=shuff --map_type=w
 
     
+## Project Directory Structure
+
+```
+├── dataset/ (1 files)
+│   ├── china/ (1 files)
+│   │   ├── hatched/ (51 files)
+│   │   ├── json_data/ (3 files)
+│   │   │   └── china_hatched_maps_data.json
+│   │   │   └── china_with_annotations_maps_data.json
+│   │   │   └── china_wo_annotations_maps_data.json
+│   │   ├── metadata/ (100 files)
+│   │   ├── with_annotations/ (100 files)
+│       ├── wo_annotations/ (100 files)
+│   │   └── final_china_cleaned3.csv
+│   ├── counter_factuals/ (0 files)
+│   │   ├── img/ (1 files)
+│   │   │   ├── img_maps/ (120 files)
+│   │       ├── json_data/ (1 files)
+│   │       │   └── img_with_annotations_maps_data.json
+│   │   │   └── img_data.csv
+│   │   ├── jumb/ (1 files)
+│   │   │   ├── json_data/ (1 files)
+│   │   │   │   └── jumb_with_annotations_maps_data.json
+│   │       ├── jumb_maps/ (120 files)
+│   │   │   └── jumb_data.csv
+│   │   ├── orgs/ (1 files)
+│   │   │   ├── json_data/ (1 files)
+│   │   │   │   └── orgs_with_annotations_maps_data.json
+│   │       ├── orgs_maps/ (120 files)
+│   │   │   └── orgs_data.csv
+│       ├── shuff/ (1 files)
+│       │   ├── json_data/ (1 files)
+│       │   │   └── shuff_with_annotations_maps_data.json
+│           ├── shuff_maps/ (120 files)
+│       │   └── shuff_data.csv
+│   ├── india/ (1 files)
+│   │   ├── hatched/ (55 files)
+│   │   ├── json_data/ (3 files)
+│   │   │   └── india_hatched_maps_data.json
+│   │   │   └── india_with_annotations_maps_data.json
+│   │   │   └── india_wo_annotations_maps_data.json
+│   │   ├── metadata/ (109 files)
+│   │   ├── with_annotations/ (110 files)
+│       ├── wo_annotations/ (110 files)
+│   │   └── final_india_cleaned4.csv
+    ├── usa/ (1 files)
+    │   ├── hatched/ (81 files)
+    │   ├── json_data/ (3 files)
+    │   │   └── usa_hatched_maps_data.json
+    │   │   └── usa_with_annotations_maps_data.json
+    │   │   └── usa_wo_annotations_maps_data.json
+    │   ├── metadata/ (120 files)
+    │   ├── original_maps/ (120 files)
+    │   ├── with_annotations/ (120 files)
+        ├── wo_annotations/ (120 files)
+    │   └── final_us_cleaned8.csv
+│   └── final_template2.csv
+```
