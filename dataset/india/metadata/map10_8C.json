@@ -1,0 +1,193 @@
+{
+  "map_id": "10",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AR",
+      "value": 18.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "BH",
+      "value": 267.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "CT",
+      "value": 107.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GJ",
+      "value": 2664.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "HR",
+      "value": 1370.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "HP",
+      "value": 1649.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "JK",
+      "value": 7681.0,
+      "legend_position": 0.55
+    },
+    {
+      "region": "JH",
+      "value": 159.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "KA",
+      "value": 8020.0,
+      "legend_position": 0.57
+    },
+    {
+      "region": "KL",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 442.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "MH",
+      "value": 1503.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "MN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PB",
+      "value": 558.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "RJ",
+      "value": 14007.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "SK",
+      "value": 1.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 1.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "UP",
+      "value": 1456.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "UT",
+      "value": 400.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "WB",
+      "value": 722.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "OR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MI",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "NL",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "haline",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Wool Production (Thousand Kgs) - 2012-13"
+}

@@ -1,0 +1,290 @@
+{
+    "map_id": 20215,
+    "map_type": "Choropleth",
+    "KFF_file_name": "distribution-of-nonelderly-adults-with-employer-coverage-by-sex_2018_percent_male_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.483,
+            "legend_position": 0.13
+        },
+        {
+            "region": "AK",
+            "value": 0.508,
+            "legend_position": 0.77
+        },
+        {
+            "region": "AZ",
+            "value": 0.5,
+            "legend_position": 0.56
+        },
+        {
+            "region": "AR",
+            "value": 0.495,
+            "legend_position": 0.44
+        },
+        {
+            "region": "CA",
+            "value": 0.505,
+            "legend_position": 0.69
+        },
+        {
+            "region": "CO",
+            "value": 0.505,
+            "legend_position": 0.69
+        },
+        {
+            "region": "CT",
+            "value": 0.493,
+            "legend_position": 0.38
+        },
+        {
+            "region": "DE",
+            "value": 0.478,
+            "legend_position": 0.0
+        },
+        {
+            "region": "FL",
+            "value": 0.484,
+            "legend_position": 0.15
+        },
+        {
+            "region": "GA",
+            "value": 0.48100000000000004,
+            "legend_position": 0.08
+        },
+        {
+            "region": "HI",
+            "value": 0.502,
+            "legend_position": 0.62
+        },
+        {
+            "region": "ID",
+            "value": 0.5,
+            "legend_position": 0.56
+        },
+        {
+            "region": "IL",
+            "value": 0.502,
+            "legend_position": 0.62
+        },
+        {
+            "region": "IN",
+            "value": 0.502,
+            "legend_position": 0.62
+        },
+        {
+            "region": "IA",
+            "value": 0.506,
+            "legend_position": 0.72
+        },
+        {
+            "region": "KS",
+            "value": 0.49700000000000005,
+            "legend_position": 0.49
+        },
+        {
+            "region": "KY",
+            "value": 0.49700000000000005,
+            "legend_position": 0.49
+        },
+        {
+            "region": "LA",
+            "value": 0.485,
+            "legend_position": 0.18
+        },
+        {
+            "region": "ME",
+            "value": 0.489,
+            "legend_position": 0.28
+        },
+        {
+            "region": "MD",
+            "value": 0.485,
+            "legend_position": 0.18
+        },
+        {
+            "region": "MA",
+            "value": 0.496,
+            "legend_position": 0.46
+        },
+        {
+            "region": "MI",
+            "value": 0.498,
+            "legend_position": 0.51
+        },
+        {
+            "region": "MN",
+            "value": 0.504,
+            "legend_position": 0.67
+        },
+        {
+            "region": "MS",
+            "value": 0.479,
+            "legend_position": 0.03
+        },
+        {
+            "region": "MO",
+            "value": 0.49,
+            "legend_position": 0.31
+        },
+        {
+            "region": "MT",
+            "value": 0.495,
+            "legend_position": 0.44
+        },
+        {
+            "region": "NE",
+            "value": 0.499,
+            "legend_position": 0.54
+        },
+        {
+            "region": "NV",
+            "value": 0.504,
+            "legend_position": 0.67
+        },
+        {
+            "region": "NH",
+            "value": 0.498,
+            "legend_position": 0.51
+        },
+        {
+            "region": "NJ",
+            "value": 0.493,
+            "legend_position": 0.38
+        },
+        {
+            "region": "NM",
+            "value": 0.496,
+            "legend_position": 0.46
+        },
+        {
+            "region": "NY",
+            "value": 0.49,
+            "legend_position": 0.31
+        },
+        {
+            "region": "NC",
+            "value": 0.485,
+            "legend_position": 0.18
+        },
+        {
+            "region": "ND",
+            "value": 0.516,
+            "legend_position": 0.97
+        },
+        {
+            "region": "OH",
+            "value": 0.502,
+            "legend_position": 0.62
+        },
+        {
+            "region": "OK",
+            "value": 0.49700000000000005,
+            "legend_position": 0.49
+        },
+        {
+            "region": "OR",
+            "value": 0.499,
+            "legend_position": 0.54
+        },
+        {
+            "region": "PA",
+            "value": 0.49700000000000005,
+            "legend_position": 0.49
+        },
+        {
+            "region": "RI",
+            "value": 0.49700000000000005,
+            "legend_position": 0.49
+        },
+        {
+            "region": "SC",
+            "value": 0.48100000000000004,
+            "legend_position": 0.08
+        },
+        {
+            "region": "SD",
+            "value": 0.479,
+            "legend_position": 0.03
+        },
+        {
+            "region": "TN",
+            "value": 0.49200000000000005,
+            "legend_position": 0.36
+        },
+        {
+            "region": "TX",
+            "value": 0.495,
+            "legend_position": 0.44
+        },
+        {
+            "region": "UT",
+            "value": 0.51,
+            "legend_position": 0.82
+        },
+        {
+            "region": "VT",
+            "value": 0.478,
+            "legend_position": 0.0
+        },
+        {
+            "region": "VA",
+            "value": 0.48700000000000004,
+            "legend_position": 0.23
+        },
+        {
+            "region": "WA",
+            "value": 0.503,
+            "legend_position": 0.64
+        },
+        {
+            "region": "WV",
+            "value": 0.501,
+            "legend_position": 0.59
+        },
+        {
+            "region": "WI",
+            "value": 0.507,
+            "legend_position": 0.74
+        },
+        {
+            "region": "WY",
+            "value": 0.517,
+            "legend_position": 1.0
+        }
+    ],
+    "colormap_name": "Pinkyl",
+    "showgrid": true,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Distribution of Nonelderly Adults with Employer Coverage by Sex | KFF",
+        "font_family": "PT Sans Narrow",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0.5
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

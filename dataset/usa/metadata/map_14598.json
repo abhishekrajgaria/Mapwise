@@ -1,0 +1,401 @@
+{
+    "map_id": 14598,
+    "map_type": "Choropleth",
+    "KFF_file_name": "health-care-expenditures-per-capita-by-service-by-state-of-residence_2009_nursing-home-care_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "170-276",
+        "308-444",
+        "447-554",
+        "564-862"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 376,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AK",
+            "value": 170,
+            "class": 0,
+            "description": "170-276",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 235,
+            "class": 0,
+            "description": "170-276",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AR",
+            "value": 422,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CA",
+            "value": 308,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CO",
+            "value": 344,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 862,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 611,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 440,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "GA",
+            "value": 276,
+            "class": 0,
+            "description": "170-276",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "HI",
+            "value": 335,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ID",
+            "value": 318,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IL",
+            "value": 444,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 544,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 591,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 493,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 447,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 365,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ME",
+            "value": 534,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MD",
+            "value": 594,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MA",
+            "value": 753,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MI",
+            "value": 408,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 532,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 425,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MO",
+            "value": 478,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 395,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NE",
+            "value": 541,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 193,
+            "class": 0,
+            "description": "170-276",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NH",
+            "value": 535,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NJ",
+            "value": 564,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NM",
+            "value": 234,
+            "class": 0,
+            "description": "170-276",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NY",
+            "value": 613,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NC",
+            "value": 436,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 647,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 589,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OK",
+            "value": 380,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OR",
+            "value": 383,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 667,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "RI",
+            "value": 671,
+            "class": 3,
+            "description": "564-862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 365,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 554,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TN",
+            "value": 424,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 273,
+            "class": 0,
+            "description": "170-276",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "UT",
+            "value": 199,
+            "class": 0,
+            "description": "170-276",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VT",
+            "value": 469,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VA",
+            "value": 409,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 380,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 507,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WI",
+            "value": 509,
+            "class": 2,
+            "description": "447-554",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 349,
+            "class": 1,
+            "description": "308-444",
+            "legend_position": "legend_2"
+        }
+    ],
+    "colormap_name": "RdPu",
+    "colorscales": [
+        "rgb(255, 247, 243)",
+        "rgb(194, 164, 197)",
+        "rgb(133, 82, 151)",
+        "rgb(73, 0, 106)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Health Care Expenditures per Capita by Service by State of Residence | KFF",
+        "font_family": "Arial",
+        "font_size": 18,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0.5
+        },
+        "bordercolor": "white",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

@@ -1,0 +1,193 @@
+{
+  "map_id": "30",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 63.93,
+      "legend_position": 0.8
+    },
+    {
+      "region": "AP",
+      "value": 23.1,
+      "legend_position": 0.1
+    },
+    {
+      "region": "AR",
+      "value": 35.15,
+      "legend_position": 0.3
+    },
+    {
+      "region": "AS",
+      "value": 23.36,
+      "legend_position": 0.1
+    },
+    {
+      "region": "BH",
+      "value": 24.16,
+      "legend_position": 0.11
+    },
+    {
+      "region": "CT",
+      "value": 20.39,
+      "legend_position": 0.05
+    },
+    {
+      "region": "DD",
+      "value": 26.07,
+      "legend_position": 0.15
+    },
+    {
+      "region": "GA",
+      "value": 26.74,
+      "legend_position": 0.16
+    },
+    {
+      "region": "GJ",
+      "value": 27.67,
+      "legend_position": 0.18
+    },
+    {
+      "region": "HR",
+      "value": 28.75,
+      "legend_position": 0.19
+    },
+    {
+      "region": "HP",
+      "value": 23.71,
+      "legend_position": 0.11
+    },
+    {
+      "region": "JK",
+      "value": 29.69,
+      "legend_position": 0.21
+    },
+    {
+      "region": "JH",
+      "value": 23.79,
+      "legend_position": 0.11
+    },
+    {
+      "region": "KA",
+      "value": 26.75,
+      "legend_position": 0.16
+    },
+    {
+      "region": "KL",
+      "value": 19.24,
+      "legend_position": 0.03
+    },
+    {
+      "region": "LD",
+      "value": 26.53,
+      "legend_position": 0.16
+    },
+    {
+      "region": "MP",
+      "value": 27.16,
+      "legend_position": 0.17
+    },
+    {
+      "region": "MH",
+      "value": 24.54,
+      "legend_position": 0.12
+    },
+    {
+      "region": "MN",
+      "value": 32.46,
+      "legend_position": 0.26
+    },
+    {
+      "region": "CH",
+      "value": 75.55,
+      "legend_position": 1.0
+    },
+    {
+      "region": "PD",
+      "value": 28.15,
+      "legend_position": 0.18
+    },
+    {
+      "region": "PB",
+      "value": 23.89,
+      "legend_position": 0.11
+    },
+    {
+      "region": "RJ",
+      "value": 32.97,
+      "legend_position": 0.27
+    },
+    {
+      "region": "SK",
+      "value": 50.77,
+      "legend_position": 0.57
+    },
+    {
+      "region": "TN",
+      "value": 17.5,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TR",
+      "value": 31.92,
+      "legend_position": 0.25
+    },
+    {
+      "region": "UP",
+      "value": 25.39,
+      "legend_position": 0.14
+    },
+    {
+      "region": "UT",
+      "value": 27.45,
+      "legend_position": 0.17
+    },
+    {
+      "region": "WB",
+      "value": 23.17,
+      "legend_position": 0.1
+    },
+    {
+      "region": "OR",
+      "value": 20.17,
+      "legend_position": 0.05
+    },
+    {
+      "region": "DN",
+      "value": 39.78,
+      "legend_position": 0.38
+    },
+    {
+      "region": "ME",
+      "value": 32.04,
+      "legend_position": 0.25
+    },
+    {
+      "region": "MI",
+      "value": 48.55,
+      "legend_position": 0.53
+    },
+    {
+      "region": "NL",
+      "value": 50.05,
+      "legend_position": 0.56
+    },
+    {
+      "region": "DL",
+      "value": 53.0,
+      "legend_position": 0.61
+    }
+  ],
+  "colormap_name": "thermal",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Decadal Growth Rate Of Population (Per cent) - 1971-1981"
+}

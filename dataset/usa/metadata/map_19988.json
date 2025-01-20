@@ -1,0 +1,290 @@
+{
+    "map_id": 19988,
+    "map_type": "Choropleth",
+    "KFF_file_name": "medical-loss-ratio-mlr-rebates-in-the-large-group-market-for-consumers-and-families_2012_average-rebate-per-family_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AK",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AZ",
+            "value": 72.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "AR",
+            "value": 93.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "CA",
+            "value": 23.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "CO",
+            "value": 168.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "CT",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "DE",
+            "value": 657.0,
+            "legend_position": 0.52
+        },
+        {
+            "region": "FL",
+            "value": 51.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "GA",
+            "value": 496.0,
+            "legend_position": 0.39
+        },
+        {
+            "region": "HI",
+            "value": 59.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "ID",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "IL",
+            "value": 34.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "IN",
+            "value": 638.0,
+            "legend_position": 0.51
+        },
+        {
+            "region": "IA",
+            "value": 136.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "KS",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "KY",
+            "value": 31.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "LA",
+            "value": 30.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "ME",
+            "value": 106.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "MD",
+            "value": 113.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "MA",
+            "value": 109.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "MI",
+            "value": 340.0,
+            "legend_position": 0.27
+        },
+        {
+            "region": "MN",
+            "value": 702.0,
+            "legend_position": 0.56
+        },
+        {
+            "region": "MS",
+            "value": 85.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "MO",
+            "value": 57.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "MT",
+            "value": 475.0,
+            "legend_position": 0.38
+        },
+        {
+            "region": "NE",
+            "value": 14.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "NV",
+            "value": 224.0,
+            "legend_position": 0.18
+        },
+        {
+            "region": "NH",
+            "value": 110.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "NJ",
+            "value": 160.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "NM",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NY",
+            "value": 72.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "NC",
+            "value": 83.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "ND",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OH",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OK",
+            "value": 140.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "OR",
+            "value": 1256.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "PA",
+            "value": 37.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "RI",
+            "value": 43.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "SC",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "SD",
+            "value": 70.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "TN",
+            "value": 22.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "TX",
+            "value": 116.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "UT",
+            "value": 42.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "VT",
+            "value": 58.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "VA",
+            "value": 276.0,
+            "legend_position": 0.22
+        },
+        {
+            "region": "WA",
+            "value": 108.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "WV",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "WI",
+            "value": 58.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "WY",
+            "value": 854.0,
+            "legend_position": 0.68
+        }
+    ],
+    "colormap_name": "dense",
+    "showgrid": false,
+    "paper_bgcolor": "rgb(217, 217, 217)",
+    "title": {
+        "text": "Medical Loss Ratio (MLR) Rebates in the Large Group Market for Consumers and Families | KFF",
+        "font_family": "PT Sans Narrow",
+        "font_size": 19,
+        "position": {
+            "x": 0.06,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": -0.2,
+            "y": 0
+        },
+        "bordercolor": "black",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

@@ -1,0 +1,401 @@
+{
+    "map_id": 20773,
+    "map_type": "Choropleth",
+    "KFF_file_name": "rate-of-child-deaths-1-14-per-100000-children_1995_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "18-24",
+        "25-29",
+        "30-34",
+        "35-44"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 37,
+            "class": 3,
+            "description": "35-44",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AK",
+            "value": 41,
+            "class": 3,
+            "description": "35-44",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 32,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 38,
+            "class": 3,
+            "description": "35-44",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 24,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 23,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CT",
+            "value": 20,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "DE",
+            "value": 26,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "FL",
+            "value": 30,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 32,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 23,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ID",
+            "value": 35,
+            "class": 3,
+            "description": "35-44",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 30,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IN",
+            "value": 33,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 25,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KS",
+            "value": 27,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KY",
+            "value": 29,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "LA",
+            "value": 35,
+            "class": 3,
+            "description": "35-44",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ME",
+            "value": 23,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MD",
+            "value": 27,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MA",
+            "value": 18,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MI",
+            "value": 27,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 23,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MS",
+            "value": 42,
+            "class": 3,
+            "description": "35-44",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MO",
+            "value": 29,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": 34,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NE",
+            "value": 23,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NV",
+            "value": 32,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NH",
+            "value": 21,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NJ",
+            "value": 25,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 32,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NY",
+            "value": 25,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NC",
+            "value": 29,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 39,
+            "class": 3,
+            "description": "35-44",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 26,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 37,
+            "class": 3,
+            "description": "35-44",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 27,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 23,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "RI",
+            "value": 20,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SC",
+            "value": 34,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 22,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TN",
+            "value": 31,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 28,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "UT",
+            "value": 30,
+            "class": 2,
+            "description": "30-34",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VT",
+            "value": 23,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VA",
+            "value": 24,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WA",
+            "value": 24,
+            "class": 0,
+            "description": "18-24",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WV",
+            "value": 29,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WI",
+            "value": 25,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WY",
+            "value": 28,
+            "class": 1,
+            "description": "25-29",
+            "legend_position": "legend_2"
+        }
+    ],
+    "colormap_name": "Magma",
+    "colorscales": [
+        "rgb(0, 0, 4)",
+        "rgb(84, 84, 66)",
+        "rgb(168, 168, 128)",
+        "rgb(252, 253, 191)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Rate of Child Deaths (1-14) per 100",
+        "font_family": "Times New Roman",
+        "font_size": 18,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 1
+        },
+        "bordercolor": "black",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

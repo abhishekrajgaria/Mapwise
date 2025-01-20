@@ -1,0 +1,401 @@
+{
+    "map_id": 10121,
+    "map_type": "Choropleth",
+    "KFF_file_name": "opioid-overdose-deaths-by-type-of-opioid_2017_natural-and-semisynthetic-opioids-eg-oxycodone-hydrocodone_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "14-150",
+        "161-390",
+        "399-573",
+        "592-1,133"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 141,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AK",
+            "value": 47,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 349,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 116,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 973,
+            "class": 3,
+            "description": "592-1,133",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 254,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CT",
+            "value": 188,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "DE",
+            "value": 64,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 1133,
+            "class": 3,
+            "description": "592-1,133",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 513,
+            "class": 2,
+            "description": "399-573",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": 33,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ID",
+            "value": 55,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 494,
+            "class": 2,
+            "description": "399-573",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 390,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 95,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 74,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 399,
+            "class": 2,
+            "description": "399-573",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "LA",
+            "value": 161,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 75,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MD",
+            "value": 524,
+            "class": 2,
+            "description": "399-573",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MA",
+            "value": 254,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 510,
+            "class": 2,
+            "description": "399-573",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 150,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": 89,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MO",
+            "value": 226,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 22,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 32,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 239,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NH",
+            "value": 51,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 424,
+            "class": 2,
+            "description": "399-573",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 144,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 821,
+            "class": 3,
+            "description": "592-1,133",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 573,
+            "class": 2,
+            "description": "399-573",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 18,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 854,
+            "class": 3,
+            "description": "592-1,133",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OK",
+            "value": 226,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 124,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 564,
+            "class": 2,
+            "description": "399-573",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "RI",
+            "value": 74,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 312,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 14,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 592,
+            "class": 3,
+            "description": "592-1,133",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TX",
+            "value": 535,
+            "class": 2,
+            "description": "399-573",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "UT",
+            "value": 290,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VT",
+            "value": 27,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 336,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 250,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WV",
+            "value": 279,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WI",
+            "value": 318,
+            "class": 1,
+            "description": "161-390",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 30,
+            "class": 0,
+            "description": "14-150",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "Purples",
+    "colorscales": [
+        "rgb(252, 251, 253)",
+        "rgb(189, 167, 210)",
+        "rgb(126, 83, 167)",
+        "rgb(63, 0, 125)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Opioid Overdose Deaths by Type of Opioid | KFF",
+        "font_family": "Arial",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

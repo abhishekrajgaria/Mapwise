@@ -1,0 +1,178 @@
+{
+  "map_id": "23",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 264.7,
+      "legend_position": 0.12
+    },
+    {
+      "region": "QH",
+      "value": 63.2,
+      "legend_position": 0.02
+    },
+    {
+      "region": "GX",
+      "value": 401.5,
+      "legend_position": 0.19
+    },
+    {
+      "region": "GZ",
+      "value": 304.7,
+      "legend_position": 0.14
+    },
+    {
+      "region": "CQ",
+      "value": 414.5,
+      "legend_position": 0.2
+    },
+    {
+      "region": "BJ",
+      "value": 755.9,
+      "legend_position": 0.37
+    },
+    {
+      "region": "FJ",
+      "value": 654.6,
+      "legend_position": 0.32
+    },
+    {
+      "region": "AH",
+      "value": 521.7,
+      "legend_position": 0.25
+    },
+    {
+      "region": "GD",
+      "value": 1973.3,
+      "legend_position": 1.0
+    },
+    {
+      "region": "XZ",
+      "value": 32.5,
+      "legend_position": 0.0
+    },
+    {
+      "region": "XJ",
+      "value": 316.6,
+      "legend_position": 0.15
+    },
+    {
+      "region": "HI",
+      "value": 101.5,
+      "legend_position": 0.04
+    },
+    {
+      "region": "NX",
+      "value": 73.2,
+      "legend_position": 0.02
+    },
+    {
+      "region": "SN",
+      "value": 516.5,
+      "legend_position": 0.25
+    },
+    {
+      "region": "SX",
+      "value": 452.1,
+      "legend_position": 0.22
+    },
+    {
+      "region": "HB",
+      "value": 706.8,
+      "legend_position": 0.35
+    },
+    {
+      "region": "HN",
+      "value": 597.9,
+      "legend_position": 0.29
+    },
+    {
+      "region": "SC",
+      "value": 808.7,
+      "legend_position": 0.4
+    },
+    {
+      "region": "YN",
+      "value": 419.6,
+      "legend_position": 0.2
+    },
+    {
+      "region": "HE",
+      "value": 656.2,
+      "legend_position": 0.32
+    },
+    {
+      "region": "HA",
+      "value": 1108.9,
+      "legend_position": 0.55
+    },
+    {
+      "region": "LN",
+      "value": 665.2,
+      "legend_position": 0.33
+    },
+    {
+      "region": "SD",
+      "value": 1266.3,
+      "legend_position": 0.64
+    },
+    {
+      "region": "TJ",
+      "value": 295.5,
+      "legend_position": 0.14
+    },
+    {
+      "region": "JX",
+      "value": 465.3,
+      "legend_position": 0.22
+    },
+    {
+      "region": "JS",
+      "value": 1602.4,
+      "legend_position": 0.81
+    },
+    {
+      "region": "SH",
+      "value": 648.9,
+      "legend_position": 0.32
+    },
+    {
+      "region": "ZJ",
+      "value": 1102.7,
+      "legend_position": 0.55
+    },
+    {
+      "region": "JL",
+      "value": 334.4,
+      "legend_position": 0.16
+    },
+    {
+      "region": "NM",
+      "value": 301.5,
+      "legend_position": 0.14
+    },
+    {
+      "region": "HL",
+      "value": 450.9,
+      "legend_position": 0.22
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Tealgrn",
+  "paper_bgcolor": "lightgray",
+  "title": "Number of Employed Persons in Urban Units (10000 persons) - 2014"
+}

@@ -1,0 +1,401 @@
+{
+    "map_id": 7502,
+    "map_type": "Choropleth",
+    "KFF_file_name": "federal-medicaid-disproportionate-share-hospital-dsh-allotments_fy-2010_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "233,831-149,806,360",
+        "157,554,964-338,355,743",
+        "419,716,094-665,088,579",
+        "769,015,475-1,659,492,862"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 317692797,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AK",
+            "value": 21044894,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 104606165,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AR",
+            "value": 44567684,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CA",
+            "value": 1132587735,
+            "class": 3,
+            "description": "769,015,475-1,659,492,862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CO",
+            "value": 95566125,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CT",
+            "value": 206629461,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "DE",
+            "value": 9353286,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "FL",
+            "value": 206629461,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "GA",
+            "value": 277658339,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": 10000000,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ID",
+            "value": 16982360,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IL",
+            "value": 222126671,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 220835237,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IA",
+            "value": 40686518,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "KS",
+            "value": 42617327,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "KY",
+            "value": 149806360,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "LA",
+            "value": 769015475,
+            "class": 3,
+            "description": "769,015,475-1,659,492,862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ME",
+            "value": 108480467,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MD",
+            "value": 78777483,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MA",
+            "value": 315109928,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MI",
+            "value": 273784036,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 77164611,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MS",
+            "value": 157554964,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MO",
+            "value": 489453536,
+            "class": 2,
+            "description": "419,716,094-665,088,579",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 11727024,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NE",
+            "value": 29236232,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NV",
+            "value": 47783063,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NH",
+            "value": 165405357,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NJ",
+            "value": 665088579,
+            "class": 2,
+            "description": "419,716,094-665,088,579",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NM",
+            "value": 21044894,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NY",
+            "value": 1659492862,
+            "class": 3,
+            "description": "769,015,475-1,659,492,862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NC",
+            "value": 304778456,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 9868604,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OH",
+            "value": 419716094,
+            "class": 2,
+            "description": "419,716,094-665,088,579",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OK",
+            "value": 37413143,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OR",
+            "value": 46766430,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "PA",
+            "value": 579853926,
+            "class": 2,
+            "description": "419,716,094-665,088,579",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 67154574,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SC",
+            "value": 338355743,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 11410747,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TN",
+            "value": 305451928,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 987947112,
+            "class": 3,
+            "description": "769,015,475-1,659,492,862",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 20268267,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VT",
+            "value": 23245815,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VA",
+            "value": 90511529,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WA",
+            "value": 191132252,
+            "class": 1,
+            "description": "157,554,964-338,355,743",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 69737443,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WI",
+            "value": 97666330,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WY",
+            "value": 233831,
+            "class": 0,
+            "description": "233,831-149,806,360",
+            "legend_position": "legend_1"
+        }
+    ],
+    "colormap_name": "Blues",
+    "colorscales": [
+        "rgb(247, 251, 255)",
+        "rgb(167, 183, 205)",
+        "rgb(87, 115, 156)",
+        "rgb(8, 48, 107)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Federal Medicaid Disproportionate Share Hospital (DSH) Allotments | KFF",
+        "font_family": "Overpass",
+        "font_size": 18,
+        "position": {
+            "x": 0.04,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

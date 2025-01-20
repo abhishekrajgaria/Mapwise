@@ -1,0 +1,193 @@
+{
+  "map_id": "14",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 33.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 5519.0,
+      "legend_position": 0.65
+    },
+    {
+      "region": "AR",
+      "value": 68.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "AS",
+      "value": 1272.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "BH",
+      "value": 3646.0,
+      "legend_position": 0.43
+    },
+    {
+      "region": "CT",
+      "value": 1063.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "DD",
+      "value": 16.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GA",
+      "value": 351.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "GJ",
+      "value": 3807.0,
+      "legend_position": 0.45
+    },
+    {
+      "region": "HR",
+      "value": 1692.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "HP",
+      "value": 807.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "JK",
+      "value": 875.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "JH",
+      "value": 1511.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "KA",
+      "value": 5114.0,
+      "legend_position": 0.6
+    },
+    {
+      "region": "KL",
+      "value": 3609.0,
+      "legend_position": 0.43
+    },
+    {
+      "region": "LD",
+      "value": 9.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MP",
+      "value": 3560.0,
+      "legend_position": 0.42
+    },
+    {
+      "region": "MH",
+      "value": 6708.0,
+      "legend_position": 0.79
+    },
+    {
+      "region": "MN",
+      "value": 78.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "CH",
+      "value": 233.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "PD",
+      "value": 90.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PB",
+      "value": 2764.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "RJ",
+      "value": 3481.0,
+      "legend_position": 0.41
+    },
+    {
+      "region": "SK",
+      "value": 55.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "TN",
+      "value": 5021.0,
+      "legend_position": 0.59
+    },
+    {
+      "region": "TR",
+      "value": 186.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "UP",
+      "value": 8475.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "UT",
+      "value": 898.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "WB",
+      "value": 4661.0,
+      "legend_position": 0.55
+    },
+    {
+      "region": "OR",
+      "value": 2305.0,
+      "legend_position": 0.27
+    },
+    {
+      "region": "DN",
+      "value": 12.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "ME",
+      "value": 185.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "MI",
+      "value": 80.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "NL",
+      "value": 73.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "DL",
+      "value": 1712.0,
+      "legend_position": 0.2
+    }
+  ],
+  "colormap_name": "YlGnBu",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Distribution Of Offices Of Scheduled Commercial Banks (Number of Offices as at end-March) - 2005"
+}

@@ -1,0 +1,403 @@
+{
+    "map_id": 5327,
+    "map_type": "Choropleth",
+    "KFF_file_name": "marketplace-average-premiums-and-average-advanced-premium-tax-credit-aptc_open-enrollment-2021_average-aptc-among-consumers-receiving-aptcs_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "276-373",
+        "379-469",
+        "479-572",
+        "575-835",
+        "N/A"
+    ],
+    "data_type": "Number",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": 672,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AK",
+            "value": 631,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 466,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AR",
+            "value": 420,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CA",
+            "value": 443,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CO",
+            "value": 336,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CT",
+            "value": 652,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 572,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "FL",
+            "value": 527,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 511,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 543,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "IL",
+            "value": 467,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 428,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IA",
+            "value": 575,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 522,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 511,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 628,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ME",
+            "value": 459,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MD",
+            "value": 373,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MA",
+            "value": 285,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MI",
+            "value": 356,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MN",
+            "value": 276,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MS",
+            "value": 543,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MO",
+            "value": 553,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 469,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NE",
+            "value": 676,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NH",
+            "value": 328,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NJ",
+            "value": 439,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 371,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NY",
+            "value": 326,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 567,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ND",
+            "value": 420,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OH",
+            "value": 379,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 568,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 451,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 515,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 354,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SC",
+            "value": 508,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 625,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 532,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 479,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "UT",
+            "value": 349,
+            "class": 0,
+            "description": "276-373",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VT",
+            "value": 736,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 508,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 399,
+            "class": 1,
+            "description": "379-469",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 835,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 533,
+            "class": 2,
+            "description": "479-572",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 820,
+            "class": 3,
+            "description": "575-835",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "haline",
+    "colorscales": [
+        "rgb(41, 24, 107)",
+        "rgb(94, 77, 118)",
+        "rgb(147, 131, 130)",
+        "rgb(200, 184, 141)",
+        "rgb(253, 238, 153)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Marketplace Average Premiums and Average Advanced Premium Tax Credit (APTC) | KFF",
+        "font_family": "Gravitas One",
+        "font_size": 18,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "white",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

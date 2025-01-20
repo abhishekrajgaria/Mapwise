@@ -1,0 +1,401 @@
+{
+    "map_id": 3689,
+    "map_type": "Choropleth",
+    "KFF_file_name": "monthly-average-number-of-persons-participating-in-supplemental-nutrition-assistance-program-snap_fy2013_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "38,046-507,934",
+        "552,928-1,113,441",
+        "1,342,089-1,948,189",
+        "2,040,053-4,159,031"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 915322,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 91364,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 1111105,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 504621,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 4159031,
+            "class": 3,
+            "description": "2,040,053-4,159,031",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 507934,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 425320,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 153137,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 3556473,
+            "class": 3,
+            "description": "2,040,053-4,159,031",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 1948189,
+            "class": 2,
+            "description": "1,342,089-1,948,189",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": 189350,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ID",
+            "value": 227006,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 2040053,
+            "class": 3,
+            "description": "2,040,053-4,159,031",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IN",
+            "value": 926011,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 420344,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 316983,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 872439,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 940100,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 249119,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MD",
+            "value": 771021,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 887619,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 1775646,
+            "class": 2,
+            "description": "1,342,089-1,948,189",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 552928,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 668624,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MO",
+            "value": 929943,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 128531,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 179711,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 360953,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 117315,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 876266,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NM",
+            "value": 440362,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 3170465,
+            "class": 3,
+            "description": "2,040,053-4,159,031",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 1703700,
+            "class": 2,
+            "description": "1,342,089-1,948,189",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 56523,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 1824675,
+            "class": 2,
+            "description": "1,342,089-1,948,189",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 621831,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 817575,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "PA",
+            "value": 1784790,
+            "class": 2,
+            "description": "1,342,089-1,948,189",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "RI",
+            "value": 179925,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 875866,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 104052,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 1342089,
+            "class": 2,
+            "description": "1,342,089-1,948,189",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 4041891,
+            "class": 3,
+            "description": "2,040,053-4,159,031",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "UT",
+            "value": 251626,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 100541,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 940932,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 1113441,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WV",
+            "value": 350695,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 856730,
+            "class": 1,
+            "description": "552,928-1,113,441",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 38046,
+            "class": 0,
+            "description": "38,046-507,934",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "YlOrRd",
+    "colorscales": [
+        "rgb(255, 255, 204)",
+        "rgb(212, 170, 148)",
+        "rgb(170, 85, 93)",
+        "rgb(128, 0, 38)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Monthly Average Number of Persons Participating in Supplemental Nutrition Assistance Program (SNAP) | KFF",
+        "font_family": "Old Standard TT",
+        "font_size": 18,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

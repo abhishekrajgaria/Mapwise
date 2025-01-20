@@ -1,0 +1,401 @@
+{
+    "map_id": 56,
+    "map_type": "Choropleth",
+    "KFF_file_name": "difference-in-premium-tax-credits-under-the-aca-and-ahca-for-a-27-year-old_50000-income-difference-between-aca-and-ahca-tax-credits_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "-3,650",
+        "150-680",
+        "800-1,450",
+        "1,500-2,000"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 1650,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AK",
+            "value": -3650,
+            "class": 0,
+            "description": "-3,650",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 970,
+            "class": 2,
+            "description": "800-1,450",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 1950,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CO",
+            "value": 1920,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 1830,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 1980,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "GA",
+            "value": 1960,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "HI",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ID",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 1910,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IN",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IA",
+            "value": 1880,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "LA",
+            "value": 1970,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ME",
+            "value": 1860,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MD",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MA",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MI",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MN",
+            "value": 1800,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MO",
+            "value": 1900,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MT",
+            "value": 1680,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 1030,
+            "class": 2,
+            "description": "800-1,450",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 1990,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NM",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 680,
+            "class": 1,
+            "description": "150-680",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NC",
+            "value": 800,
+            "class": 2,
+            "description": "800-1,450",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ND",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OK",
+            "value": 1100,
+            "class": 2,
+            "description": "800-1,450",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 1960,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 1760,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "RI",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SD",
+            "value": 1810,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 1450,
+            "class": 2,
+            "description": "800-1,450",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 1950,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 150,
+            "class": 1,
+            "description": "150-680",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VA",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WA",
+            "value": 2000,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WV",
+            "value": 1500,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 1990,
+            "class": 3,
+            "description": "1,500-2,000",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": 1260,
+            "class": 2,
+            "description": "800-1,450",
+            "legend_position": "legend_3"
+        }
+    ],
+    "colormap_name": "BuGn",
+    "colorscales": [
+        "rgb(247, 252, 253)",
+        "rgb(164, 190, 177)",
+        "rgb(82, 129, 102)",
+        "rgb(0, 68, 27)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Difference in Premium Tax Credits under the ACA and AHCA for a 27-Year-Old | KFF",
+        "font_family": "Old Standard TT",
+        "font_size": 18,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "black",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

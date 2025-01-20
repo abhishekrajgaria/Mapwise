@@ -1,0 +1,178 @@
+{
+  "map_id": "20",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 2518.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "QH",
+      "value": 646.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GX",
+      "value": 8959.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "GZ",
+      "value": 5332.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "CQ",
+      "value": 7616.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "BJ",
+      "value": 3141.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "FJ",
+      "value": 20691.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "AH",
+      "value": 21484.0,
+      "legend_position": 0.3
+    },
+    {
+      "region": "GD",
+      "value": 70702.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "XZ",
+      "value": 190.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "XJ",
+      "value": 4381.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "HI",
+      "value": 665.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "NX",
+      "value": 1476.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "SN",
+      "value": 7772.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "SX",
+      "value": 7688.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "HB",
+      "value": 18388.0,
+      "legend_position": 0.26
+    },
+    {
+      "region": "HN",
+      "value": 19885.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "SC",
+      "value": 17523.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "YN",
+      "value": 4895.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "HE",
+      "value": 18077.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "HA",
+      "value": 23805.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "LN",
+      "value": 8923.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "SD",
+      "value": 35322.0,
+      "legend_position": 0.5
+    },
+    {
+      "region": "TJ",
+      "value": 5812.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "JX",
+      "value": 17614.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "JS",
+      "value": 61504.0,
+      "legend_position": 0.87
+    },
+    {
+      "region": "SH",
+      "value": 9432.0,
+      "legend_position": 0.13
+    },
+    {
+      "region": "ZJ",
+      "value": 56229.0,
+      "legend_position": 0.79
+    },
+    {
+      "region": "JL",
+      "value": 3216.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "NM",
+      "value": 3591.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "HL",
+      "value": 4532.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "YlGnBu",
+  "paper_bgcolor": "white",
+  "title": "Number of Industrial Enterprises above Designated Size (unit) - 2022"
+}

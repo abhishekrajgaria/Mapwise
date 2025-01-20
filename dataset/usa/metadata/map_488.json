@@ -1,0 +1,401 @@
+{
+    "map_id": 488,
+    "map_type": "Choropleth",
+    "KFF_file_name": "medicare-service-use-home-health-services_2011_home-health-visits-per-person-served_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "17-26",
+        "27-34",
+        "35-41",
+        "44-57"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 35,
+            "class": 2,
+            "description": "35-41",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 19,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 23,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AR",
+            "value": 38,
+            "class": 2,
+            "description": "35-41",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CA",
+            "value": 26,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 27,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 34,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "DE",
+            "value": 25,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "FL",
+            "value": 44,
+            "class": 3,
+            "description": "44-57",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "GA",
+            "value": 33,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": 17,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ID",
+            "value": 31,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IL",
+            "value": 33,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 34,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IA",
+            "value": 26,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "KS",
+            "value": 30,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KY",
+            "value": 34,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "LA",
+            "value": 53,
+            "class": 3,
+            "description": "44-57",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ME",
+            "value": 22,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MD",
+            "value": 22,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MA",
+            "value": 29,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MI",
+            "value": 28,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 21,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MS",
+            "value": 44,
+            "class": 3,
+            "description": "44-57",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MO",
+            "value": 25,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MT",
+            "value": 23,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NE",
+            "value": 24,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NV",
+            "value": 31,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NH",
+            "value": 25,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NJ",
+            "value": 22,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NM",
+            "value": 35,
+            "class": 2,
+            "description": "35-41",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NY",
+            "value": 34,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NC",
+            "value": 25,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ND",
+            "value": 20,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OH",
+            "value": 33,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 57,
+            "class": 3,
+            "description": "44-57",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 21,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "PA",
+            "value": 25,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "RI",
+            "value": 25,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SC",
+            "value": 26,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SD",
+            "value": 22,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TN",
+            "value": 41,
+            "class": 2,
+            "description": "35-41",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 55,
+            "class": 3,
+            "description": "44-57",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 56,
+            "class": 3,
+            "description": "44-57",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 29,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VA",
+            "value": 28,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 21,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WV",
+            "value": 28,
+            "class": 1,
+            "description": "27-34",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WI",
+            "value": 23,
+            "class": 0,
+            "description": "17-26",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WY",
+            "value": 35,
+            "class": 2,
+            "description": "35-41",
+            "legend_position": "legend_3"
+        }
+    ],
+    "colormap_name": "Hot",
+    "colorscales": [
+        "rgb(0, 0, 0)",
+        "rgb(85, 85, 85)",
+        "rgb(170, 170, 170)",
+        "rgb(255, 255, 255)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "rgb(217, 217, 217)",
+    "title": {
+        "text": "Medicare Service Use: Home Health Services | KFF",
+        "font_family": "Overpass",
+        "font_size": 19,
+        "position": {
+            "x": 0.06,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": -0.2,
+            "y": 0
+        },
+        "bordercolor": "black",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

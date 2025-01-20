@@ -1,0 +1,193 @@
+{
+  "map_id": "91",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AR",
+      "value": 20.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "AS",
+      "value": 27.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "BH",
+      "value": 176.0,
+      "legend_position": 0.36
+    },
+    {
+      "region": "CT",
+      "value": 4.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GJ",
+      "value": 18.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "HR",
+      "value": 7.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "HP",
+      "value": 3.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "JK",
+      "value": 27.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "JH",
+      "value": 43.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "KA",
+      "value": 100.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "KL",
+      "value": 56.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 19.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "MH",
+      "value": 236.0,
+      "legend_position": 0.48
+    },
+    {
+      "region": "MN",
+      "value": 23.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "CH",
+      "value": 1.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PD",
+      "value": 7.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PB",
+      "value": 4.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "RJ",
+      "value": 68.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "SK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "TN",
+      "value": 119.0,
+      "legend_position": 0.24
+    },
+    {
+      "region": "TR",
+      "value": 12.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "UP",
+      "value": 198.0,
+      "legend_position": 0.41
+    },
+    {
+      "region": "UT",
+      "value": 6.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "WB",
+      "value": 487.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "OR",
+      "value": 52.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 37.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "MI",
+      "value": 9.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "NL",
+      "value": 63.0,
+      "legend_position": 0.13
+    },
+    {
+      "region": "DL",
+      "value": 31.0,
+      "legend_position": 0.06
+    }
+  ],
+  "colormap_name": "PuRd",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Meat Production (Thousand Tonnes) - 2005-06"
+}

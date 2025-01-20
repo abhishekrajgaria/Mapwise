@@ -1,0 +1,290 @@
+{
+    "map_id": 957,
+    "map_type": "Choropleth",
+    "KFF_file_name": "adults-reporting-symptoms-of-anxiety-or-depressive-disorder-during-the-covid-19-pandemic-by-age_phase-3-11252020-1272020_ages-30-49_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.429,
+            "legend_position": 0.38
+        },
+        {
+            "region": "AK",
+            "value": 0.435,
+            "legend_position": 0.41
+        },
+        {
+            "region": "AZ",
+            "value": 0.42100000000000004,
+            "legend_position": 0.35
+        },
+        {
+            "region": "AR",
+            "value": 0.493,
+            "legend_position": 0.62
+        },
+        {
+            "region": "CA",
+            "value": 0.474,
+            "legend_position": 0.55
+        },
+        {
+            "region": "CO",
+            "value": 0.495,
+            "legend_position": 0.63
+        },
+        {
+            "region": "CT",
+            "value": 0.466,
+            "legend_position": 0.52
+        },
+        {
+            "region": "DE",
+            "value": 0.5539999999999999,
+            "legend_position": 0.85
+        },
+        {
+            "region": "FL",
+            "value": 0.445,
+            "legend_position": 0.44
+        },
+        {
+            "region": "GA",
+            "value": 0.486,
+            "legend_position": 0.6
+        },
+        {
+            "region": "HI",
+            "value": 0.55,
+            "legend_position": 0.84
+        },
+        {
+            "region": "ID",
+            "value": 0.439,
+            "legend_position": 0.42
+        },
+        {
+            "region": "IL",
+            "value": 0.49,
+            "legend_position": 0.61
+        },
+        {
+            "region": "IN",
+            "value": 0.455,
+            "legend_position": 0.48
+        },
+        {
+            "region": "IA",
+            "value": 0.37200000000000005,
+            "legend_position": 0.17
+        },
+        {
+            "region": "KS",
+            "value": 0.4,
+            "legend_position": 0.27
+        },
+        {
+            "region": "KY",
+            "value": 0.55,
+            "legend_position": 0.84
+        },
+        {
+            "region": "LA",
+            "value": 0.593,
+            "legend_position": 1.0
+        },
+        {
+            "region": "ME",
+            "value": 0.363,
+            "legend_position": 0.14
+        },
+        {
+            "region": "MD",
+            "value": 0.42200000000000004,
+            "legend_position": 0.36
+        },
+        {
+            "region": "MA",
+            "value": 0.466,
+            "legend_position": 0.52
+        },
+        {
+            "region": "MI",
+            "value": 0.409,
+            "legend_position": 0.31
+        },
+        {
+            "region": "MN",
+            "value": 0.461,
+            "legend_position": 0.5
+        },
+        {
+            "region": "MS",
+            "value": 0.573,
+            "legend_position": 0.92
+        },
+        {
+            "region": "MO",
+            "value": 0.48,
+            "legend_position": 0.58
+        },
+        {
+            "region": "MT",
+            "value": 0.508,
+            "legend_position": 0.68
+        },
+        {
+            "region": "NE",
+            "value": 0.455,
+            "legend_position": 0.48
+        },
+        {
+            "region": "NV",
+            "value": 0.483,
+            "legend_position": 0.59
+        },
+        {
+            "region": "NH",
+            "value": 0.527,
+            "legend_position": 0.75
+        },
+        {
+            "region": "NJ",
+            "value": 0.441,
+            "legend_position": 0.43
+        },
+        {
+            "region": "NM",
+            "value": 0.5589999999999999,
+            "legend_position": 0.87
+        },
+        {
+            "region": "NY",
+            "value": 0.42700000000000005,
+            "legend_position": 0.38
+        },
+        {
+            "region": "NC",
+            "value": 0.47200000000000003,
+            "legend_position": 0.55
+        },
+        {
+            "region": "ND",
+            "value": 0.436,
+            "legend_position": 0.41
+        },
+        {
+            "region": "OH",
+            "value": 0.48700000000000004,
+            "legend_position": 0.6
+        },
+        {
+            "region": "OK",
+            "value": 0.546,
+            "legend_position": 0.82
+        },
+        {
+            "region": "OR",
+            "value": 0.528,
+            "legend_position": 0.76
+        },
+        {
+            "region": "PA",
+            "value": 0.562,
+            "legend_position": 0.88
+        },
+        {
+            "region": "RI",
+            "value": 0.327,
+            "legend_position": 0.0
+        },
+        {
+            "region": "SC",
+            "value": 0.358,
+            "legend_position": 0.12
+        },
+        {
+            "region": "SD",
+            "value": 0.363,
+            "legend_position": 0.14
+        },
+        {
+            "region": "TN",
+            "value": 0.441,
+            "legend_position": 0.43
+        },
+        {
+            "region": "TX",
+            "value": 0.455,
+            "legend_position": 0.48
+        },
+        {
+            "region": "UT",
+            "value": 0.475,
+            "legend_position": 0.56
+        },
+        {
+            "region": "VT",
+            "value": 0.391,
+            "legend_position": 0.24
+        },
+        {
+            "region": "VA",
+            "value": 0.424,
+            "legend_position": 0.36
+        },
+        {
+            "region": "WA",
+            "value": 0.47600000000000003,
+            "legend_position": 0.56
+        },
+        {
+            "region": "WV",
+            "value": 0.475,
+            "legend_position": 0.56
+        },
+        {
+            "region": "WI",
+            "value": 0.38799999999999996,
+            "legend_position": 0.23
+        },
+        {
+            "region": "WY",
+            "value": 0.527,
+            "legend_position": 0.75
+        }
+    ],
+    "colormap_name": "GnBu",
+    "showgrid": true,
+    "paper_bgcolor": "rgb(217, 217, 217)",
+    "title": {
+        "text": "Adults Reporting Symptoms of Anxiety or Depressive Disorder During the COVID-19 Pandemic by Age | KFF",
+        "font_family": "Gravitas One",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

@@ -1,0 +1,399 @@
+{
+    "map_id": 8543,
+    "map_type": "Choropleth",
+    "KFF_file_name": "reported-legal-abortions-by-age-group-within-the-state-of-occurrence_total_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 3,
+    "num_symbols": 3,
+    "class_descriptions": [
+        "0%",
+        "85%-96%",
+        "97%-100%"
+    ],
+    "data_type": "Percentage",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 0.96,
+            "class": 1,
+            "description": "85%-96%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AZ",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CA",
+            "value": 0.0,
+            "class": 0,
+            "description": "0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CT",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "DE",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "FL",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": 0.96,
+            "class": 1,
+            "description": "85%-96%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IL",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IN",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KS",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 0.0,
+            "class": 0,
+            "description": "0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MD",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MN",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MO",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NE",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NH",
+            "value": 0.0,
+            "class": 0,
+            "description": "0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NJ",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NM",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NY",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NC",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ND",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OH",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OK",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "PA",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 0.96,
+            "class": 1,
+            "description": "85%-96%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SC",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 0.85,
+            "class": 1,
+            "description": "85%-96%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TN",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "UT",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VT",
+            "value": 0.95,
+            "class": 1,
+            "description": "85%-96%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VA",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WV",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WI",
+            "value": 1.0,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 0.97,
+            "class": 2,
+            "description": "97%-100%",
+            "legend_position": "legend_3"
+        }
+    ],
+    "colormap_name": "haline",
+    "colorscales": [
+        "rgb(41, 24, 107)",
+        "rgb(147, 131, 130)",
+        "rgb(253, 238, 153)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Reported Legal Abortions by Age Group Within the State of Occurrence | KFF",
+        "font_family": "Overpass",
+        "font_size": 19,
+        "position": {
+            "x": 0.04,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

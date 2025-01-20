@@ -1,0 +1,290 @@
+{
+    "map_id": 15912,
+    "map_type": "Choropleth",
+    "KFF_file_name": "population-distribution-by-raceethnicity_2013_number_asian_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 53500.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "AK",
+            "value": 35500.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "AZ",
+            "value": 186000.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "AR",
+            "value": 35000.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "CA",
+            "value": 5083300.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CO",
+            "value": 147000.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "CT",
+            "value": 141500.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "DE",
+            "value": 33700.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "FL",
+            "value": 489900.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "GA",
+            "value": 342400.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "HI",
+            "value": 509500.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "ID",
+            "value": 24700.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "IL",
+            "value": 613000.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "IN",
+            "value": 114400.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "IA",
+            "value": 58900.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "KS",
+            "value": 67100.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "KY",
+            "value": 49900.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "LA",
+            "value": 71700.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "ME",
+            "value": 12800.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "MD",
+            "value": 344600.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "MA",
+            "value": 363500.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "MI",
+            "value": 258400.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "MN",
+            "value": 235500.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "MS",
+            "value": 27400.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "MO",
+            "value": 96400.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "MT",
+            "value": 6700.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NE",
+            "value": 32200.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "NV",
+            "value": 212300.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "NH",
+            "value": 30800.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "NJ",
+            "value": 782300.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "NM",
+            "value": 25500.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NY",
+            "value": 1504300.0,
+            "legend_position": 0.3
+        },
+        {
+            "region": "NC",
+            "value": 233400.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "ND",
+            "value": 7000.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OH",
+            "value": 203100.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "OK",
+            "value": 62900.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "OR",
+            "value": 149900.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "PA",
+            "value": 364900.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "RI",
+            "value": 29800.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "SC",
+            "value": 60900.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "SD",
+            "value": 8200.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "TN",
+            "value": 93100.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "TX",
+            "value": 1065300.0,
+            "legend_position": 0.21
+        },
+        {
+            "region": "UT",
+            "value": 63400.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "VT",
+            "value": 8000.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "VA",
+            "value": 471600.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "WA",
+            "value": 525000.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "WV",
+            "value": 10000.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "WI",
+            "value": 135800.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "WY",
+            "value": 4600.0,
+            "legend_position": 0.0
+        }
+    ],
+    "colormap_name": "PuRd",
+    "showgrid": false,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Population Distribution by Race/Ethnicity | KFF",
+        "font_family": "Open Sans",
+        "font_size": 19,
+        "position": {
+            "x": 0.06,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "black",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

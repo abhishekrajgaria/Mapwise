@@ -1,0 +1,193 @@
+{
+  "map_id": "6",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 565.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "AR",
+      "value": 1046.0,
+      "legend_position": 0.74
+    },
+    {
+      "region": "AS",
+      "value": 571.0,
+      "legend_position": 0.26
+    },
+    {
+      "region": "BH",
+      "value": 710.0,
+      "legend_position": 0.4
+    },
+    {
+      "region": "CT",
+      "value": 395.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 904.0,
+      "legend_position": 0.6
+    },
+    {
+      "region": "GJ",
+      "value": 675.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "HR",
+      "value": 793.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "HP",
+      "value": 560.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "JK",
+      "value": 492.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "JH",
+      "value": 586.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "KA",
+      "value": 376.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "KL",
+      "value": 853.0,
+      "legend_position": 0.55
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 759.0,
+      "legend_position": 0.45
+    },
+    {
+      "region": "MH",
+      "value": 492.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "MN",
+      "value": 517.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 316.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PB",
+      "value": 801.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "RJ",
+      "value": 375.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "SK",
+      "value": 957.0,
+      "legend_position": 0.65
+    },
+    {
+      "region": "TN",
+      "value": 410.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "TR",
+      "value": 618.0,
+      "legend_position": 0.31
+    },
+    {
+      "region": "UP",
+      "value": 847.0,
+      "legend_position": 0.54
+    },
+    {
+      "region": "UT",
+      "value": 622.0,
+      "legend_position": 0.31
+    },
+    {
+      "region": "WB",
+      "value": 740.0,
+      "legend_position": 0.43
+    },
+    {
+      "region": "OR",
+      "value": 388.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 766.0,
+      "legend_position": 0.46
+    },
+    {
+      "region": "MI",
+      "value": 1297.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "NL",
+      "value": 797.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Pinkyl",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Estimates Of Yield - Pulses (Kg. Per Hectare) - 2004-05"
+}

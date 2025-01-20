@@ -1,0 +1,297 @@
+{
+  "map_id": "94",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "small_to_large",
+  "num_classes": 8,
+  "class_descriptions": [
+    "7,255.99 - 64,481.0",
+    "64,481.0 - 191,100.0",
+    "191,100.0 - 873,831.0",
+    "873,831.0 - 2,340,666.33",
+    "2,340,666.33 - 3,101,861.67",
+    "3,101,861.67 - 7,351,197.0",
+    "N/A",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 1784045.0,
+      "description": "873,831.0 - 2,340,666.33",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AN",
+      "value": 20491.0,
+      "description": "7,255.99 - 64,481.0",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AP",
+      "value": 3227189.0,
+      "description": "3,101,861.67 - 7,351,197.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AR",
+      "value": 64181.0,
+      "description": "7,255.99 - 64,481.0",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AS",
+      "value": 1200941.0,
+      "description": "873,831.0 - 2,340,666.33",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "BH",
+      "value": 2333830.0,
+      "description": "873,831.0 - 2,340,666.33",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "CT",
+      "value": 873831.0,
+      "description": "191,100.0 - 873,831.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "GA",
+      "value": 65081.0,
+      "description": "64,481.0 - 191,100.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GJ",
+      "value": 3361600.0,
+      "description": "3,101,861.67 - 7,351,197.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "HR",
+      "value": 2354339.0,
+      "description": "2,340,666.33 - 3,101,861.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HP",
+      "value": 469257.0,
+      "description": "191,100.0 - 873,831.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JK",
+      "value": 623411.0,
+      "description": "191,100.0 - 873,831.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JH",
+      "value": 799463.0,
+      "description": "191,100.0 - 873,831.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "KA",
+      "value": 2834979.0,
+      "description": "2,340,666.33 - 3,101,861.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "KL",
+      "value": 1656785.0,
+      "description": "873,831.0 - 2,340,666.33",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "MP",
+      "value": 3055971.0,
+      "description": "2,340,666.33 - 3,101,861.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MH",
+      "value": 4458707.0,
+      "description": "3,101,861.67 - 7,351,197.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MN",
+      "value": 95271.0,
+      "description": "64,481.0 - 191,100.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CH",
+      "value": 7256.0,
+      "description": "7,255.99 - 64,481.0",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PD",
+      "value": 26086.0,
+      "description": "7,255.99 - 64,481.0",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PB",
+      "value": 3124807.0,
+      "description": "3,101,861.67 - 7,351,197.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "RJ",
+      "value": 3035203.0,
+      "description": "2,340,666.33 - 3,101,861.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SK",
+      "value": 29900.0,
+      "description": "7,255.99 - 64,481.0",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TN",
+      "value": 2705750.0,
+      "description": "2,340,666.33 - 3,101,861.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "TR",
+      "value": 204814.0,
+      "description": "191,100.0 - 873,831.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "UP",
+      "value": 7351197.0,
+      "description": "3,101,861.67 - 7,351,197.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "UT",
+      "value": 414627.0,
+      "description": "191,100.0 - 873,831.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "WB",
+      "value": 4116824.0,
+      "description": "3,101,861.67 - 7,351,197.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "OR",
+      "value": 1534989.0,
+      "description": "873,831.0 - 2,340,666.33",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "ME",
+      "value": 119396.0,
+      "description": "64,481.0 - 191,100.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "MI",
+      "value": 38559.0,
+      "description": "7,255.99 - 64,481.0",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NL",
+      "value": 163672.0,
+      "description": "64,481.0 - 191,100.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "DL",
+      "value": 99460.0,
+      "description": "64,481.0 - 191,100.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    }
+  ],
+  "colormap_name": "Inferno",
+  "colorscales": [
+    "rgb(0, 0, 4)",
+    "rgb(65, 12, 99)",
+    "rgb(147, 38, 101)",
+    "rgb(219, 83, 57)",
+    "rgb(250, 166, 17)",
+    "rgb(252, 255, 164)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Gross State Value Added By Economic Activity - Agriculture (\u20b9 Lakh) - 2006-07",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.58,
+      "y": 0.94
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 2
+  }
+}

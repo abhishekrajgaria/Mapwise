@@ -1,0 +1,274 @@
+{
+  "map_id": "16",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "small_to_large",
+  "num_classes": 7,
+  "class_descriptions": [
+    "81.69 - 362.5",
+    "362.5 - 615.2",
+    "615.2 - 981.7",
+    "981.7 - 1,194.2",
+    "1,194.2 - 3,637.8",
+    "N/A",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 415.4,
+      "description": "362.5 - 615.2",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "QH",
+      "value": 81.7,
+      "description": "81.69 - 362.5",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GX",
+      "value": 703.4,
+      "description": "615.2 - 981.7",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "GZ",
+      "value": 584.3,
+      "description": "362.5 - 615.2",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CQ",
+      "value": 1059.5,
+      "description": "981.7 - 1,194.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "BJ",
+      "value": 1046.7,
+      "description": "981.7 - 1,194.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "FJ",
+      "value": 1149.3,
+      "description": "981.7 - 1,194.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AH",
+      "value": 1056.2,
+      "description": "981.7 - 1,194.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "GD",
+      "value": 3637.8,
+      "description": "1,194.2 - 3,637.8",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "XZ",
+      "value": 91.3,
+      "description": "81.69 - 362.5",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 334.7,
+      "description": "81.69 - 362.5",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HI",
+      "value": 177.9,
+      "description": "81.69 - 362.5",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NX",
+      "value": 152.7,
+      "description": "81.69 - 362.5",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SN",
+      "value": 518.3,
+      "description": "362.5 - 615.2",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SX",
+      "value": 553.4,
+      "description": "362.5 - 615.2",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HB",
+      "value": 1565.2,
+      "description": "1,194.2 - 3,637.8",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HN",
+      "value": 735.0,
+      "description": "615.2 - 981.7",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SC",
+      "value": 1405.9,
+      "description": "1,194.2 - 3,637.8",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "YN",
+      "value": 748.7,
+      "description": "615.2 - 981.7",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HE",
+      "value": 981.7,
+      "description": "615.2 - 981.7",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HA",
+      "value": 1174.8,
+      "description": "981.7 - 1,194.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "LN",
+      "value": 827.4,
+      "description": "615.2 - 981.7",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SD",
+      "value": 2372.7,
+      "description": "1,194.2 - 3,637.8",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "TJ",
+      "value": 209.7,
+      "description": "81.69 - 362.5",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JX",
+      "value": 898.6,
+      "description": "615.2 - 981.7",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JS",
+      "value": 3114.1,
+      "description": "1,194.2 - 3,637.8",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SH",
+      "value": 1194.2,
+      "description": "981.7 - 1,194.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "ZJ",
+      "value": 2565.7,
+      "description": "1,194.2 - 3,637.8",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "JL",
+      "value": 615.2,
+      "description": "362.5 - 615.2",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "NM",
+      "value": 525.3,
+      "description": "362.5 - 615.2",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HL",
+      "value": 362.5,
+      "description": "81.69 - 362.5",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    }
+  ],
+  "colormap_name": "RdPu",
+  "colorscales": [
+    "rgb(255, 247, 243)",
+    "rgb(252, 197, 192)",
+    "rgb(247, 104, 161)",
+    "rgb(174, 1, 126)",
+    "rgb(73, 0, 106)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Number of Engaged Persons in Private Enterprises and Self-employed Individuals (10000 persons) - 2016",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.2,
+      "y": -0.1
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 2
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "map_id": "19",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 21.9,
+      "legend_position": 0.15
+    },
+    {
+      "region": "QH",
+      "value": 5.2,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GX",
+      "value": 32.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "GZ",
+      "value": 28.1,
+      "legend_position": 0.2
+    },
+    {
+      "region": "CQ",
+      "value": 41.9,
+      "legend_position": 0.32
+    },
+    {
+      "region": "BJ",
+      "value": 19.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "FJ",
+      "value": 36.7,
+      "legend_position": 0.27
+    },
+    {
+      "region": "AH",
+      "value": 56.4,
+      "legend_position": 0.44
+    },
+    {
+      "region": "GD",
+      "value": 123.7,
+      "legend_position": 1.0
+    },
+    {
+      "region": "XZ",
+      "value": 4.2,
+      "legend_position": 0.0
+    },
+    {
+      "region": "XJ",
+      "value": 17.7,
+      "legend_position": 0.11
+    },
+    {
+      "region": "HI",
+      "value": 11.3,
+      "legend_position": 0.06
+    },
+    {
+      "region": "NX",
+      "value": 10.3,
+      "legend_position": 0.05
+    },
+    {
+      "region": "SN",
+      "value": 53.1,
+      "legend_position": 0.41
+    },
+    {
+      "region": "SX",
+      "value": 32.3,
+      "legend_position": 0.24
+    },
+    {
+      "region": "HB",
+      "value": 110.3,
+      "legend_position": 0.89
+    },
+    {
+      "region": "HN",
+      "value": 48.9,
+      "legend_position": 0.37
+    },
+    {
+      "region": "SC",
+      "value": 59.5,
+      "legend_position": 0.46
+    },
+    {
+      "region": "YN",
+      "value": 42.0,
+      "legend_position": 0.32
+    },
+    {
+      "region": "HE",
+      "value": 41.8,
+      "legend_position": 0.31
+    },
+    {
+      "region": "HA",
+      "value": 63.6,
+      "legend_position": 0.5
+    },
+    {
+      "region": "LN",
+      "value": 61.3,
+      "legend_position": 0.48
+    },
+    {
+      "region": "SD",
+      "value": 94.8,
+      "legend_position": 0.76
+    },
+    {
+      "region": "TJ",
+      "value": 6.8,
+      "legend_position": 0.02
+    },
+    {
+      "region": "JX",
+      "value": 45.4,
+      "legend_position": 0.34
+    },
+    {
+      "region": "JS",
+      "value": 97.9,
+      "legend_position": 0.78
+    },
+    {
+      "region": "SH",
+      "value": 19.2,
+      "legend_position": 0.13
+    },
+    {
+      "region": "ZJ",
+      "value": 79.8,
+      "legend_position": 0.63
+    },
+    {
+      "region": "JL",
+      "value": 41.2,
+      "legend_position": 0.31
+    },
+    {
+      "region": "NM",
+      "value": 47.9,
+      "legend_position": 0.37
+    },
+    {
+      "region": "HL",
+      "value": 45.8,
+      "legend_position": 0.35
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "BuGn",
+  "paper_bgcolor": "white",
+  "title": "Number of Engaged Persons in Private Enterprises and Self-employed Individuals, Services to Households and Other Services (10000 persons) - 2014"
+}

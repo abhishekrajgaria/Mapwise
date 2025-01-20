@@ -1,0 +1,290 @@
+{
+    "map_id": 5,
+    "map_type": "Choropleth",
+    "KFF_file_name": "distribution-of-adap-budget-by-source_currency_part-b-state-contribution_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AK",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AZ",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AR",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "CA",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "CO",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "CT",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "DE",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "FL",
+            "value": 60178486.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "GA",
+            "value": 6122198.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "HI",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "ID",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "IL",
+            "value": 200000.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "IN",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "IA",
+            "value": 33000.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "KS",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "KY",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "LA",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "ME",
+            "value": 120540.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "MD",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "MA",
+            "value": 2945617.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "MI",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "MN",
+            "value": 1156169.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "MS",
+            "value": 700000.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "MO",
+            "value": 6838809.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "MT",
+            "value": 90000.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NE",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NV",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NH",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NJ",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NM",
+            "value": 1785200.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "NY",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NC",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "ND",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OH",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OK",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OR",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "PA",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "RI",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "SC",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "SD",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "TN",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "TX",
+            "value": 16185616.0,
+            "legend_position": 0.27
+        },
+        {
+            "region": "UT",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "VT",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "VA",
+            "value": 93626.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "WA",
+            "value": 944404.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "WV",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "WI",
+            "value": 4000040.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "WY",
+            "value": 140000.0,
+            "legend_position": 0.0
+        }
+    ],
+    "colormap_name": "PuBu",
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Distribution of ADAP Budget by Source | KFF",
+        "font_family": "Droid Serif",
+        "font_size": 18,
+        "position": {
+            "x": 0.04,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0.5
+        },
+        "bordercolor": "white",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

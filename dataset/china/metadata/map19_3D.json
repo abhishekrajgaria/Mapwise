@@ -1,0 +1,275 @@
+{
+  "map_id": "19",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 7,
+  "class_descriptions": [
+    "87.4 - 184.4",
+    "56.0 - 87.4",
+    "49.8 - 56.0",
+    "43.5 - 49.8",
+    "21.0 - 43.5",
+    "6.09 - 21.0",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 29.3,
+      "description": "21.0 - 43.5",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "QH",
+      "value": 7.1,
+      "description": "6.09 - 21.0",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GX",
+      "value": 43.5,
+      "description": "21.0 - 43.5",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GZ",
+      "value": 40.5,
+      "description": "21.0 - 43.5",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CQ",
+      "value": 56.0,
+      "description": "49.8 - 56.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "BJ",
+      "value": 21.0,
+      "description": "6.09 - 21.0",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "FJ",
+      "value": 53.1,
+      "description": "49.8 - 56.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AH",
+      "value": 74.2,
+      "description": "56.0 - 87.4",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "GD",
+      "value": 184.4,
+      "description": "87.4 - 184.4",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "XZ",
+      "value": 6.1,
+      "description": "6.09 - 21.0",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 26.0,
+      "description": "21.0 - 43.5",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HI",
+      "value": 13.1,
+      "description": "6.09 - 21.0",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NX",
+      "value": 11.8,
+      "description": "6.09 - 21.0",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SN",
+      "value": 50.9,
+      "description": "49.8 - 56.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SX",
+      "value": 46.5,
+      "description": "43.5 - 49.8",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HB",
+      "value": 111.8,
+      "description": "87.4 - 184.4",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "HN",
+      "value": 47.9,
+      "description": "43.5 - 49.8",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SC",
+      "value": 77.1,
+      "description": "56.0 - 87.4",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "YN",
+      "value": 45.2,
+      "description": "43.5 - 49.8",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HE",
+      "value": 62.7,
+      "description": "56.0 - 87.4",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HA",
+      "value": 87.4,
+      "description": "87.4 - 184.4",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "LN",
+      "value": 61.0,
+      "description": "56.0 - 87.4",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SD",
+      "value": 139.3,
+      "description": "87.4 - 184.4",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "TJ",
+      "value": 9.6,
+      "description": "6.09 - 21.0",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JX",
+      "value": 51.8,
+      "description": "49.8 - 56.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "JS",
+      "value": 122.3,
+      "description": "87.4 - 184.4",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "SH",
+      "value": 21.2,
+      "description": "21.0 - 43.5",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "ZJ",
+      "value": 114.1,
+      "description": "87.4 - 184.4",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "JL",
+      "value": 49.8,
+      "description": "43.5 - 49.8",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "NM",
+      "value": 51.9,
+      "description": "49.8 - 56.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HL",
+      "value": 44.9,
+      "description": "43.5 - 49.8",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    }
+  ],
+  "colormap_name": "Peach",
+  "colorscales": [
+    "rgb(235, 74, 64)",
+    "rgb(240, 111, 79)",
+    "rgb(243, 143, 101)",
+    "rgb(247, 172, 129)",
+    "rgb(250, 199, 161)",
+    "rgb(253, 224, 197)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Number of Engaged Persons in Private Enterprises and Self-employed Individuals, Services to Households and Other Services (10000 persons) - 2016",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.7,
+      "y": -0.1
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 1
+  }
+}

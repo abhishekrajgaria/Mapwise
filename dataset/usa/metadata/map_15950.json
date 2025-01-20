@@ -1,0 +1,403 @@
+{
+    "map_id": 15950,
+    "map_type": "Choropleth",
+    "KFF_file_name": "total-monthly-medicaidchip-enrollment-and-pre-aca-enrollment_feb-2019_percent-change_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "-15%--2%",
+        "0%-23%",
+        "24%-59%",
+        "60%-117%",
+        "N/A"
+    ],
+    "data_type": "Percentage",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.1459853649,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 0.7776578874,
+            "class": 3,
+            "description": "60%-117%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 0.4157542625,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AR",
+            "value": 0.4201842144,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CA",
+            "value": 0.5323899625,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CO",
+            "value": 0.6839256081999999,
+            "class": 3,
+            "description": "60%-117%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "DE",
+            "value": 0.04230624563,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "FL",
+            "value": -0.004641293576,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 0.1954035268,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 0.1509656433,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": 0.1333865211,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IL",
+            "value": 0.07513105537999999,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IN",
+            "value": 0.3069233336,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IA",
+            "value": 0.36524320439999997,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KS",
+            "value": 0.006552781890999999,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 1.165692438,
+            "class": 3,
+            "description": "60%-117%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "LA",
+            "value": 0.5624350967,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ME",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MD",
+            "value": 0.5357872327000001,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MA",
+            "value": 0.2046138454,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 0.2325318552,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MN",
+            "value": 0.2071623293,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 0.01018428868,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MO",
+            "value": 0.06961838304,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 0.8837112516,
+            "class": 3,
+            "description": "60%-117%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NE",
+            "value": 0.01188879804,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 0.9043931922,
+            "class": 3,
+            "description": "60%-117%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NH",
+            "value": 0.4331770038,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NJ",
+            "value": 0.3457145728,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 0.5921608642,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NY",
+            "value": 0.07842256037,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NC",
+            "value": 0.09913706677999999,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ND",
+            "value": 0.2970134324,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OH",
+            "value": 0.24359697739999997,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": -0.07648746726,
+            "class": 0,
+            "description": "-15%--2%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 0.5732634476,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 0.2414069134,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "RI",
+            "value": 0.5993984269,
+            "class": 3,
+            "description": "60%-117%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SC",
+            "value": 0.18068792820000001,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": -0.036969376889999996,
+            "class": 0,
+            "description": "-15%--2%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 0.1503210887,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 0.01900439377,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "UT",
+            "value": -0.02073604985,
+            "class": 0,
+            "description": "-15%--2%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": -0.01968574816,
+            "class": 0,
+            "description": "-15%--2%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 0.33762510240000004,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 0.5544490934,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 0.46787704770000005,
+            "class": 2,
+            "description": "24%-59%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WI",
+            "value": 0.048911703439999996,
+            "class": 1,
+            "description": "0%-23%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": -0.1469830267,
+            "class": 0,
+            "description": "-15%--2%",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "Greens",
+    "colorscales": [
+        "rgb(247, 252, 245)",
+        "rgb(185, 206, 190)",
+        "rgb(123, 160, 136)",
+        "rgb(61, 114, 81)",
+        "rgb(0, 68, 27)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Total Monthly Medicaid/CHIP Enrollment and Pre-ACA Enrollment | KFF",
+        "font_family": "Times New Roman",
+        "font_size": 18,
+        "position": {
+            "x": 0.08,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

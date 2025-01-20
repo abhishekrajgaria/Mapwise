@@ -1,0 +1,271 @@
+{
+  "map_id": "1",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 5,
+  "class_descriptions": [
+    "23,512.5 - 49,617.0",
+    "17,393.0 - 23,512.5",
+    "15,156.0 - 17,393.0",
+    "9,742.99 - 15,156.0",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 13086.0,
+      "description": "9,742.99 - 15,156.0",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "QH",
+      "value": 16751.0,
+      "description": "15,156.0 - 17,393.0",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GX",
+      "value": 15013.0,
+      "description": "9,742.99 - 15,156.0",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GZ",
+      "value": 14666.0,
+      "description": "9,742.99 - 15,156.0",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "CQ",
+      "value": 21032.0,
+      "description": "17,393.0 - 23,512.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "BJ",
+      "value": 48883.0,
+      "description": "23,512.5 - 49,617.0",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "FJ",
+      "value": 23355.0,
+      "description": "17,393.0 - 23,512.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "AH",
+      "value": 15466.0,
+      "description": "15,156.0 - 17,393.0",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GD",
+      "value": 28495.0,
+      "description": "23,512.5 - 49,617.0",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "XZ",
+      "value": 9743.0,
+      "description": "9,742.99 - 15,156.0",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 15247.0,
+      "description": "15,156.0 - 17,393.0",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HI",
+      "value": 18431.0,
+      "description": "17,393.0 - 23,512.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "NX",
+      "value": 18570.0,
+      "description": "17,393.0 - 23,512.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SN",
+      "value": 16657.0,
+      "description": "15,156.0 - 17,393.0",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SX",
+      "value": 15065.0,
+      "description": "9,742.99 - 15,156.0",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HB",
+      "value": 19391.0,
+      "description": "17,393.0 - 23,512.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HN",
+      "value": 17490.0,
+      "description": "17,393.0 - 23,512.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SC",
+      "value": 16013.0,
+      "description": "15,156.0 - 17,393.0",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "YN",
+      "value": 14534.0,
+      "description": "9,742.99 - 15,156.0",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HE",
+      "value": 14328.0,
+      "description": "9,742.99 - 15,156.0",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HA",
+      "value": 16043.0,
+      "description": "15,156.0 - 17,393.0",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "LN",
+      "value": 23670.0,
+      "description": "23,512.5 - 49,617.0",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SD",
+      "value": 25860.0,
+      "description": "23,512.5 - 49,617.0",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "TJ",
+      "value": 36257.0,
+      "description": "23,512.5 - 49,617.0",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "JX",
+      "value": 16040.0,
+      "description": "15,156.0 - 17,393.0",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JS",
+      "value": 35875.0,
+      "description": "23,512.5 - 49,617.0",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SH",
+      "value": 49617.0,
+      "description": "23,512.5 - 49,617.0",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "ZJ",
+      "value": 30743.0,
+      "description": "23,512.5 - 49,617.0",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "JL",
+      "value": 13786.0,
+      "description": "9,742.99 - 15,156.0",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NM",
+      "value": 22293.0,
+      "description": "17,393.0 - 23,512.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HL",
+      "value": 17393.0,
+      "description": "15,156.0 - 17,393.0",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    }
+  ],
+  "colormap_name": "haline",
+  "colorscales": [
+    "rgb(253, 238, 153)",
+    "rgb(91, 185, 118)",
+    "rgb(31, 109, 139)",
+    "rgb(41, 24, 107)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Household Consumption Expenditure (yuan) - 2016",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.7,
+      "y": -0.1
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 2
+  }
+}

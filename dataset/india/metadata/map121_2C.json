@@ -1,0 +1,193 @@
+{
+  "map_id": "121",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 26.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 8403.0,
+      "legend_position": 0.53
+    },
+    {
+      "region": "AR",
+      "value": 17.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 1289.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "BH",
+      "value": 3356.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "CT",
+      "value": 1208.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "DD",
+      "value": 24.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GA",
+      "value": 203.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GJ",
+      "value": 7497.0,
+      "legend_position": 0.48
+    },
+    {
+      "region": "HR",
+      "value": 1773.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "HP",
+      "value": 242.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "JK",
+      "value": 858.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "JH",
+      "value": 2278.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "KA",
+      "value": 7122.0,
+      "legend_position": 0.45
+    },
+    {
+      "region": "KL",
+      "value": 3466.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 5577.0,
+      "legend_position": 0.35
+    },
+    {
+      "region": "MH",
+      "value": 15711.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 141.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "CH",
+      "value": 233.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PD",
+      "value": 198.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PB",
+      "value": 3216.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "RJ",
+      "value": 4544.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "SK",
+      "value": 20.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 12465.0,
+      "legend_position": 0.79
+    },
+    {
+      "region": "TR",
+      "value": 162.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "UP",
+      "value": 11654.0,
+      "legend_position": 0.74
+    },
+    {
+      "region": "UT",
+      "value": 735.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "WB",
+      "value": 10967.0,
+      "legend_position": 0.7
+    },
+    {
+      "region": "OR",
+      "value": 1845.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 147.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 38.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 51.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 3647.0,
+      "legend_position": 0.23
+    }
+  ],
+  "colormap_name": "matter",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Population In Urban Area (Thousands) - 1971"
+}

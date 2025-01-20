@@ -1,0 +1,401 @@
+{
+    "map_id": 584,
+    "map_type": "Choropleth",
+    "KFF_file_name": "medicare-service-use-hospital-inpatient-services_2000_acute-stays-per-1000-enrollees_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "211-257",
+        "264-314",
+        "315-354",
+        "355-425"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 405,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AK",
+            "value": 285,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AZ",
+            "value": 282,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 372,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CA",
+            "value": 298,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CO",
+            "value": 255,
+            "class": 0,
+            "description": "211-257",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 282,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "DE",
+            "value": 328,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "FL",
+            "value": 339,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "GA",
+            "value": 342,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": 211,
+            "class": 0,
+            "description": "211-257",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ID",
+            "value": 285,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IL",
+            "value": 365,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IN",
+            "value": 327,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IA",
+            "value": 332,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KS",
+            "value": 350,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KY",
+            "value": 383,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "LA",
+            "value": 420,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ME",
+            "value": 308,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MD",
+            "value": 365,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MA",
+            "value": 324,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MI",
+            "value": 327,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 284,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 425,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MO",
+            "value": 354,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": 306,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NE",
+            "value": 303,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 257,
+            "class": 0,
+            "description": "211-257",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 248,
+            "class": 0,
+            "description": "211-257",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 345,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 264,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NY",
+            "value": 315,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NC",
+            "value": 334,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 314,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OH",
+            "value": 349,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 371,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OR",
+            "value": 248,
+            "class": 0,
+            "description": "211-257",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 367,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "RI",
+            "value": 315,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SC",
+            "value": 352,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 328,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TN",
+            "value": 355,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TX",
+            "value": 348,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "UT",
+            "value": 239,
+            "class": 0,
+            "description": "211-257",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 277,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VA",
+            "value": 326,
+            "class": 2,
+            "description": "315-354",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 254,
+            "class": 0,
+            "description": "211-257",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WV",
+            "value": 379,
+            "class": 3,
+            "description": "355-425",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WI",
+            "value": 302,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 311,
+            "class": 1,
+            "description": "264-314",
+            "legend_position": "legend_3"
+        }
+    ],
+    "colormap_name": "PuBu",
+    "colorscales": [
+        "rgb(255, 247, 251)",
+        "rgb(170, 183, 196)",
+        "rgb(86, 119, 142)",
+        "rgb(2, 56, 88)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Medicare Service Use: Hospital Inpatient Services | KFF",
+        "font_family": "Droid Sans Mono",
+        "font_size": 18,
+        "position": {
+            "x": 0.04,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

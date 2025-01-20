@@ -1,0 +1,178 @@
+{
+  "map_id": "16",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 415.4,
+      "legend_position": 0.09
+    },
+    {
+      "region": "QH",
+      "value": 81.7,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GX",
+      "value": 703.4,
+      "legend_position": 0.17
+    },
+    {
+      "region": "GZ",
+      "value": 584.3,
+      "legend_position": 0.14
+    },
+    {
+      "region": "CQ",
+      "value": 1059.5,
+      "legend_position": 0.27
+    },
+    {
+      "region": "BJ",
+      "value": 1046.7,
+      "legend_position": 0.27
+    },
+    {
+      "region": "FJ",
+      "value": 1149.3,
+      "legend_position": 0.3
+    },
+    {
+      "region": "AH",
+      "value": 1056.2,
+      "legend_position": 0.27
+    },
+    {
+      "region": "GD",
+      "value": 3637.8,
+      "legend_position": 1.0
+    },
+    {
+      "region": "XZ",
+      "value": 91.3,
+      "legend_position": 0.0
+    },
+    {
+      "region": "XJ",
+      "value": 334.7,
+      "legend_position": 0.07
+    },
+    {
+      "region": "HI",
+      "value": 177.9,
+      "legend_position": 0.03
+    },
+    {
+      "region": "NX",
+      "value": 152.7,
+      "legend_position": 0.02
+    },
+    {
+      "region": "SN",
+      "value": 518.3,
+      "legend_position": 0.12
+    },
+    {
+      "region": "SX",
+      "value": 553.4,
+      "legend_position": 0.13
+    },
+    {
+      "region": "HB",
+      "value": 1565.2,
+      "legend_position": 0.42
+    },
+    {
+      "region": "HN",
+      "value": 735.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "SC",
+      "value": 1405.9,
+      "legend_position": 0.37
+    },
+    {
+      "region": "YN",
+      "value": 748.7,
+      "legend_position": 0.19
+    },
+    {
+      "region": "HE",
+      "value": 981.7,
+      "legend_position": 0.25
+    },
+    {
+      "region": "HA",
+      "value": 1174.8,
+      "legend_position": 0.31
+    },
+    {
+      "region": "LN",
+      "value": 827.4,
+      "legend_position": 0.21
+    },
+    {
+      "region": "SD",
+      "value": 2372.7,
+      "legend_position": 0.64
+    },
+    {
+      "region": "TJ",
+      "value": 209.7,
+      "legend_position": 0.04
+    },
+    {
+      "region": "JX",
+      "value": 898.6,
+      "legend_position": 0.23
+    },
+    {
+      "region": "JS",
+      "value": 3114.1,
+      "legend_position": 0.85
+    },
+    {
+      "region": "SH",
+      "value": 1194.2,
+      "legend_position": 0.31
+    },
+    {
+      "region": "ZJ",
+      "value": 2565.7,
+      "legend_position": 0.7
+    },
+    {
+      "region": "JL",
+      "value": 615.2,
+      "legend_position": 0.15
+    },
+    {
+      "region": "NM",
+      "value": 525.3,
+      "legend_position": 0.12
+    },
+    {
+      "region": "HL",
+      "value": 362.5,
+      "legend_position": 0.08
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Purpor",
+  "paper_bgcolor": "white",
+  "title": "Number of Engaged Persons in Private Enterprises and Self-employed Individuals (10000 persons) - 2016"
+}

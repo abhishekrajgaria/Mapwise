@@ -1,0 +1,290 @@
+{
+  "map_id": "166",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 4,
+  "class_descriptions": [
+    "21,803.33 - 80,248.0",
+    "7,430.33 - 21,803.33",
+    "-0.01 - 7,430.33",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AN",
+      "value": 31.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AP",
+      "value": 15051.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AR",
+      "value": 11468.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AS",
+      "value": 28349.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "BH",
+      "value": 54110.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "CT",
+      "value": 38501.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "GA",
+      "value": 155.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GJ",
+      "value": 12769.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HR",
+      "value": 5805.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HP",
+      "value": 18000.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JK",
+      "value": 14053.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JH",
+      "value": 26406.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "KA",
+      "value": 19141.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "KL",
+      "value": 3713.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "MP",
+      "value": 80248.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "MH",
+      "value": 26621.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "MN",
+      "value": 8748.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "PD",
+      "value": 0.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PB",
+      "value": 8243.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "RJ",
+      "value": 69076.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SK",
+      "value": 4184.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TN",
+      "value": 19502.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "TR",
+      "value": 4534.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "UP",
+      "value": 57090.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "UT",
+      "value": 16525.0,
+      "description": "7,430.33 - 21,803.33",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "WB",
+      "value": 35805.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "OR",
+      "value": 62192.0,
+      "description": "21,803.33 - 80,248.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "ME",
+      "value": 2910.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "MI",
+      "value": 3717.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NL",
+      "value": 3921.0,
+      "description": "-0.01 - 7,430.33",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    }
+  ],
+  "colormap_name": "Plotly3",
+  "colorscales": [
+    "rgb(254, 195, 254)",
+    "rgb(221, 43, 253)",
+    "rgb(5, 8, 184)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Road Constructed Under Pmgsy* (Km) - 2020-21",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.66,
+      "y": 0.94
+    },
+    "font_size": 16,
+    "bordercolor": "black",
+    "borderwidth": 2
+  }
+}

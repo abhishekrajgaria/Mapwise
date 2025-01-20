@@ -1,0 +1,403 @@
+{
+    "map_id": 20202,
+    "map_type": "Choropleth",
+    "KFF_file_name": "hospital-emergency-room-visits-per-1000-population-by-ownership-type_2007_for-profit_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "1-19",
+        "21-58",
+        "59-89",
+        "92-266",
+        "N/A"
+    ],
+    "data_type": "Number",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": 121,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AK",
+            "value": 107,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 74,
+            "class": 2,
+            "description": "59-89",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AR",
+            "value": 89,
+            "class": 2,
+            "description": "59-89",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CA",
+            "value": 35,
+            "class": 1,
+            "description": "21-58",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CO",
+            "value": 59,
+            "class": 2,
+            "description": "59-89",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 3,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "FL",
+            "value": 129,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 73,
+            "class": 2,
+            "description": "59-89",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "ID",
+            "value": 40,
+            "class": 1,
+            "description": "21-58",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IL",
+            "value": 21,
+            "class": 1,
+            "description": "21-58",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IN",
+            "value": 54,
+            "class": 1,
+            "description": "21-58",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "KS",
+            "value": 47,
+            "class": 1,
+            "description": "21-58",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 70,
+            "class": 2,
+            "description": "59-89",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "LA",
+            "value": 111,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ME",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MD",
+            "value": 11,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MA",
+            "value": 31,
+            "class": 1,
+            "description": "21-58",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MN",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MS",
+            "value": 136,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MO",
+            "value": 68,
+            "class": 2,
+            "description": "59-89",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NE",
+            "value": 17,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 124,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NH",
+            "value": 44,
+            "class": 1,
+            "description": "21-58",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NJ",
+            "value": 7,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NM",
+            "value": 100,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NY",
+            "value": 1,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NC",
+            "value": 19,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ND",
+            "value": 1,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 8,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OK",
+            "value": 120,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OR",
+            "value": 16,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 34,
+            "class": 1,
+            "description": "21-58",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "SC",
+            "value": 118,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SD",
+            "value": 6,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 137,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TX",
+            "value": 101,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "UT",
+            "value": 118,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "VA",
+            "value": 92,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WA",
+            "value": 17,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WV",
+            "value": 103,
+            "class": 3,
+            "description": "92-266",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WI",
+            "value": 5,
+            "class": 0,
+            "description": "1-19",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": 58,
+            "class": 1,
+            "description": "21-58",
+            "legend_position": "legend_3"
+        }
+    ],
+    "colormap_name": "Inferno",
+    "colorscales": [
+        "rgb(0, 0, 4)",
+        "rgb(63, 63, 44)",
+        "rgb(126, 127, 84)",
+        "rgb(189, 191, 124)",
+        "rgb(252, 255, 164)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "rgb(217, 217, 217)",
+    "title": {
+        "text": "Hospital Emergency Room Visits per 1",
+        "font_family": "Gravitas One",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": -0.2,
+            "y": 0
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

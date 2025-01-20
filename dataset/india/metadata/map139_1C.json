@@ -1,0 +1,193 @@
+{
+  "map_id": "139",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 4.21,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 625.8,
+      "legend_position": 0.49
+    },
+    {
+      "region": "AR",
+      "value": 7.03,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 93.69,
+      "legend_position": 0.07
+    },
+    {
+      "region": "BH",
+      "value": 333.34,
+      "legend_position": 0.26
+    },
+    {
+      "region": "CT",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "DD",
+      "value": 7.94,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GA",
+      "value": 74.17,
+      "legend_position": 0.06
+    },
+    {
+      "region": "GJ",
+      "value": 887.4,
+      "legend_position": 0.7
+    },
+    {
+      "region": "HR",
+      "value": 355.9,
+      "legend_position": 0.28
+    },
+    {
+      "region": "HP",
+      "value": 80.67,
+      "legend_position": 0.06
+    },
+    {
+      "region": "JK",
+      "value": 113.31,
+      "legend_position": 0.09
+    },
+    {
+      "region": "JH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "KA",
+      "value": 660.85,
+      "legend_position": 0.52
+    },
+    {
+      "region": "KL",
+      "value": 387.51,
+      "legend_position": 0.31
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 260.15,
+      "legend_position": 0.2
+    },
+    {
+      "region": "MH",
+      "value": 1260.25,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 20.78,
+      "legend_position": 0.01
+    },
+    {
+      "region": "CH",
+      "value": 36.5,
+      "legend_position": 0.03
+    },
+    {
+      "region": "PD",
+      "value": 36.2,
+      "legend_position": 0.03
+    },
+    {
+      "region": "PB",
+      "value": 567.34,
+      "legend_position": 0.45
+    },
+    {
+      "region": "RJ",
+      "value": 364.38,
+      "legend_position": 0.29
+    },
+    {
+      "region": "SK",
+      "value": 7.84,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 1085.84,
+      "legend_position": 0.86
+    },
+    {
+      "region": "TR",
+      "value": 14.73,
+      "legend_position": 0.01
+    },
+    {
+      "region": "UP",
+      "value": 980.96,
+      "legend_position": 0.78
+    },
+    {
+      "region": "UT",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "WB",
+      "value": 429.25,
+      "legend_position": 0.34
+    },
+    {
+      "region": "OR",
+      "value": 156.46,
+      "legend_position": 0.12
+    },
+    {
+      "region": "DN",
+      "value": 12.26,
+      "legend_position": 0.01
+    },
+    {
+      "region": "ME",
+      "value": 8.88,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MI",
+      "value": 13.88,
+      "legend_position": 0.01
+    },
+    {
+      "region": "NL",
+      "value": 7.29,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 401.22,
+      "legend_position": 0.32
+    }
+  ],
+  "colormap_name": "Pinkyl",
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Medium & Small Scale Industries - Total Investments (\u20b9 Crore) - Second Census (1987-88)"
+}

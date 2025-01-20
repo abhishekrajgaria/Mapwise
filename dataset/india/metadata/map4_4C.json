@@ -1,0 +1,193 @@
+{
+  "map_id": "4",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 1399.0,
+      "legend_position": 0.44
+    },
+    {
+      "region": "AR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AS",
+      "value": 1.3,
+      "legend_position": 0.0
+    },
+    {
+      "region": "BH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "CT",
+      "value": 0.1,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GJ",
+      "value": 2353.6,
+      "legend_position": 0.75
+    },
+    {
+      "region": "HR",
+      "value": 455.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "HP",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "JK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "JH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "KA",
+      "value": 409.0,
+      "legend_position": 0.13
+    },
+    {
+      "region": "KL",
+      "value": 1.2,
+      "legend_position": 0.0
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 624.8,
+      "legend_position": 0.2
+    },
+    {
+      "region": "MH",
+      "value": 3146.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PB",
+      "value": 527.0,
+      "legend_position": 0.17
+    },
+    {
+      "region": "RJ",
+      "value": 302.5,
+      "legend_position": 0.1
+    },
+    {
+      "region": "SK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "TN",
+      "value": 114.5,
+      "legend_position": 0.04
+    },
+    {
+      "region": "TR",
+      "value": 1.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "UP",
+      "value": 3.6,
+      "legend_position": 0.0
+    },
+    {
+      "region": "UT",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "WB",
+      "value": 2.8,
+      "legend_position": 0.0
+    },
+    {
+      "region": "OR",
+      "value": 57.9,
+      "legend_position": 0.02
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 7.1,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MI",
+      "value": 0.2,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 0.1,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Tealgrn",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Area Of Non-Foodgrains - Cotton (Lintt) (Thousand Hectares) - 2008-09"
+}

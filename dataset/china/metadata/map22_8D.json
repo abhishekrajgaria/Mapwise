@@ -1,0 +1,275 @@
+{
+  "map_id": "22",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 7,
+  "class_descriptions": [
+    "1,864.59 - 3,454.27",
+    "1,218.23 - 1,864.59",
+    "936.36 - 1,218.23",
+    "567.49 - 936.36",
+    "332.77 - 567.49",
+    "58.09 - 332.77",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 567.49,
+      "description": "332.77 - 567.49",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "QH",
+      "value": 99.87,
+      "description": "58.09 - 332.77",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GX",
+      "value": 610.01,
+      "description": "567.49 - 936.36",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "GZ",
+      "value": 936.36,
+      "description": "567.49 - 936.36",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "CQ",
+      "value": 1864.59,
+      "description": "1,864.59 - 3,454.27",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "BJ",
+      "value": 580.76,
+      "description": "567.49 - 936.36",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "FJ",
+      "value": 1294.16,
+      "description": "1,218.23 - 1,864.59",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "AH",
+      "value": 3029.58,
+      "description": "1,864.59 - 3,454.27",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "GD",
+      "value": 1956.99,
+      "description": "1,864.59 - 3,454.27",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "XZ",
+      "value": 58.1,
+      "description": "58.09 - 332.77",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 1064.02,
+      "description": "936.36 - 1,218.23",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HI",
+      "value": 288.47,
+      "description": "58.09 - 332.77",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NX",
+      "value": 332.77,
+      "description": "58.09 - 332.77",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SN",
+      "value": 487.52,
+      "description": "332.77 - 567.49",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SX",
+      "value": 431.71,
+      "description": "332.77 - 567.49",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HB",
+      "value": 1244.99,
+      "description": "1,218.23 - 1,864.59",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HN",
+      "value": 1111.98,
+      "description": "936.36 - 1,218.23",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SC",
+      "value": 1535.43,
+      "description": "1,218.23 - 1,864.59",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "YN",
+      "value": 1218.23,
+      "description": "936.36 - 1,218.23",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HE",
+      "value": 1081.72,
+      "description": "936.36 - 1,218.23",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HA",
+      "value": 1116.16,
+      "description": "936.36 - 1,218.23",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "LN",
+      "value": 1670.85,
+      "description": "1,218.23 - 1,864.59",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SD",
+      "value": 2225.5,
+      "description": "1,864.59 - 3,454.27",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "TJ",
+      "value": 122.74,
+      "description": "58.09 - 332.77",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JX",
+      "value": 918.2,
+      "description": "567.49 - 936.36",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JS",
+      "value": 3454.27,
+      "description": "1,864.59 - 3,454.27",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "SH",
+      "value": 313.18,
+      "description": "58.09 - 332.77",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "ZJ",
+      "value": 1887.92,
+      "description": "1,864.59 - 3,454.27",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "JL",
+      "value": 928.4,
+      "description": "567.49 - 936.36",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "NM",
+      "value": 534.48,
+      "description": "332.77 - 567.49",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HL",
+      "value": 416.58,
+      "description": "332.77 - 567.49",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    }
+  ],
+  "colormap_name": "Tealgrn",
+  "colorscales": [
+    "rgb(37, 125, 152)",
+    "rgb(46, 157, 161)",
+    "rgb(64, 187, 163)",
+    "rgb(92, 211, 164)",
+    "rgb(130, 229, 171)",
+    "rgb(176, 242, 188)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Land Space Purchased This Year of Enterprises for Real Estate Development (10000 sq.m) - 2014",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.0,
+      "y": -0.1
+    },
+    "font_size": 16,
+    "bordercolor": "lightgray",
+    "borderwidth": 0
+  }
+}

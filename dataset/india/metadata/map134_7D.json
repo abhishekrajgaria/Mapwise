@@ -1,0 +1,295 @@
+{
+  "map_id": "134",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "small_to_large",
+  "num_classes": 7,
+  "class_descriptions": [
+    "99.99 - 120.22",
+    "120.22 - 126.92",
+    "126.92 - 146.58",
+    "146.58 - 162.86",
+    "162.86 - 191.2",
+    "N/A",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AP",
+      "value": 123.3,
+      "description": "120.22 - 126.92",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AR",
+      "value": 131.0,
+      "description": "126.92 - 146.58",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "AS",
+      "value": 148.5,
+      "description": "146.58 - 162.86",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "BH",
+      "value": 141.7,
+      "description": "126.92 - 146.58",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "CT",
+      "value": 121.1,
+      "description": "120.22 - 126.92",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "GA",
+      "value": 124.4,
+      "description": "120.22 - 126.92",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GJ",
+      "value": 126.9,
+      "description": "120.22 - 126.92",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HR",
+      "value": 184.7,
+      "description": "162.86 - 191.2",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HP",
+      "value": 169.4,
+      "description": "162.86 - 191.2",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "JK",
+      "value": 155.6,
+      "description": "146.58 - 162.86",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "JH",
+      "value": 114.4,
+      "description": "99.99 - 120.22",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "KA",
+      "value": 121.3,
+      "description": "120.22 - 126.92",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "KL",
+      "value": 130.5,
+      "description": "126.92 - 146.58",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MP",
+      "value": 147.8,
+      "description": "146.58 - 162.86",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "MH",
+      "value": 127.0,
+      "description": "126.92 - 146.58",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "MN",
+      "value": 100.0,
+      "description": "99.99 - 120.22",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "PD",
+      "value": 151.6,
+      "description": "146.58 - 162.86",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "PB",
+      "value": 191.2,
+      "description": "162.86 - 191.2",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "RJ",
+      "value": 135.9,
+      "description": "126.92 - 146.58",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SK",
+      "value": 177.8,
+      "description": "162.86 - 191.2",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "TN",
+      "value": 118.1,
+      "description": "99.99 - 120.22",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TR",
+      "value": 184.9,
+      "description": "162.86 - 191.2",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "UP",
+      "value": 156.0,
+      "description": "146.58 - 162.86",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "UT",
+      "value": 158.5,
+      "description": "146.58 - 162.86",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "WB",
+      "value": 179.9,
+      "description": "162.86 - 191.2",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "OR",
+      "value": 113.0,
+      "description": "99.99 - 120.22",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "ME",
+      "value": 118.9,
+      "description": "99.99 - 120.22",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "MI",
+      "value": 100.0,
+      "description": "99.99 - 120.22",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NL",
+      "value": 125.0,
+      "description": "120.22 - 126.92",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    }
+  ],
+  "colormap_name": "Peach",
+  "colorscales": [
+    "rgb(253, 224, 197)",
+    "rgb(249, 192, 152)",
+    "rgb(245, 158, 114)",
+    "rgb(240, 120, 84)",
+    "rgb(235, 74, 64)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "State-Wise Pattern Of Land Use - Cropping Intensity (Per Cent) - 2011-12",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.58,
+      "y": 0.94
+    },
+    "font_size": 16,
+    "bordercolor": "lightgray",
+    "borderwidth": 0
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "map_id": "23",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "small_to_large",
+  "num_classes": 7,
+  "class_descriptions": [
+    "36.89 - 272.4",
+    "272.4 - 392.7",
+    "392.7 - 546.3",
+    "546.3 - 780.6",
+    "780.6 - 1,994.1",
+    "N/A",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 246.7,
+      "description": "36.89 - 272.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "QH",
+      "value": 62.7,
+      "description": "36.89 - 272.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GX",
+      "value": 386.8,
+      "description": "272.4 - 392.7",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GZ",
+      "value": 308.5,
+      "description": "272.4 - 392.7",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CQ",
+      "value": 391.2,
+      "description": "272.4 - 392.7",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "BJ",
+      "value": 819.3,
+      "description": "780.6 - 1,994.1",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "FJ",
+      "value": 705.4,
+      "description": "546.3 - 780.6",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AH",
+      "value": 592.3,
+      "description": "546.3 - 780.6",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "GD",
+      "value": 1994.1,
+      "description": "780.6 - 1,994.1",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "XZ",
+      "value": 36.9,
+      "description": "36.89 - 272.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 305.2,
+      "description": "272.4 - 392.7",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HI",
+      "value": 99.6,
+      "description": "36.89 - 272.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NX",
+      "value": 68.0,
+      "description": "36.89 - 272.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SN",
+      "value": 493.2,
+      "description": "392.7 - 546.3",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SX",
+      "value": 425.8,
+      "description": "392.7 - 546.3",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HB",
+      "value": 653.3,
+      "description": "546.3 - 780.6",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HN",
+      "value": 546.3,
+      "description": "392.7 - 546.3",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SC",
+      "value": 780.6,
+      "description": "546.3 - 780.6",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "YN",
+      "value": 427.0,
+      "description": "392.7 - 546.3",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HE",
+      "value": 550.3,
+      "description": "546.3 - 780.6",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HA",
+      "value": 967.3,
+      "description": "780.6 - 1,994.1",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "LN",
+      "value": 501.6,
+      "description": "392.7 - 546.3",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SD",
+      "value": 1129.0,
+      "description": "780.6 - 1,994.1",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "TJ",
+      "value": 260.0,
+      "description": "36.89 - 272.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JX",
+      "value": 435.7,
+      "description": "392.7 - 546.3",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JS",
+      "value": 1472.6,
+      "description": "780.6 - 1,994.1",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SH",
+      "value": 640.7,
+      "description": "546.3 - 780.6",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "ZJ",
+      "value": 1013.5,
+      "description": "780.6 - 1,994.1",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "JL",
+      "value": 279.3,
+      "description": "272.4 - 392.7",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "NM",
+      "value": 272.4,
+      "description": "36.89 - 272.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HL",
+      "value": 392.7,
+      "description": "272.4 - 392.7",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    }
+  ],
+  "colormap_name": "Reds",
+  "colorscales": [
+    "rgb(255, 245, 240)",
+    "rgb(252, 187, 161)",
+    "rgb(251, 106, 74)",
+    "rgb(203, 24, 29)",
+    "rgb(103, 0, 13)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Number of Employed Persons in Urban Units (10000 persons) - 2018",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.1,
+      "y": -0.1
+    },
+    "font_size": 16,
+    "bordercolor": "lightgray",
+    "borderwidth": 0
+  }
+}

@@ -1,0 +1,401 @@
+{
+    "map_id": 12430,
+    "map_type": "Choropleth",
+    "KFF_file_name": "number-of-voters-as-a-share-of-the-voter-population-by-age_november-2016_individuals-who-voted-in-thousands-ages-35-44_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "40-243",
+        "245-514",
+        "527-811",
+        "865-2,074"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 306,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 48,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 349,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 211,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 2074,
+            "class": 3,
+            "description": "865-2,074",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 514,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CT",
+            "value": 208,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 62,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 1144,
+            "class": 3,
+            "description": "865-2,074",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 672,
+            "class": 2,
+            "description": "527-811",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": 69,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ID",
+            "value": 96,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 811,
+            "class": 2,
+            "description": "527-811",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 426,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 196,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 210,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 300,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 308,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 97,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MD",
+            "value": 424,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 475,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 650,
+            "class": 2,
+            "description": "527-811",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 438,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 245,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MO",
+            "value": 418,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 77,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 131,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 186,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 102,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 566,
+            "class": 2,
+            "description": "527-811",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 94,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 1153,
+            "class": 3,
+            "description": "865-2,074",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 676,
+            "class": 2,
+            "description": "527-811",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 56,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 792,
+            "class": 2,
+            "description": "527-811",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 240,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 320,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "PA",
+            "value": 865,
+            "class": 3,
+            "description": "865-2,074",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "RI",
+            "value": 78,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 346,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 52,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 411,
+            "class": 1,
+            "description": "245-514",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 1617,
+            "class": 3,
+            "description": "865-2,074",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "UT",
+            "value": 243,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 42,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 573,
+            "class": 2,
+            "description": "527-811",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 564,
+            "class": 2,
+            "description": "527-811",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 96,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 527,
+            "class": 2,
+            "description": "527-811",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WY",
+            "value": 40,
+            "class": 0,
+            "description": "40-243",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "YlGn",
+    "colorscales": [
+        "rgb(255, 255, 229)",
+        "rgb(170, 193, 166)",
+        "rgb(85, 131, 103)",
+        "rgb(0, 69, 41)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Number of Voters as a Share of the Voter Population",
+        "font_family": "PT Sans Narrow",
+        "font_size": 19,
+        "position": {
+            "x": 0.04,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

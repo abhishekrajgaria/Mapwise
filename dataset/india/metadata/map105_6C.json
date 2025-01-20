@@ -1,0 +1,193 @@
+{
+  "map_id": "105",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 7606.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "AP",
+      "value": 44229.0,
+      "legend_position": 0.59
+    },
+    {
+      "region": "AR",
+      "value": 68847.0,
+      "legend_position": 0.92
+    },
+    {
+      "region": "AS",
+      "value": 23688.0,
+      "legend_position": 0.32
+    },
+    {
+      "region": "BH",
+      "value": 4830.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "CT",
+      "value": 56693.0,
+      "legend_position": 0.75
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 1251.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "GJ",
+      "value": 12965.0,
+      "legend_position": 0.17
+    },
+    {
+      "region": "HR",
+      "value": 964.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "HP",
+      "value": 13082.0,
+      "legend_position": 0.17
+    },
+    {
+      "region": "JK",
+      "value": 20441.0,
+      "legend_position": 0.27
+    },
+    {
+      "region": "JH",
+      "value": 21644.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "KA",
+      "value": 32467.0,
+      "legend_position": 0.43
+    },
+    {
+      "region": "KL",
+      "value": 10323.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 75137.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MH",
+      "value": 46672.0,
+      "legend_position": 0.62
+    },
+    {
+      "region": "MN",
+      "value": 17384.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "CH",
+      "value": 7.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PB",
+      "value": 1412.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "RJ",
+      "value": 13871.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "SK",
+      "value": 3118.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "TN",
+      "value": 17078.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "TR",
+      "value": 5745.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "UP",
+      "value": 10756.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "UT",
+      "value": 23260.0,
+      "legend_position": 0.31
+    },
+    {
+      "region": "WB",
+      "value": 8362.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "OR",
+      "value": 47033.0,
+      "legend_position": 0.63
+    },
+    {
+      "region": "DN",
+      "value": 202.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "ME",
+      "value": 15633.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "MI",
+      "value": 18338.0,
+      "legend_position": 0.24
+    },
+    {
+      "region": "NL",
+      "value": 14164.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "DL",
+      "value": 88.0,
+      "legend_position": 0.0
+    }
+  ],
+  "colormap_name": "YlGnBu",
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Forest Cover (Square Kilometre) - 1999"
+}

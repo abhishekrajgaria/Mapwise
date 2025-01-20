@@ -1,0 +1,290 @@
+{
+    "map_id": 18402,
+    "map_type": "Choropleth",
+    "KFF_file_name": "distribution-of-certified-nursing-facilities-by-ownership-type_2004_government-owned_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.09,
+            "legend_position": 0.27
+        },
+        {
+            "region": "AK",
+            "value": 0.25,
+            "legend_position": 0.8
+        },
+        {
+            "region": "AZ",
+            "value": 0.02,
+            "legend_position": 0.03
+        },
+        {
+            "region": "AR",
+            "value": 0.04,
+            "legend_position": 0.1
+        },
+        {
+            "region": "CA",
+            "value": 0.03,
+            "legend_position": 0.07
+        },
+        {
+            "region": "CO",
+            "value": 0.1,
+            "legend_position": 0.3
+        },
+        {
+            "region": "CT",
+            "value": 0.01,
+            "legend_position": 0.0
+        },
+        {
+            "region": "DE",
+            "value": 0.08,
+            "legend_position": 0.23
+        },
+        {
+            "region": "FL",
+            "value": 0.02,
+            "legend_position": 0.03
+        },
+        {
+            "region": "GA",
+            "value": 0.08,
+            "legend_position": 0.23
+        },
+        {
+            "region": "HI",
+            "value": 0.23,
+            "legend_position": 0.73
+        },
+        {
+            "region": "ID",
+            "value": 0.22,
+            "legend_position": 0.7
+        },
+        {
+            "region": "IL",
+            "value": 0.04,
+            "legend_position": 0.1
+        },
+        {
+            "region": "IN",
+            "value": 0.05,
+            "legend_position": 0.13
+        },
+        {
+            "region": "IA",
+            "value": 0.05,
+            "legend_position": 0.13
+        },
+        {
+            "region": "KS",
+            "value": 0.13,
+            "legend_position": 0.4
+        },
+        {
+            "region": "KY",
+            "value": 0.03,
+            "legend_position": 0.07
+        },
+        {
+            "region": "LA",
+            "value": 0.04,
+            "legend_position": 0.1
+        },
+        {
+            "region": "ME",
+            "value": 0.01,
+            "legend_position": 0.0
+        },
+        {
+            "region": "MD",
+            "value": 0.03,
+            "legend_position": 0.07
+        },
+        {
+            "region": "MA",
+            "value": 0.02,
+            "legend_position": 0.03
+        },
+        {
+            "region": "MI",
+            "value": 0.1,
+            "legend_position": 0.3
+        },
+        {
+            "region": "MN",
+            "value": 0.13,
+            "legend_position": 0.4
+        },
+        {
+            "region": "MS",
+            "value": 0.14,
+            "legend_position": 0.43
+        },
+        {
+            "region": "MO",
+            "value": 0.07,
+            "legend_position": 0.2
+        },
+        {
+            "region": "MT",
+            "value": 0.15,
+            "legend_position": 0.47
+        },
+        {
+            "region": "NE",
+            "value": 0.22,
+            "legend_position": 0.7
+        },
+        {
+            "region": "NV",
+            "value": 0.15,
+            "legend_position": 0.47
+        },
+        {
+            "region": "NH",
+            "value": 0.16,
+            "legend_position": 0.5
+        },
+        {
+            "region": "NJ",
+            "value": 0.05,
+            "legend_position": 0.13
+        },
+        {
+            "region": "NM",
+            "value": 0.05,
+            "legend_position": 0.13
+        },
+        {
+            "region": "NY",
+            "value": 0.08,
+            "legend_position": 0.23
+        },
+        {
+            "region": "NC",
+            "value": 0.04,
+            "legend_position": 0.1
+        },
+        {
+            "region": "ND",
+            "value": 0.04,
+            "legend_position": 0.1
+        },
+        {
+            "region": "OH",
+            "value": 0.03,
+            "legend_position": 0.07
+        },
+        {
+            "region": "OK",
+            "value": 0.05,
+            "legend_position": 0.13
+        },
+        {
+            "region": "OR",
+            "value": 0.04,
+            "legend_position": 0.1
+        },
+        {
+            "region": "PA",
+            "value": 0.06,
+            "legend_position": 0.17
+        },
+        {
+            "region": "RI",
+            "value": 0.01,
+            "legend_position": 0.0
+        },
+        {
+            "region": "SC",
+            "value": 0.1,
+            "legend_position": 0.3
+        },
+        {
+            "region": "SD",
+            "value": 0.05,
+            "legend_position": 0.13
+        },
+        {
+            "region": "TN",
+            "value": 0.08,
+            "legend_position": 0.23
+        },
+        {
+            "region": "TX",
+            "value": 0.03,
+            "legend_position": 0.07
+        },
+        {
+            "region": "UT",
+            "value": 0.04,
+            "legend_position": 0.1
+        },
+        {
+            "region": "VT",
+            "value": 0.03,
+            "legend_position": 0.07
+        },
+        {
+            "region": "VA",
+            "value": 0.03,
+            "legend_position": 0.07
+        },
+        {
+            "region": "WA",
+            "value": 0.08,
+            "legend_position": 0.23
+        },
+        {
+            "region": "WV",
+            "value": 0.1,
+            "legend_position": 0.3
+        },
+        {
+            "region": "WI",
+            "value": 0.16,
+            "legend_position": 0.5
+        },
+        {
+            "region": "WY",
+            "value": 0.31,
+            "legend_position": 1.0
+        }
+    ],
+    "colormap_name": "Magma",
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Distribution of Certified Nursing Facilities by Ownership Type | KFF",
+        "font_family": "Raleway",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

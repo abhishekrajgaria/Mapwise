@@ -1,0 +1,273 @@
+{
+  "map_id": "20",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 6,
+  "class_descriptions": [
+    "16,744.0 - 48,708.0",
+    "9,469.0 - 16,744.0",
+    "5,081.0 - 9,469.0",
+    "3,686.0 - 5,081.0",
+    "96.99 - 3,686.0",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 2091.0,
+      "description": "96.99 - 3,686.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "QH",
+      "value": 568.0,
+      "description": "96.99 - 3,686.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GX",
+      "value": 5447.0,
+      "description": "5,081.0 - 9,469.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "GZ",
+      "value": 3895.0,
+      "description": "3,686.0 - 5,081.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CQ",
+      "value": 6158.0,
+      "description": "5,081.0 - 9,469.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "BJ",
+      "value": 3686.0,
+      "description": "96.99 - 3,686.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "FJ",
+      "value": 16744.0,
+      "description": "9,469.0 - 16,744.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AH",
+      "value": 17762.0,
+      "description": "16,744.0 - 48,708.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "GD",
+      "value": 41133.0,
+      "description": "16,744.0 - 48,708.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "XZ",
+      "value": 97.0,
+      "description": "96.99 - 3,686.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 2477.0,
+      "description": "96.99 - 3,686.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HI",
+      "value": 382.0,
+      "description": "96.99 - 3,686.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NX",
+      "value": 1170.0,
+      "description": "96.99 - 3,686.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SN",
+      "value": 5081.0,
+      "description": "3,686.0 - 5,081.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SX",
+      "value": 3906.0,
+      "description": "3,686.0 - 5,081.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HB",
+      "value": 15957.0,
+      "description": "9,469.0 - 16,744.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HN",
+      "value": 13723.0,
+      "description": "9,469.0 - 16,744.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SC",
+      "value": 13267.0,
+      "description": "9,469.0 - 16,744.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "YN",
+      "value": 3797.0,
+      "description": "3,686.0 - 5,081.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HE",
+      "value": 14792.0,
+      "description": "9,469.0 - 16,744.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HA",
+      "value": 21748.0,
+      "description": "16,744.0 - 48,708.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "LN",
+      "value": 15707.0,
+      "description": "9,469.0 - 16,744.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SD",
+      "value": 40756.0,
+      "description": "16,744.0 - 48,708.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "TJ",
+      "value": 5501.0,
+      "description": "5,081.0 - 9,469.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JX",
+      "value": 8996.0,
+      "description": "5,081.0 - 9,469.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JS",
+      "value": 48708.0,
+      "description": "16,744.0 - 48,708.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SH",
+      "value": 9469.0,
+      "description": "5,081.0 - 9,469.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "ZJ",
+      "value": 40841.0,
+      "description": "16,744.0 - 48,708.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "JL",
+      "value": 5311.0,
+      "description": "5,081.0 - 9,469.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "NM",
+      "value": 4413.0,
+      "description": "3,686.0 - 5,081.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HL",
+      "value": 4305.0,
+      "description": "3,686.0 - 5,081.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    }
+  ],
+  "colormap_name": "Brwnyl",
+  "colorscales": [
+    "rgb(84, 31, 63)",
+    "rgb(147, 70, 90)",
+    "rgb(193, 118, 111)",
+    "rgb(218, 175, 146)",
+    "rgb(237, 229, 207)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Number of Industrial Enterprises above Designated Size (unit) - 2014",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.8,
+      "y": 0.2
+    },
+    "font_size": 16,
+    "bordercolor": "black",
+    "borderwidth": 0
+  }
+}

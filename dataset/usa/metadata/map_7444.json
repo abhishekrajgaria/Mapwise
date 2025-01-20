@@ -1,0 +1,401 @@
+{
+    "map_id": 7444,
+    "map_type": "Choropleth",
+    "KFF_file_name": "aids-diagnoses-adults-and-adolescents-by-raceethnicity_number_blackafrican-american_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "0.0-107.0",
+        "112.0-249.0",
+        "267.0-337.0",
+        "370.0-1,035.0"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 212,
+            "class": 1,
+            "description": "112.0-249.0",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 2,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 39,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AR",
+            "value": 69,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 332,
+            "class": 2,
+            "description": "267.0-337.0",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CO",
+            "value": 35,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 63,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 33,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 1035,
+            "class": 3,
+            "description": "370.0-1,035.0",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 862,
+            "class": 3,
+            "description": "370.0-1,035.0",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "HI",
+            "value": 0,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ID",
+            "value": 2,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 332,
+            "class": 2,
+            "description": "267.0-337.0",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 112,
+            "class": 1,
+            "description": "112.0-249.0",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 10,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 17,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 38,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "LA",
+            "value": 298,
+            "class": 2,
+            "description": "267.0-337.0",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ME",
+            "value": 5,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MD",
+            "value": 370,
+            "class": 3,
+            "description": "370.0-1,035.0",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MA",
+            "value": 94,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MI",
+            "value": 178,
+            "class": 1,
+            "description": "112.0-249.0",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MN",
+            "value": 67,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": 205,
+            "class": 1,
+            "description": "112.0-249.0",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MO",
+            "value": 107,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MT",
+            "value": 1,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 9,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 59,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 3,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 224,
+            "class": 1,
+            "description": "112.0-249.0",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NM",
+            "value": 7,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 592,
+            "class": 3,
+            "description": "370.0-1,035.0",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 337,
+            "class": 2,
+            "description": "267.0-337.0",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 6,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 237,
+            "class": 1,
+            "description": "112.0-249.0",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OK",
+            "value": 29,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 7,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 233,
+            "class": 1,
+            "description": "112.0-249.0",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 11,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 267,
+            "class": 2,
+            "description": "267.0-337.0",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 2,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 227,
+            "class": 1,
+            "description": "112.0-249.0",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 687,
+            "class": 3,
+            "description": "370.0-1,035.0",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "UT",
+            "value": 4,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 0,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 249,
+            "class": 1,
+            "description": "112.0-249.0",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 55,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WV",
+            "value": 4,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 29,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": 0,
+            "class": 0,
+            "description": "0.0-107.0",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "Plotly3",
+    "colorscales": [
+        "rgb(5, 8, 184)",
+        "rgb(88, 70, 207)",
+        "rgb(171, 132, 230)",
+        "rgb(254, 195, 254)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "rgb(217, 217, 217)",
+    "title": {
+        "text": "AIDS Diagnoses",
+        "font_family": "Raleway",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

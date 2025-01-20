@@ -1,0 +1,193 @@
+{
+  "map_id": "1",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 23.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 25695.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "AR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AS",
+      "value": 7684.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "BH",
+      "value": 27219.0,
+      "legend_position": 0.52
+    },
+    {
+      "region": "CT",
+      "value": 7093.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "DD",
+      "value": 30.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GA",
+      "value": 477.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GJ",
+      "value": 11835.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "HR",
+      "value": 4705.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "HP",
+      "value": 2232.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "JK",
+      "value": 2797.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "JH",
+      "value": 8937.0,
+      "legend_position": 0.17
+    },
+    {
+      "region": "KA",
+      "value": 14948.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "KL",
+      "value": 11723.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "LD",
+      "value": 21.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MP",
+      "value": 15846.0,
+      "legend_position": 0.3
+    },
+    {
+      "region": "MH",
+      "value": 22802.0,
+      "legend_position": 0.44
+    },
+    {
+      "region": "MN",
+      "value": 575.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "CH",
+      "value": 24.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PD",
+      "value": 317.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PB",
+      "value": 7171.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "RJ",
+      "value": 13015.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "SK",
+      "value": 135.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 22786.0,
+      "legend_position": 0.44
+    },
+    {
+      "region": "TR",
+      "value": 596.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "UP",
+      "value": 52049.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "UT",
+      "value": 2545.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "WB",
+      "value": 20018.0,
+      "legend_position": 0.38
+    },
+    {
+      "region": "OR",
+      "value": 14052.0,
+      "legend_position": 0.27
+    },
+    {
+      "region": "DN",
+      "value": 42.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "ME",
+      "value": 547.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 189.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 209.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 307.0,
+      "legend_position": 0.01
+    }
+  ],
+  "colormap_name": "matter",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Population In Rural Area (Thousands) - 1951"
+}

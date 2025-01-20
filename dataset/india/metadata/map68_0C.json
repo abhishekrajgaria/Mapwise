@@ -1,0 +1,193 @@
+{
+  "map_id": "68",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 198.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "AP",
+      "value": 7384.0,
+      "legend_position": 0.84
+    },
+    {
+      "region": "AR",
+      "value": 283.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "AS",
+      "value": 1539.0,
+      "legend_position": 0.17
+    },
+    {
+      "region": "BH",
+      "value": 2566.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "CT",
+      "value": 1315.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "DD",
+      "value": 45.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GA",
+      "value": 425.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "GJ",
+      "value": 4675.0,
+      "legend_position": 0.53
+    },
+    {
+      "region": "HR",
+      "value": 1721.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "HP",
+      "value": 1097.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "JK",
+      "value": 1205.0,
+      "legend_position": 0.13
+    },
+    {
+      "region": "JH",
+      "value": 1010.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "KA",
+      "value": 4042.0,
+      "legend_position": 0.46
+    },
+    {
+      "region": "KL",
+      "value": 3244.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "LD",
+      "value": 42.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MP",
+      "value": 3342.0,
+      "legend_position": 0.38
+    },
+    {
+      "region": "MH",
+      "value": 6433.0,
+      "legend_position": 0.73
+    },
+    {
+      "region": "MN",
+      "value": 332.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "CH",
+      "value": 225.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "PD",
+      "value": 300.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "PB",
+      "value": 2047.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "RJ",
+      "value": 3939.0,
+      "legend_position": 0.45
+    },
+    {
+      "region": "SK",
+      "value": 245.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "TN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "TR",
+      "value": 318.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "UP",
+      "value": 8798.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "UT",
+      "value": 966.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "WB",
+      "value": 4096.0,
+      "legend_position": 0.46
+    },
+    {
+      "region": "OR",
+      "value": 1810.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "DN",
+      "value": 57.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "ME",
+      "value": 399.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "MI",
+      "value": 225.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "NL",
+      "value": 376.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "DL",
+      "value": 2734.0,
+      "legend_position": 0.31
+    }
+  ],
+  "colormap_name": "tempo",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Public Expenditure On Health (\u20b9 Crore) - 2012-13"
+}

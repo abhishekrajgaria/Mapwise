@@ -1,0 +1,290 @@
+{
+    "map_id": 6617,
+    "map_type": "Choropleth",
+    "KFF_file_name": "medicare-advantage-percent-of-beneficiaries-with-access-to-plans-by-plan-type_2018_any-plan_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "CA",
+            "value": 0.9651,
+            "legend_position": 0.97
+        },
+        {
+            "region": "CO",
+            "value": 0.9989,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CT",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "DE",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "FL",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "GA",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "HI",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "IA",
+            "value": 0.9974,
+            "legend_position": 1.0
+        },
+        {
+            "region": "ID",
+            "value": 0.9209,
+            "legend_position": 0.92
+        },
+        {
+            "region": "IL",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "IN",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "KS",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "KY",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "LA",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "MA",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "MD",
+            "value": 0.9674,
+            "legend_position": 0.97
+        },
+        {
+            "region": "ME",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "MI",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "MN",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "MO",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "MS",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "MT",
+            "value": 0.9396,
+            "legend_position": 0.94
+        },
+        {
+            "region": "NC",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "ND",
+            "value": 0.9644,
+            "legend_position": 0.96
+        },
+        {
+            "region": "NE",
+            "value": 0.8772,
+            "legend_position": 0.88
+        },
+        {
+            "region": "NH",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "NJ",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "NM",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "NV",
+            "value": 0.9717,
+            "legend_position": 0.97
+        },
+        {
+            "region": "NY",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "OH",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "OK",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "OR",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "PA",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "RI",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "SC",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "SD",
+            "value": 0.9981,
+            "legend_position": 1.0
+        },
+        {
+            "region": "AK",
+            "value": 0.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "TN",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "TX",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "UT",
+            "value": 0.9521,
+            "legend_position": 0.95
+        },
+        {
+            "region": "VA",
+            "value": 0.9989,
+            "legend_position": 1.0
+        },
+        {
+            "region": "VT",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "WA",
+            "value": 0.9042,
+            "legend_position": 0.9
+        },
+        {
+            "region": "WI",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "WV",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "WY",
+            "value": 0.4161,
+            "legend_position": 0.42
+        },
+        {
+            "region": "AL",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "AR",
+            "value": 1.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "AZ",
+            "value": 1.0,
+            "legend_position": 1.0
+        }
+    ],
+    "colormap_name": "deep",
+    "showgrid": false,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Medicare Advantage: Percent of Beneficiaries with Access to Plans",
+        "font_family": "Overpass",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 1
+        },
+        "bordercolor": "white",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

@@ -1,0 +1,193 @@
+{
+  "map_id": "7",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 92.0,
+      "legend_position": 0.13
+    },
+    {
+      "region": "AR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AS",
+      "value": 300.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "BH",
+      "value": 208.0,
+      "legend_position": 0.62
+    },
+    {
+      "region": "CT",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GJ",
+      "value": 112.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "HR",
+      "value": 127.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "HP",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "JK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "JH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "KA",
+      "value": 133.0,
+      "legend_position": 0.3
+    },
+    {
+      "region": "KL",
+      "value": 61.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 221.0,
+      "legend_position": 0.67
+    },
+    {
+      "region": "MH",
+      "value": 68.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "MN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PB",
+      "value": 141.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "RJ",
+      "value": 244.0,
+      "legend_position": 0.77
+    },
+    {
+      "region": "SK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "TN",
+      "value": 79.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "TR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "UP",
+      "value": 285.0,
+      "legend_position": 0.94
+    },
+    {
+      "region": "UT",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "WB",
+      "value": 113.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "OR",
+      "value": 222.0,
+      "legend_position": 0.67
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MI",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "NL",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "GnBu",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Maternal Mortality Ratio TABLE 12: STATE-WISE MATERNAL MORTALITY RATIO - 2011-13"
+}

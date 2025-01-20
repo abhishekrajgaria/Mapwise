@@ -1,0 +1,272 @@
+{
+  "map_id": "5",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "small_to_large",
+  "num_classes": 6,
+  "class_descriptions": [
+    "4.52 - 5.82",
+    "5.82 - 6.21",
+    "6.21 - 6.65",
+    "6.65 - 7.18",
+    "N/A",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 6.11,
+      "description": "5.82 - 6.21",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "QH",
+      "value": 6.18,
+      "description": "5.82 - 6.21",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GX",
+      "value": 6.21,
+      "description": "5.82 - 6.21",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GZ",
+      "value": 7.18,
+      "description": "6.65 - 7.18",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "CQ",
+      "value": 7.05,
+      "description": "6.65 - 7.18",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "BJ",
+      "value": 4.92,
+      "description": "4.52 - 5.82",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "FJ",
+      "value": 6.2,
+      "description": "5.82 - 6.21",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AH",
+      "value": 5.89,
+      "description": "5.82 - 6.21",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GD",
+      "value": 4.7,
+      "description": "4.52 - 5.82",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XZ",
+      "value": 5.21,
+      "description": "4.52 - 5.82",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 4.97,
+      "description": "4.52 - 5.82",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HI",
+      "value": 5.95,
+      "description": "5.82 - 6.21",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "NX",
+      "value": 4.53,
+      "description": "4.52 - 5.82",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SN",
+      "value": 6.26,
+      "description": "6.21 - 6.65",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SX",
+      "value": 5.93,
+      "description": "5.82 - 6.21",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HB",
+      "value": 6.96,
+      "description": "6.65 - 7.18",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HN",
+      "value": 6.89,
+      "description": "6.65 - 7.18",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SC",
+      "value": 7.02,
+      "description": "6.65 - 7.18",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "YN",
+      "value": 6.45,
+      "description": "6.21 - 6.65",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HE",
+      "value": 6.23,
+      "description": "6.21 - 6.65",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HA",
+      "value": 7.02,
+      "description": "6.65 - 7.18",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "LN",
+      "value": 6.23,
+      "description": "6.21 - 6.65",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SD",
+      "value": 6.84,
+      "description": "6.65 - 7.18",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "TJ",
+      "value": 6.05,
+      "description": "5.82 - 6.21",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JX",
+      "value": 6.26,
+      "description": "6.21 - 6.65",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JS",
+      "value": 7.02,
+      "description": "6.65 - 7.18",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SH",
+      "value": 5.21,
+      "description": "4.52 - 5.82",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "ZJ",
+      "value": 5.51,
+      "description": "4.52 - 5.82",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JL",
+      "value": 6.22,
+      "description": "6.21 - 6.65",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "NM",
+      "value": 5.75,
+      "description": "4.52 - 5.82",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HL",
+      "value": 6.46,
+      "description": "6.21 - 6.65",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    }
+  ],
+  "colormap_name": "RdPu",
+  "colorscales": [
+    "rgb(255, 247, 243)",
+    "rgb(251, 172, 185)",
+    "rgb(205, 35, 143)",
+    "rgb(73, 0, 106)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "lightgray",
+  "title": "Death Rate - 2014",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "horizontal",
+    "position": {
+      "x": 0.0,
+      "y": 0.1
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 0
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "map_id": "25",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 6,
+  "class_descriptions": [
+    "623.0 - 6,500.0",
+    "145.0 - 623.0",
+    "64.0 - 145.0",
+    "16.0 - 64.0",
+    "0.99 - 16.0",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AN",
+      "value": 5.0,
+      "description": "0.99 - 16.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AP",
+      "value": 791.0,
+      "description": "623.0 - 6,500.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "AR",
+      "value": 79.0,
+      "description": "64.0 - 145.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "AS",
+      "value": 27.0,
+      "description": "16.0 - 64.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "BH",
+      "value": 69.0,
+      "description": "64.0 - 145.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "CT",
+      "value": 251.0,
+      "description": "145.0 - 623.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "GA",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "GJ",
+      "value": 2198.0,
+      "description": "623.0 - 6,500.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HR",
+      "value": 106.0,
+      "description": "64.0 - 145.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HP",
+      "value": 393.0,
+      "description": "145.0 - 623.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "JK",
+      "value": 129.0,
+      "description": "64.0 - 145.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JH",
+      "value": 4.0,
+      "description": "0.99 - 16.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "KA",
+      "value": 2882.0,
+      "description": "623.0 - 6,500.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "KL",
+      "value": 172.0,
+      "description": "145.0 - 623.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "LD",
+      "value": 1.0,
+      "description": "0.99 - 16.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "MP",
+      "value": 366.0,
+      "description": "145.0 - 623.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "MH",
+      "value": 3005.0,
+      "description": "623.0 - 6,500.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MN",
+      "value": 5.0,
+      "description": "0.99 - 16.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "PD",
+      "value": 1.0,
+      "description": "0.99 - 16.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PB",
+      "value": 241.0,
+      "description": "145.0 - 623.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "RJ",
+      "value": 1627.0,
+      "description": "623.0 - 6,500.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SK",
+      "value": 52.0,
+      "description": "16.0 - 64.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "TN",
+      "value": 6500.0,
+      "description": "623.0 - 6,500.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "TR",
+      "value": 16.0,
+      "description": "0.99 - 16.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "UP",
+      "value": 623.0,
+      "description": "145.0 - 623.0",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "UT",
+      "value": 145.0,
+      "description": "64.0 - 145.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "WB",
+      "value": 120.0,
+      "description": "64.0 - 145.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "OR",
+      "value": 64.0,
+      "description": "16.0 - 64.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "ME",
+      "value": 31.0,
+      "description": "16.0 - 64.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "MI",
+      "value": 36.0,
+      "description": "16.0 - 64.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "NL",
+      "value": 29.0,
+      "description": "16.0 - 64.0",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "DL",
+      "value": 2.0,
+      "description": "0.99 - 16.0",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    }
+  ],
+  "colormap_name": "Greens",
+  "colorscales": [
+    "rgb(0, 68, 27)",
+    "rgb(35, 139, 69)",
+    "rgb(116, 196, 118)",
+    "rgb(199, 233, 192)",
+    "rgb(247, 252, 245)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "State-Wise Total Installed Capacity Of Grid Interactive Renewable Power (Megawatt) - 2011",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.56,
+      "y": 0.94
+    },
+    "font_size": 16,
+    "bordercolor": "lightgray",
+    "borderwidth": 2
+  }
+}

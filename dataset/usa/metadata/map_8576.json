@@ -1,0 +1,401 @@
+{
+    "map_id": 8576,
+    "map_type": "Choropleth",
+    "KFF_file_name": "total-medical-loss-ratio-mlr-rebates-in-all-markets-for-consumers-and-families_2015_total-consumers-benefiting-from-rebates_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "0-37,719",
+        "40,609-116,900",
+        "143,202-296,255",
+        "301,325-766,290"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 7792,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AK",
+            "value": 89,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 58430,
+            "class": 1,
+            "description": "40,609-116,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 86923,
+            "class": 1,
+            "description": "40,609-116,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CA",
+            "value": 294867,
+            "class": 2,
+            "description": "143,202-296,255",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CO",
+            "value": 5975,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 1353,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 4050,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 766290,
+            "class": 3,
+            "description": "301,325-766,290",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 226595,
+            "class": 2,
+            "description": "143,202-296,255",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": 1598,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ID",
+            "value": 219,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 37719,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IN",
+            "value": 234936,
+            "class": 2,
+            "description": "143,202-296,255",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IA",
+            "value": 20058,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 4994,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 85025,
+            "class": 1,
+            "description": "40,609-116,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 3220,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ME",
+            "value": 0,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MD",
+            "value": 296255,
+            "class": 2,
+            "description": "143,202-296,255",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MA",
+            "value": 61274,
+            "class": 1,
+            "description": "40,609-116,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 635603,
+            "class": 3,
+            "description": "301,325-766,290",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MN",
+            "value": 1508,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": 92382,
+            "class": 1,
+            "description": "40,609-116,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MO",
+            "value": 273246,
+            "class": 2,
+            "description": "143,202-296,255",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": 0,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 747,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 29244,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 40609,
+            "class": 1,
+            "description": "40,609-116,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NJ",
+            "value": 116900,
+            "class": 1,
+            "description": "40,609-116,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NM",
+            "value": 98,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 458400,
+            "class": 3,
+            "description": "301,325-766,290",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 57865,
+            "class": 1,
+            "description": "40,609-116,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ND",
+            "value": 0,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 143202,
+            "class": 2,
+            "description": "143,202-296,255",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 26240,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 9601,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 13941,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "RI",
+            "value": 15651,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 99835,
+            "class": 1,
+            "description": "40,609-116,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 0,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 26887,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TX",
+            "value": 21015,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 1172,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 0,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 301325,
+            "class": 3,
+            "description": "301,325-766,290",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WA",
+            "value": 3328,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WV",
+            "value": 7608,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 23502,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": 0,
+            "class": 0,
+            "description": "0-37,719",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "Blues",
+    "colorscales": [
+        "rgb(247, 251, 255)",
+        "rgb(167, 183, 205)",
+        "rgb(87, 115, 156)",
+        "rgb(8, 48, 107)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Total Medical Loss Ratio (MLR) Rebates in All Markets for Consumers and Families | KFF",
+        "font_family": "Old Standard TT",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0.5
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

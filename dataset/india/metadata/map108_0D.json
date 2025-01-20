@@ -1,0 +1,290 @@
+{
+  "map_id": "108",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 4,
+  "class_descriptions": [
+    "7,894.0 - 63,948.0",
+    "755.0 - 7,894.0",
+    "8.99 - 755.0",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AN",
+      "value": 530.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AP",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AR",
+      "value": 90.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AS",
+      "value": 5216.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "BH",
+      "value": 7894.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CT",
+      "value": 8795.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DD",
+      "value": 9.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GA",
+      "value": 146.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GJ",
+      "value": 5031.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HR",
+      "value": 14816.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HP",
+      "value": 811.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JK",
+      "value": 6105.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JH",
+      "value": 6980.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "KA",
+      "value": 17719.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "KL",
+      "value": 11974.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "LD",
+      "value": 120.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "MP",
+      "value": 9023.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "MH",
+      "value": 34362.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "MN",
+      "value": 822.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CH",
+      "value": 280.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PD",
+      "value": 102.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PB",
+      "value": 36800.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "RJ",
+      "value": 6932.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SK",
+      "value": 140.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TN",
+      "value": 63948.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "TR",
+      "value": 1071.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "UP",
+      "value": 9018.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "UT",
+      "value": 1866.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "WB",
+      "value": 28877.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "OR",
+      "value": 12160.0,
+      "description": "7,894.0 - 63,948.0",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DN",
+      "value": 50.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "ME",
+      "value": 946.0,
+      "description": "755.0 - 7,894.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "MI",
+      "value": 317.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NL",
+      "value": 755.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "DL",
+      "value": 264.0,
+      "description": "8.99 - 755.0",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    }
+  ],
+  "colormap_name": "Blugrn",
+  "colorscales": [
+    "rgb(29, 79, 96)",
+    "rgb(77, 162, 132)",
+    "rgb(196, 230, 195)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "State-Wise Egg Production (Lakh Nos.) - 2004-05",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.62,
+      "y": 0.94
+    },
+    "font_size": 16,
+    "bordercolor": "black",
+    "borderwidth": 2
+  }
+}

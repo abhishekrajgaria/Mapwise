@@ -1,0 +1,401 @@
+{
+    "map_id": 1280,
+    "map_type": "Choropleth",
+    "KFF_file_name": "average-annual-growth-in-medicaid-spending_fy-1990-2001_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "6.8%-9.7%",
+        "9.9%-11.8%",
+        "11.9%-13.5%",
+        "14.0%-15.9%"
+    ],
+    "data_type": "Percentage",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.124,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AK",
+            "value": 0.129,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AZ",
+            "value": 0.154,
+            "class": 3,
+            "description": "14.0%-15.9%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AR",
+            "value": 0.11199999999999999,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CA",
+            "value": 0.106,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CO",
+            "value": 0.134,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 0.094,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 0.151,
+            "class": 3,
+            "description": "14.0%-15.9%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "FL",
+            "value": 0.11800000000000001,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 0.115,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 0.109,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": 0.146,
+            "class": 3,
+            "description": "14.0%-15.9%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IL",
+            "value": 0.111,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IN",
+            "value": 0.096,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IA",
+            "value": 0.092,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 0.11900000000000001,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KY",
+            "value": 0.11599999999999999,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 0.10800000000000001,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 0.10800000000000001,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MD",
+            "value": 0.099,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 0.07200000000000001,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MI",
+            "value": 0.09699999999999999,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MN",
+            "value": 0.09300000000000001,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": 0.135,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MO",
+            "value": 0.159,
+            "class": 3,
+            "description": "14.0%-15.9%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MT",
+            "value": 0.08800000000000001,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 0.129,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NV",
+            "value": 0.147,
+            "class": 3,
+            "description": "14.0%-15.9%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NH",
+            "value": 0.132,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NJ",
+            "value": 0.106,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NM",
+            "value": 0.157,
+            "class": 3,
+            "description": "14.0%-15.9%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NY",
+            "value": 0.092,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NC",
+            "value": 0.14,
+            "class": 3,
+            "description": "14.0%-15.9%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ND",
+            "value": 0.068,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 0.092,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OK",
+            "value": 0.102,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 0.158,
+            "class": 3,
+            "description": "14.0%-15.9%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "PA",
+            "value": 0.124,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "RI",
+            "value": 0.094,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 0.124,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 0.09699999999999999,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 0.13,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 0.129,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "UT",
+            "value": 0.107,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VT",
+            "value": 0.133,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VA",
+            "value": 0.105,
+            "class": 1,
+            "description": "9.9%-11.8%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 0.12300000000000001,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 0.129,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WI",
+            "value": 0.095,
+            "class": 0,
+            "description": "6.8%-9.7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": 0.125,
+            "class": 2,
+            "description": "11.9%-13.5%",
+            "legend_position": "legend_2"
+        }
+    ],
+    "colormap_name": "Oryel",
+    "colorscales": [
+        "rgb(236, 218, 154)",
+        "rgb(236, 171, 132)",
+        "rgb(237, 124, 111)",
+        "rgb(238, 77, 90)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Average Annual Growth in Medicaid Spending | KFF",
+        "font_family": "Old Standard TT",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0.5
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

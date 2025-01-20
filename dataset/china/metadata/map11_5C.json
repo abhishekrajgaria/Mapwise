@@ -1,0 +1,178 @@
+{
+  "map_id": "11",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 317.85,
+      "legend_position": 0.09
+    },
+    {
+      "region": "QH",
+      "value": 60.56,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GX",
+      "value": 970.97,
+      "legend_position": 0.27
+    },
+    {
+      "region": "GZ",
+      "value": 670.77,
+      "legend_position": 0.18
+    },
+    {
+      "region": "CQ",
+      "value": 2232.68,
+      "legend_position": 0.61
+    },
+    {
+      "region": "BJ",
+      "value": 694.63,
+      "legend_position": 0.19
+    },
+    {
+      "region": "FJ",
+      "value": 858.45,
+      "legend_position": 0.23
+    },
+    {
+      "region": "AH",
+      "value": 3229.79,
+      "legend_position": 0.89
+    },
+    {
+      "region": "GD",
+      "value": 3443.86,
+      "legend_position": 0.95
+    },
+    {
+      "region": "XZ",
+      "value": 10.36,
+      "legend_position": 0.0
+    },
+    {
+      "region": "XJ",
+      "value": 816.43,
+      "legend_position": 0.22
+    },
+    {
+      "region": "HI",
+      "value": 767.08,
+      "legend_position": 0.21
+    },
+    {
+      "region": "NX",
+      "value": 185.45,
+      "legend_position": 0.05
+    },
+    {
+      "region": "SN",
+      "value": 874.63,
+      "legend_position": 0.24
+    },
+    {
+      "region": "SX",
+      "value": 468.04,
+      "legend_position": 0.13
+    },
+    {
+      "region": "HB",
+      "value": 1226.91,
+      "legend_position": 0.34
+    },
+    {
+      "region": "HN",
+      "value": 1656.44,
+      "legend_position": 0.46
+    },
+    {
+      "region": "SC",
+      "value": 1393.55,
+      "legend_position": 0.38
+    },
+    {
+      "region": "YN",
+      "value": 979.76,
+      "legend_position": 0.27
+    },
+    {
+      "region": "HE",
+      "value": 1351.1,
+      "legend_position": 0.37
+    },
+    {
+      "region": "HA",
+      "value": 2307.03,
+      "legend_position": 0.63
+    },
+    {
+      "region": "LN",
+      "value": 1222.33,
+      "legend_position": 0.34
+    },
+    {
+      "region": "SD",
+      "value": 2668.56,
+      "legend_position": 0.73
+    },
+    {
+      "region": "TJ",
+      "value": 662.56,
+      "legend_position": 0.18
+    },
+    {
+      "region": "JX",
+      "value": 701.31,
+      "legend_position": 0.19
+    },
+    {
+      "region": "JS",
+      "value": 3627.86,
+      "legend_position": 1.0
+    },
+    {
+      "region": "SH",
+      "value": 409.94,
+      "legend_position": 0.11
+    },
+    {
+      "region": "ZJ",
+      "value": 1139.94,
+      "legend_position": 0.31
+    },
+    {
+      "region": "JL",
+      "value": 307.49,
+      "legend_position": 0.08
+    },
+    {
+      "region": "NM",
+      "value": 295.25,
+      "legend_position": 0.08
+    },
+    {
+      "region": "HL",
+      "value": 195.72,
+      "legend_position": 0.05
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Emrld",
+  "paper_bgcolor": "white",
+  "title": "Land Space Pending Development of Enterprises for Real Estate Development (10000 sq.m) - 2017"
+}

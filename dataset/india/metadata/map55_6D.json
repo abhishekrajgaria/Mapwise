@@ -1,0 +1,295 @@
+{
+  "map_id": "55",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "small_to_large",
+  "num_classes": 7,
+  "class_descriptions": [
+    "0.99 - 101.8",
+    "101.8 - 909.0",
+    "909.0 - 2,395.4",
+    "2,395.4 - 4,593.2",
+    "4,593.2 - 8,726.0",
+    "N/A",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AP",
+      "value": 5241.0,
+      "description": "4,593.2 - 8,726.0",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "AR",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AS",
+      "value": 2433.0,
+      "description": "2,395.4 - 4,593.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "BH",
+      "value": 3568.0,
+      "description": "2,395.4 - 4,593.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "CT",
+      "value": 1186.0,
+      "description": "909.0 - 2,395.4",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "GA",
+      "value": 69.0,
+      "description": "0.99 - 101.8",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GJ",
+      "value": 4999.0,
+      "description": "4,593.2 - 8,726.0",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HR",
+      "value": 1553.0,
+      "description": "909.0 - 2,395.4",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HP",
+      "value": 296.0,
+      "description": "101.8 - 909.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JK",
+      "value": 256.0,
+      "description": "101.8 - 909.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JH",
+      "value": 2001.0,
+      "description": "909.0 - 2,395.4",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "KA",
+      "value": 3073.0,
+      "description": "2,395.4 - 4,593.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "KL",
+      "value": 1050.0,
+      "description": "909.0 - 2,395.4",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MP",
+      "value": 4948.0,
+      "description": "4,593.2 - 8,726.0",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MH",
+      "value": 5602.0,
+      "description": "4,593.2 - 8,726.0",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MN",
+      "value": 1.0,
+      "description": "0.99 - 101.8",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "CH",
+      "value": 16.0,
+      "description": "0.99 - 101.8",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PD",
+      "value": 11.0,
+      "description": "0.99 - 101.8",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PB",
+      "value": 2133.0,
+      "description": "909.0 - 2,395.4",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "RJ",
+      "value": 5780.0,
+      "description": "4,593.2 - 8,726.0",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "TN",
+      "value": 4061.0,
+      "description": "2,395.4 - 4,593.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "TR",
+      "value": 151.0,
+      "description": "101.8 - 909.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "UP",
+      "value": 8726.0,
+      "description": "4,593.2 - 8,726.0",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "UT",
+      "value": 345.0,
+      "description": "101.8 - 909.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "WB",
+      "value": 3890.0,
+      "description": "2,395.4 - 4,593.2",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "OR",
+      "value": 2386.0,
+      "description": "909.0 - 2,395.4",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "ME",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MI",
+      "value": 2.0,
+      "description": "0.99 - 101.8",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NL",
+      "value": 13.0,
+      "description": "0.99 - 101.8",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "DL",
+      "value": 183.0,
+      "description": "101.8 - 909.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    }
+  ],
+  "colormap_name": "Darkmint",
+  "colorscales": [
+    "rgb(210, 251, 212)",
+    "rgb(144, 203, 185)",
+    "rgb(85, 156, 158)",
+    "rgb(46, 108, 126)",
+    "rgb(18, 63, 90)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "State-Wise Railway Route (Kms) - 2010",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.66,
+      "y": 0.94
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 0
+  }
+}

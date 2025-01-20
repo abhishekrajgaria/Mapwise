@@ -1,0 +1,403 @@
+{
+    "map_id": 20065,
+    "map_type": "Choropleth",
+    "KFF_file_name": "women-age-40-and-older-who-report-having-had-a-mammogram-within-the-past-two-years-by-raceethnicity_asian-and-native-hawaiian-or-pacific-islander_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "45%-55%",
+        "58%-67%",
+        "68%-78%",
+        "80%-94%",
+        "N/A"
+    ],
+    "data_type": "Percentage",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.67,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "AZ",
+            "value": 0.72,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AR",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "CA",
+            "value": 0.55,
+            "class": 0,
+            "description": "45%-55%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CO",
+            "value": 0.6,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CT",
+            "value": 0.58,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "DE",
+            "value": 0.45,
+            "class": 0,
+            "description": "45%-55%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 0.54,
+            "class": 0,
+            "description": "45%-55%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "GA",
+            "value": 0.52,
+            "class": 0,
+            "description": "45%-55%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "HI",
+            "value": 0.8,
+            "class": 3,
+            "description": "80%-94%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ID",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "IL",
+            "value": 0.54,
+            "class": 0,
+            "description": "45%-55%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IN",
+            "value": 0.68,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IA",
+            "value": 0.85,
+            "class": 3,
+            "description": "80%-94%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "KS",
+            "value": 0.65,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "LA",
+            "value": 0.58,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MD",
+            "value": 0.71,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MA",
+            "value": 0.62,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 0.71,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 0.48,
+            "class": 0,
+            "description": "45%-55%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MO",
+            "value": 0.61,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 0.64,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NE",
+            "value": 0.63,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 0.78,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NH",
+            "value": 0.75,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NJ",
+            "value": 0.75,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 0.68,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NY",
+            "value": 0.65,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NC",
+            "value": 0.53,
+            "class": 0,
+            "description": "45%-55%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ND",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "OH",
+            "value": 0.72,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "OR",
+            "value": 0.77,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 0.58,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 0.94,
+            "class": 3,
+            "description": "80%-94%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SC",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "SD",
+            "value": 0.91,
+            "class": 3,
+            "description": "80%-94%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TN",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "TX",
+            "value": 0.66,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "UT",
+            "value": 0.7,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "VA",
+            "value": 0.62,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 0.63,
+            "class": 1,
+            "description": "58%-67%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WV",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "WI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "WY",
+            "value": 0.73,
+            "class": 2,
+            "description": "68%-78%",
+            "legend_position": "legend_2"
+        }
+    ],
+    "colormap_name": "Oranges",
+    "colorscales": [
+        "rgb(255, 245, 235)",
+        "rgb(223, 193, 177)",
+        "rgb(191, 142, 119)",
+        "rgb(159, 90, 61)",
+        "rgb(127, 39, 4)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Women Age 40 and Older Who Report Having Had a Mammogram Within the Past Two Years by Race/Ethnicity | KFF",
+        "font_family": "Droid Sans",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

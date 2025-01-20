@@ -1,0 +1,178 @@
+{
+  "map_id": "14",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 8718.3,
+      "legend_position": 0.07
+    },
+    {
+      "region": "QH",
+      "value": 2941.1,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GX",
+      "value": 21237.1,
+      "legend_position": 0.18
+    },
+    {
+      "region": "GZ",
+      "value": 16769.3,
+      "legend_position": 0.14
+    },
+    {
+      "region": "CQ",
+      "value": 23605.8,
+      "legend_position": 0.21
+    },
+    {
+      "region": "BJ",
+      "value": 35445.1,
+      "legend_position": 0.32
+    },
+    {
+      "region": "FJ",
+      "value": 42326.6,
+      "legend_position": 0.38
+    },
+    {
+      "region": "AH",
+      "value": 36845.5,
+      "legend_position": 0.33
+    },
+    {
+      "region": "GD",
+      "value": 107986.9,
+      "legend_position": 1.0
+    },
+    {
+      "region": "XZ",
+      "value": 1697.8,
+      "legend_position": 0.0
+    },
+    {
+      "region": "XJ",
+      "value": 13597.1,
+      "legend_position": 0.11
+    },
+    {
+      "region": "HI",
+      "value": 5330.8,
+      "legend_position": 0.03
+    },
+    {
+      "region": "NX",
+      "value": 3748.5,
+      "legend_position": 0.02
+    },
+    {
+      "region": "SN",
+      "value": 25793.2,
+      "legend_position": 0.23
+    },
+    {
+      "region": "SX",
+      "value": 16961.6,
+      "legend_position": 0.14
+    },
+    {
+      "region": "HB",
+      "value": 45429.0,
+      "legend_position": 0.41
+    },
+    {
+      "region": "HN",
+      "value": 39894.1,
+      "legend_position": 0.36
+    },
+    {
+      "region": "SC",
+      "value": 46363.8,
+      "legend_position": 0.42
+    },
+    {
+      "region": "YN",
+      "value": 23223.8,
+      "legend_position": 0.2
+    },
+    {
+      "region": "HE",
+      "value": 34978.6,
+      "legend_position": 0.31
+    },
+    {
+      "region": "HA",
+      "value": 53717.8,
+      "legend_position": 0.49
+    },
+    {
+      "region": "LN",
+      "value": 24855.3,
+      "legend_position": 0.22
+    },
+    {
+      "region": "SD",
+      "value": 70540.5,
+      "legend_position": 0.65
+    },
+    {
+      "region": "TJ",
+      "value": 14055.5,
+      "legend_position": 0.12
+    },
+    {
+      "region": "JX",
+      "value": 24667.3,
+      "legend_position": 0.22
+    },
+    {
+      "region": "JS",
+      "value": 98656.8,
+      "legend_position": 0.91
+    },
+    {
+      "region": "SH",
+      "value": 37987.6,
+      "legend_position": 0.34
+    },
+    {
+      "region": "ZJ",
+      "value": 62462.0,
+      "legend_position": 0.57
+    },
+    {
+      "region": "JL",
+      "value": 11726.8,
+      "legend_position": 0.09
+    },
+    {
+      "region": "NM",
+      "value": 17212.5,
+      "legend_position": 0.15
+    },
+    {
+      "region": "HL",
+      "value": 13544.4,
+      "legend_position": 0.11
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Greens",
+  "paper_bgcolor": "white",
+  "title": "Gross Regional Product (100 million yuan) - 2019"
+}

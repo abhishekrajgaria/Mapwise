@@ -1,0 +1,193 @@
+{
+  "map_id": "90",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 26.1,
+      "legend_position": 0.19
+    },
+    {
+      "region": "AP",
+      "value": 65.9,
+      "legend_position": 0.6
+    },
+    {
+      "region": "AR",
+      "value": 16.1,
+      "legend_position": 0.08
+    },
+    {
+      "region": "AS",
+      "value": 31.8,
+      "legend_position": 0.24
+    },
+    {
+      "region": "BH",
+      "value": 24.9,
+      "legend_position": 0.17
+    },
+    {
+      "region": "CT",
+      "value": 40.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "DD",
+      "value": 11.6,
+      "legend_position": 0.04
+    },
+    {
+      "region": "GA",
+      "value": 21.7,
+      "legend_position": 0.14
+    },
+    {
+      "region": "GJ",
+      "value": 42.2,
+      "legend_position": 0.35
+    },
+    {
+      "region": "HR",
+      "value": 47.6,
+      "legend_position": 0.41
+    },
+    {
+      "region": "HP",
+      "value": 29.7,
+      "legend_position": 0.22
+    },
+    {
+      "region": "JK",
+      "value": 37.4,
+      "legend_position": 0.3
+    },
+    {
+      "region": "JH",
+      "value": 26.3,
+      "legend_position": 0.19
+    },
+    {
+      "region": "KA",
+      "value": 63.1,
+      "legend_position": 0.57
+    },
+    {
+      "region": "KL",
+      "value": 45.5,
+      "legend_position": 0.39
+    },
+    {
+      "region": "LD",
+      "value": 8.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MP",
+      "value": 46.9,
+      "legend_position": 0.4
+    },
+    {
+      "region": "MH",
+      "value": 81.8,
+      "legend_position": 0.76
+    },
+    {
+      "region": "MN",
+      "value": 31.6,
+      "legend_position": 0.24
+    },
+    {
+      "region": "CH",
+      "value": 105.3,
+      "legend_position": 1.0
+    },
+    {
+      "region": "PD",
+      "value": 34.5,
+      "legend_position": 0.27
+    },
+    {
+      "region": "PB",
+      "value": 43.1,
+      "legend_position": 0.36
+    },
+    {
+      "region": "RJ",
+      "value": 55.7,
+      "legend_position": 0.49
+    },
+    {
+      "region": "SK",
+      "value": 22.4,
+      "legend_position": 0.15
+    },
+    {
+      "region": "TN",
+      "value": 93.1,
+      "legend_position": 0.87
+    },
+    {
+      "region": "TR",
+      "value": 25.2,
+      "legend_position": 0.18
+    },
+    {
+      "region": "UP",
+      "value": 33.1,
+      "legend_position": 0.26
+    },
+    {
+      "region": "UT",
+      "value": 21.1,
+      "legend_position": 0.13
+    },
+    {
+      "region": "WB",
+      "value": 49.5,
+      "legend_position": 0.43
+    },
+    {
+      "region": "OR",
+      "value": 53.7,
+      "legend_position": 0.47
+    },
+    {
+      "region": "DN",
+      "value": 15.6,
+      "legend_position": 0.08
+    },
+    {
+      "region": "ME",
+      "value": 34.6,
+      "legend_position": 0.27
+    },
+    {
+      "region": "MI",
+      "value": 34.8,
+      "legend_position": 0.28
+    },
+    {
+      "region": "NL",
+      "value": 15.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "DL",
+      "value": 59.9,
+      "legend_position": 0.53
+    }
+  ],
+  "colormap_name": "Tealgrn",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Credit- Deposit Ratio Of Scheduled Commercial Banks According To Place Of Sanction (Per cent) - 2004"
+}

@@ -1,0 +1,290 @@
+{
+    "map_id": 1034,
+    "map_type": "Choropleth",
+    "KFF_file_name": "medicare-advantage-enrollees-as-a-percent-of-total-medicare-population_2012_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AK",
+            "value": 0.0042,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AL",
+            "value": 0.2154,
+            "legend_position": 0.45
+        },
+        {
+            "region": "AR",
+            "value": 0.1627,
+            "legend_position": 0.34
+        },
+        {
+            "region": "AZ",
+            "value": 0.3761,
+            "legend_position": 0.8
+        },
+        {
+            "region": "CA",
+            "value": 0.3639,
+            "legend_position": 0.77
+        },
+        {
+            "region": "CO",
+            "value": 0.3473,
+            "legend_position": 0.74
+        },
+        {
+            "region": "CT",
+            "value": 0.2122,
+            "legend_position": 0.45
+        },
+        {
+            "region": "DE",
+            "value": 0.0491,
+            "legend_position": 0.1
+        },
+        {
+            "region": "FL",
+            "value": 0.3426,
+            "legend_position": 0.73
+        },
+        {
+            "region": "GA",
+            "value": 0.2378,
+            "legend_position": 0.5
+        },
+        {
+            "region": "HI",
+            "value": 0.4448,
+            "legend_position": 0.95
+        },
+        {
+            "region": "IA",
+            "value": 0.1391,
+            "legend_position": 0.29
+        },
+        {
+            "region": "ID",
+            "value": 0.3025,
+            "legend_position": 0.64
+        },
+        {
+            "region": "IL",
+            "value": 0.1035,
+            "legend_position": 0.21
+        },
+        {
+            "region": "IN",
+            "value": 0.1932,
+            "legend_position": 0.41
+        },
+        {
+            "region": "KS",
+            "value": 0.1226,
+            "legend_position": 0.25
+        },
+        {
+            "region": "KY",
+            "value": 0.1723,
+            "legend_position": 0.36
+        },
+        {
+            "region": "LA",
+            "value": 0.2548,
+            "legend_position": 0.54
+        },
+        {
+            "region": "MA",
+            "value": 0.1819,
+            "legend_position": 0.38
+        },
+        {
+            "region": "MD",
+            "value": 0.0863,
+            "legend_position": 0.18
+        },
+        {
+            "region": "ME",
+            "value": 0.1547,
+            "legend_position": 0.32
+        },
+        {
+            "region": "MI",
+            "value": 0.2544,
+            "legend_position": 0.54
+        },
+        {
+            "region": "MN",
+            "value": 0.4701,
+            "legend_position": 1.0
+        },
+        {
+            "region": "MO",
+            "value": 0.2323,
+            "legend_position": 0.49
+        },
+        {
+            "region": "MS",
+            "value": 0.1116,
+            "legend_position": 0.23
+        },
+        {
+            "region": "MT",
+            "value": 0.159,
+            "legend_position": 0.33
+        },
+        {
+            "region": "NC",
+            "value": 0.1921,
+            "legend_position": 0.4
+        },
+        {
+            "region": "ND",
+            "value": 0.1144,
+            "legend_position": 0.24
+        },
+        {
+            "region": "NE",
+            "value": 0.126,
+            "legend_position": 0.26
+        },
+        {
+            "region": "NH",
+            "value": 0.0487,
+            "legend_position": 0.1
+        },
+        {
+            "region": "NJ",
+            "value": 0.1449,
+            "legend_position": 0.3
+        },
+        {
+            "region": "NM",
+            "value": 0.2764,
+            "legend_position": 0.58
+        },
+        {
+            "region": "NV",
+            "value": 0.3207,
+            "legend_position": 0.68
+        },
+        {
+            "region": "NY",
+            "value": 0.3245,
+            "legend_position": 0.69
+        },
+        {
+            "region": "OH",
+            "value": 0.3626,
+            "legend_position": 0.77
+        },
+        {
+            "region": "OK",
+            "value": 0.1605,
+            "legend_position": 0.34
+        },
+        {
+            "region": "OR",
+            "value": 0.4172,
+            "legend_position": 0.89
+        },
+        {
+            "region": "PA",
+            "value": 0.3881,
+            "legend_position": 0.82
+        },
+        {
+            "region": "RI",
+            "value": 0.3538,
+            "legend_position": 0.75
+        },
+        {
+            "region": "SC",
+            "value": 0.1787,
+            "legend_position": 0.37
+        },
+        {
+            "region": "SD",
+            "value": 0.1203,
+            "legend_position": 0.25
+        },
+        {
+            "region": "TN",
+            "value": 0.2745,
+            "legend_position": 0.58
+        },
+        {
+            "region": "TX",
+            "value": 0.2283,
+            "legend_position": 0.48
+        },
+        {
+            "region": "UT",
+            "value": 0.3549,
+            "legend_position": 0.75
+        },
+        {
+            "region": "VA",
+            "value": 0.1507,
+            "legend_position": 0.31
+        },
+        {
+            "region": "VT",
+            "value": 0.0655,
+            "legend_position": 0.13
+        },
+        {
+            "region": "WA",
+            "value": 0.2807,
+            "legend_position": 0.59
+        },
+        {
+            "region": "WI",
+            "value": 0.3211,
+            "legend_position": 0.68
+        },
+        {
+            "region": "WV",
+            "value": 0.2311,
+            "legend_position": 0.49
+        },
+        {
+            "region": "WY",
+            "value": 0.055,
+            "legend_position": 0.11
+        }
+    ],
+    "colormap_name": "Tealgrn",
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Medicare Advantage Enrollees as a Percent of Total Medicare Population | KFF",
+        "font_family": "Old Standard TT",
+        "font_size": 18,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "black",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

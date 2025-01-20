@@ -1,0 +1,271 @@
+{
+  "map_id": "21",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 5,
+  "class_descriptions": [
+    "12.5 - 20.1",
+    "9.6 - 12.5",
+    "5.7 - 9.6",
+    "-16.91 - 5.7",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 9.6,
+      "description": "5.7 - 9.6",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "QH",
+      "value": 0.8,
+      "description": "-16.91 - 5.7",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GX",
+      "value": 10.9,
+      "description": "9.6 - 12.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "GZ",
+      "value": -2.2,
+      "description": "-16.91 - 5.7",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "CQ",
+      "value": 10.1,
+      "description": "9.6 - 12.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "BJ",
+      "value": 2.3,
+      "description": "-16.91 - 5.7",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "FJ",
+      "value": 10.3,
+      "description": "9.6 - 12.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "AH",
+      "value": 15.7,
+      "description": "12.5 - 20.1",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "GD",
+      "value": 8.1,
+      "description": "5.7 - 9.6",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "XZ",
+      "value": -16.9,
+      "description": "-16.91 - 5.7",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 16.1,
+      "description": "12.5 - 20.1",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HI",
+      "value": 1.2,
+      "description": "-16.91 - 5.7",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NX",
+      "value": 6.0,
+      "description": "5.7 - 9.6",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SN",
+      "value": -1.7,
+      "description": "-16.91 - 5.7",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SX",
+      "value": 15.0,
+      "description": "12.5 - 20.1",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HB",
+      "value": 20.1,
+      "description": "12.5 - 20.1",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HN",
+      "value": 11.2,
+      "description": "9.6 - 12.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SC",
+      "value": 8.0,
+      "description": "5.7 - 9.6",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "YN",
+      "value": 6.2,
+      "description": "5.7 - 9.6",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HE",
+      "value": 5.8,
+      "description": "5.7 - 9.6",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HA",
+      "value": 10.3,
+      "description": "9.6 - 12.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "LN",
+      "value": 8.4,
+      "description": "5.7 - 9.6",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SD",
+      "value": 8.2,
+      "description": "5.7 - 9.6",
+      "class": 2,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "TJ",
+      "value": 5.6,
+      "description": "-16.91 - 5.7",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JX",
+      "value": 17.7,
+      "description": "12.5 - 20.1",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "JS",
+      "value": 13.4,
+      "description": "12.5 - 20.1",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SH",
+      "value": 11.8,
+      "description": "9.6 - 12.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "ZJ",
+      "value": 13.2,
+      "description": "12.5 - 20.1",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "JL",
+      "value": 17.6,
+      "description": "12.5 - 20.1",
+      "class": 0,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "NM",
+      "value": 10.8,
+      "description": "9.6 - 12.5",
+      "class": 1,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HL",
+      "value": 4.8,
+      "description": "-16.91 - 5.7",
+      "class": 3,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    }
+  ],
+  "colormap_name": "PuBu",
+  "colorscales": [
+    "rgb(2, 56, 88)",
+    "rgb(38, 133, 187)",
+    "rgb(180, 196, 223)",
+    "rgb(255, 247, 251)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "lightgray",
+  "title": "Investment in Fixed Assets (Excluding Rural Households), Construction and Installation Growth Rate over Preceding Year (%) - 2021",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "horizontal",
+    "position": {
+      "x": -0.1,
+      "y": 0.0
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 0
+  }
+}

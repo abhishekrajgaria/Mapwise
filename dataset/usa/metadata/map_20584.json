@@ -1,0 +1,290 @@
+{
+    "map_id": 20584,
+    "map_type": "Choropleth",
+    "KFF_file_name": "distribution-of-total-population-by-federal-poverty-level_2019_number_400_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 1573200.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "AK",
+            "value": 310500.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AZ",
+            "value": 2556000.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "AR",
+            "value": 862800.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "CA",
+            "value": 17140100.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CO",
+            "value": 2717100.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "CT",
+            "value": 1850700.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "DE",
+            "value": 437200.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "FL",
+            "value": 7540900.0,
+            "legend_position": 0.43
+        },
+        {
+            "region": "GA",
+            "value": 3904600.0,
+            "legend_position": 0.22
+        },
+        {
+            "region": "HI",
+            "value": 687500.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "ID",
+            "value": 585700.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "IL",
+            "value": 5619800.0,
+            "legend_position": 0.32
+        },
+        {
+            "region": "IN",
+            "value": 2376000.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "IA",
+            "value": 1208500.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "KS",
+            "value": 1098600.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "KY",
+            "value": 1428000.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "LA",
+            "value": 1503600.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "ME",
+            "value": 509000.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "MD",
+            "value": 3195500.0,
+            "legend_position": 0.18
+        },
+        {
+            "region": "MA",
+            "value": 3714700.0,
+            "legend_position": 0.21
+        },
+        {
+            "region": "MI",
+            "value": 3844700.0,
+            "legend_position": 0.21
+        },
+        {
+            "region": "MN",
+            "value": 2721100.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "MS",
+            "value": 783100.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "MO",
+            "value": 2183000.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "MT",
+            "value": 383200.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "NE",
+            "value": 745500.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "NV",
+            "value": 1090400.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "NH",
+            "value": 698000.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "NJ",
+            "value": 4794100.0,
+            "legend_position": 0.27
+        },
+        {
+            "region": "NM",
+            "value": 635300.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "NY",
+            "value": 8860900.0,
+            "legend_position": 0.51
+        },
+        {
+            "region": "NC",
+            "value": 3704100.0,
+            "legend_position": 0.21
+        },
+        {
+            "region": "ND",
+            "value": 340700.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "OH",
+            "value": 4370100.0,
+            "legend_position": 0.24
+        },
+        {
+            "region": "OK",
+            "value": 1265700.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "OR",
+            "value": 1731600.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "PA",
+            "value": 5350100.0,
+            "legend_position": 0.3
+        },
+        {
+            "region": "RI",
+            "value": 487700.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "SC",
+            "value": 1774900.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "SD",
+            "value": 328500.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "TN",
+            "value": 2288200.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "TX",
+            "value": 10587900.0,
+            "legend_position": 0.61
+        },
+        {
+            "region": "UT",
+            "value": 1262300.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "VT",
+            "value": 270800.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "VA",
+            "value": 4009000.0,
+            "legend_position": 0.22
+        },
+        {
+            "region": "WA",
+            "value": 3595800.0,
+            "legend_position": 0.2
+        },
+        {
+            "region": "WV",
+            "value": 534500.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "WI",
+            "value": 2434000.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "WY",
+            "value": 228500.0,
+            "legend_position": 0.0
+        }
+    ],
+    "colormap_name": "speed",
+    "showgrid": true,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Distribution of Total Population by Federal Poverty Level | KFF",
+        "font_family": "Balto",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

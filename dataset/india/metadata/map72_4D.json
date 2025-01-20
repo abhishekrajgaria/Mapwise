@@ -1,0 +1,294 @@
+{
+  "map_id": "72",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 6,
+  "class_descriptions": [
+    "207,392.2 - 399,416.0",
+    "71,223.0 - 207,392.2",
+    "25,582.6 - 71,223.0",
+    "6,324.8 - 25,582.6",
+    "175.99 - 6,324.8",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AN",
+      "value": 1297.0,
+      "description": "175.99 - 6,324.8",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AP",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AR",
+      "value": 20384.0,
+      "description": "6,324.8 - 25,582.6",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AS",
+      "value": 236985.0,
+      "description": "207,392.2 - 399,416.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "BH",
+      "value": 124363.0,
+      "description": "71,223.0 - 207,392.2",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "CT",
+      "value": 87733.0,
+      "description": "71,223.0 - 207,392.2",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "DD",
+      "value": 229.0,
+      "description": "175.99 - 6,324.8",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GA",
+      "value": 10190.0,
+      "description": "6,324.8 - 25,582.6",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GJ",
+      "value": 153521.0,
+      "description": "71,223.0 - 207,392.2",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HR",
+      "value": 36032.0,
+      "description": "25,582.6 - 71,223.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HP",
+      "value": 44467.0,
+      "description": "25,582.6 - 71,223.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JK",
+      "value": 24581.0,
+      "description": "6,324.8 - 25,582.6",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JH",
+      "value": 20772.0,
+      "description": "6,324.8 - 25,582.6",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "KA",
+      "value": 274896.0,
+      "description": "207,392.2 - 399,416.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "KL",
+      "value": 200625.0,
+      "description": "71,223.0 - 207,392.2",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "LD",
+      "value": 176.0,
+      "description": "175.99 - 6,324.8",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "MP",
+      "value": 185898.0,
+      "description": "71,223.0 - 207,392.2",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "MH",
+      "value": 399416.0,
+      "description": "207,392.2 - 399,416.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MN",
+      "value": 17724.0,
+      "description": "6,324.8 - 25,582.6",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CH",
+      "value": 2246.0,
+      "description": "175.99 - 6,324.8",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PD",
+      "value": 2712.0,
+      "description": "175.99 - 6,324.8",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PB",
+      "value": 77912.0,
+      "description": "71,223.0 - 207,392.2",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "RJ",
+      "value": 217543.0,
+      "description": "207,392.2 - 399,416.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SK",
+      "value": 4199.0,
+      "description": "175.99 - 6,324.8",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TN",
+      "value": 188037.0,
+      "description": "71,223.0 - 207,392.2",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "TR",
+      "value": 32767.0,
+      "description": "25,582.6 - 71,223.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "UP",
+      "value": 329185.0,
+      "description": "207,392.2 - 399,416.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "UT",
+      "value": 44332.0,
+      "description": "25,582.6 - 71,223.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "WB",
+      "value": 290170.0,
+      "description": "207,392.2 - 399,416.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "OR",
+      "value": 229132.0,
+      "description": "207,392.2 - 399,416.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "DN",
+      "value": 758.0,
+      "description": "175.99 - 6,324.8",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "ME",
+      "value": 11019.0,
+      "description": "6,324.8 - 25,582.6",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "MI",
+      "value": 7742.0,
+      "description": "6,324.8 - 25,582.6",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "NL",
+      "value": 32597.0,
+      "description": "25,582.6 - 71,223.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DL",
+      "value": 29589.0,
+      "description": "25,582.6 - 71,223.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    }
+  ],
+  "colormap_name": "Magma",
+  "colorscales": [
+    "rgb(252, 253, 191)",
+    "rgb(250, 137, 101)",
+    "rgb(182, 56, 120)",
+    "rgb(80, 19, 121)",
+    "rgb(0, 0, 4)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "State-Wise Length Of Roads (Kms) - 2009",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "horizontal",
+    "position": {
+      "x": 0.0,
+      "y": -0.02
+    },
+    "font_size": 16,
+    "bordercolor": "lightgray",
+    "borderwidth": 2
+  }
+}

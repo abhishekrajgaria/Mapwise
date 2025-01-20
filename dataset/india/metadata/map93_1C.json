@@ -1,0 +1,193 @@
+{
+  "map_id": "93",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 0.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 0.39,
+      "legend_position": 0.53
+    },
+    {
+      "region": "AR",
+      "value": 0.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 0.04,
+      "legend_position": 0.05
+    },
+    {
+      "region": "BH",
+      "value": 0.35,
+      "legend_position": 0.47
+    },
+    {
+      "region": "CT",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "DD",
+      "value": 0.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GA",
+      "value": 0.03,
+      "legend_position": 0.04
+    },
+    {
+      "region": "GJ",
+      "value": 0.34,
+      "legend_position": 0.46
+    },
+    {
+      "region": "HR",
+      "value": 0.23,
+      "legend_position": 0.31
+    },
+    {
+      "region": "HP",
+      "value": 0.07,
+      "legend_position": 0.09
+    },
+    {
+      "region": "JK",
+      "value": 0.09,
+      "legend_position": 0.12
+    },
+    {
+      "region": "JH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "KA",
+      "value": 0.41,
+      "legend_position": 0.55
+    },
+    {
+      "region": "KL",
+      "value": 0.26,
+      "legend_position": 0.35
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 0.74,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MH",
+      "value": 0.3,
+      "legend_position": 0.41
+    },
+    {
+      "region": "MN",
+      "value": 0.02,
+      "legend_position": 0.03
+    },
+    {
+      "region": "CH",
+      "value": 0.01,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PD",
+      "value": 0.01,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PB",
+      "value": 0.45,
+      "legend_position": 0.61
+    },
+    {
+      "region": "RJ",
+      "value": 0.29,
+      "legend_position": 0.39
+    },
+    {
+      "region": "SK",
+      "value": 0.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 0.57,
+      "legend_position": 0.77
+    },
+    {
+      "region": "TR",
+      "value": 0.01,
+      "legend_position": 0.01
+    },
+    {
+      "region": "UP",
+      "value": 0.53,
+      "legend_position": 0.72
+    },
+    {
+      "region": "UT",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "WB",
+      "value": 0.46,
+      "legend_position": 0.62
+    },
+    {
+      "region": "OR",
+      "value": 0.08,
+      "legend_position": 0.11
+    },
+    {
+      "region": "DN",
+      "value": 0.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "ME",
+      "value": 0.01,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 0.01,
+      "legend_position": 0.01
+    },
+    {
+      "region": "NL",
+      "value": 0.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 0.1,
+      "legend_position": 0.14
+    }
+  ],
+  "colormap_name": "Pinkyl",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Medium & Small Scale Industries - Total Number Of Units (Lakh) - Second Census (1987-88)"
+}

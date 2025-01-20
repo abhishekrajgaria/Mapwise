@@ -1,0 +1,193 @@
+{
+  "map_id": "72",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 1386.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AR",
+      "value": 21555.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "AS",
+      "value": 241789.0,
+      "legend_position": 0.59
+    },
+    {
+      "region": "BH",
+      "value": 130642.0,
+      "legend_position": 0.32
+    },
+    {
+      "region": "CT",
+      "value": 93965.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "DD",
+      "value": 236.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GA",
+      "value": 10627.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "GJ",
+      "value": 156188.0,
+      "legend_position": 0.38
+    },
+    {
+      "region": "HR",
+      "value": 41729.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "HP",
+      "value": 47963.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "JK",
+      "value": 26980.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "JH",
+      "value": 23903.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "KA",
+      "value": 281773.0,
+      "legend_position": 0.69
+    },
+    {
+      "region": "KL",
+      "value": 201220.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "LD",
+      "value": 190.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MP",
+      "value": 197293.0,
+      "legend_position": 0.48
+    },
+    {
+      "region": "MH",
+      "value": 410521.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 19133.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "CH",
+      "value": 2284.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PD",
+      "value": 2740.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PB",
+      "value": 84193.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "RJ",
+      "value": 241318.0,
+      "legend_position": 0.59
+    },
+    {
+      "region": "SK",
+      "value": 4630.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "TN",
+      "value": 192339.0,
+      "legend_position": 0.47
+    },
+    {
+      "region": "TR",
+      "value": 33772.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "UP",
+      "value": 390256.0,
+      "legend_position": 0.95
+    },
+    {
+      "region": "UT",
+      "value": 49277.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "WB",
+      "value": 299209.0,
+      "legend_position": 0.73
+    },
+    {
+      "region": "OR",
+      "value": 258836.0,
+      "legend_position": 0.63
+    },
+    {
+      "region": "DN",
+      "value": 808.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "ME",
+      "value": 11984.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "MI",
+      "value": 9810.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "NL",
+      "value": 34146.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "DL",
+      "value": 29648.0,
+      "legend_position": 0.07
+    }
+  ],
+  "colormap_name": "PuRd",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Length Of Roads (Kms) - 2011"
+}

@@ -1,0 +1,272 @@
+{
+  "map_id": "8",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "small_to_large",
+  "num_classes": 6,
+  "class_descriptions": [
+    "-5.76 - -1.91",
+    "-1.91 - -0.28",
+    "-0.28 - 0.66",
+    "0.66 - 8.76",
+    "N/A",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": -0.04,
+      "description": "-0.28 - 0.66",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "QH",
+      "value": 3.37,
+      "description": "0.66 - 8.76",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "GX",
+      "value": 1.43,
+      "description": "0.66 - 8.76",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "GZ",
+      "value": 3.71,
+      "description": "0.66 - 8.76",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "CQ",
+      "value": -2.11,
+      "description": "-5.76 - -1.91",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "BJ",
+      "value": -0.05,
+      "description": "-0.28 - 0.66",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "FJ",
+      "value": 0.55,
+      "description": "-0.28 - 0.66",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "AH",
+      "value": -0.93,
+      "description": "-1.91 - -0.28",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GD",
+      "value": 3.33,
+      "description": "0.66 - 8.76",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "XZ",
+      "value": 8.76,
+      "description": "0.66 - 8.76",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "XJ",
+      "value": 0.77,
+      "description": "0.66 - 8.76",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HI",
+      "value": 2.44,
+      "description": "0.66 - 8.76",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "NX",
+      "value": 4.41,
+      "description": "0.66 - 8.76",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SN",
+      "value": -0.28,
+      "description": "-1.91 - -0.28",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SX",
+      "value": -0.98,
+      "description": "-1.91 - -0.28",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HB",
+      "value": -2.01,
+      "description": "-5.76 - -1.91",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HN",
+      "value": -2.31,
+      "description": "-5.76 - -1.91",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SC",
+      "value": -2.65,
+      "description": "-5.76 - -1.91",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "YN",
+      "value": -0.07,
+      "description": "-0.28 - 0.66",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HE",
+      "value": -1.71,
+      "description": "-1.91 - -0.28",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HA",
+      "value": -0.08,
+      "description": "-0.28 - 0.66",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "LN",
+      "value": -4.96,
+      "description": "-5.76 - -1.91",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SD",
+      "value": -0.93,
+      "description": "-1.91 - -0.28",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "TJ",
+      "value": -1.68,
+      "description": "-1.91 - -0.28",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JX",
+      "value": 0.25,
+      "description": "-0.28 - 0.66",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JS",
+      "value": -1.81,
+      "description": "-1.91 - -0.28",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SH",
+      "value": -1.61,
+      "description": "-1.91 - -0.28",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "ZJ",
+      "value": 0.04,
+      "description": "-0.28 - 0.66",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JL",
+      "value": -4.07,
+      "description": "-5.76 - -1.91",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NM",
+      "value": -2.25,
+      "description": "-5.76 - -1.91",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HL",
+      "value": -5.75,
+      "description": "-5.76 - -1.91",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    }
+  ],
+  "colormap_name": "Tealgrn",
+  "colorscales": [
+    "rgb(176, 242, 188)",
+    "rgb(103, 219, 165)",
+    "rgb(56, 178, 163)",
+    "rgb(37, 125, 152)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Natural Growth Rate - 2022",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.8,
+      "y": 0.2
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 0
+  }
+}

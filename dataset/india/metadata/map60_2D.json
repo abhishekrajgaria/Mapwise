@@ -1,0 +1,290 @@
+{
+  "map_id": "60",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 4,
+  "class_descriptions": [
+    "51.0 - 62.6",
+    "44.8 - 51.0",
+    "22.59 - 44.8",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 48.2,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AN",
+      "value": 61.4,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "AP",
+      "value": 52.9,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "AR",
+      "value": 37.8,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AS",
+      "value": 44.8,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "BH",
+      "value": 58.3,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "CT",
+      "value": 41.5,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "GA",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "GJ",
+      "value": 51.3,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HR",
+      "value": 55.0,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HP",
+      "value": 50.4,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JK",
+      "value": 46.9,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JH",
+      "value": 62.6,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "KA",
+      "value": 45.4,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "KL",
+      "value": 22.6,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "MP",
+      "value": 54.6,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "MH",
+      "value": 49.3,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "MN",
+      "value": 26.0,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "PD",
+      "value": 26.0,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PB",
+      "value": 42.0,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "RJ",
+      "value": 46.6,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SK",
+      "value": 23.6,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TN",
+      "value": 44.4,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TR",
+      "value": 54.4,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "UP",
+      "value": 51.0,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "UT",
+      "value": 46.5,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "WB",
+      "value": 53.6,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "OR",
+      "value": 47.6,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "ME",
+      "value": 53.3,
+      "description": "51.0 - 62.6",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "MI",
+      "value": 27.0,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NL",
+      "value": 32.7,
+      "description": "22.59 - 44.8",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "DL",
+      "value": 46.1,
+      "description": "44.8 - 51.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    }
+  ],
+  "colormap_name": "Inferno",
+  "colorscales": [
+    "rgb(252, 255, 164)",
+    "rgb(186, 56, 83)",
+    "rgb(0, 0, 4)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Pregnant Women Aged 15-49 Years Who Are Anaemic (Per cent) - NFHS 4 (2015-16)",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.6,
+      "y": 0.94
+    },
+    "font_size": 16,
+    "bordercolor": "black",
+    "borderwidth": 1
+  }
+}

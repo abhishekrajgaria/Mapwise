@@ -1,0 +1,290 @@
+{
+    "map_id": 65,
+    "map_type": "Choropleth",
+    "KFF_file_name": "total-hospital-beds_2015_total-hospital-beds_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 14959.0,
+            "legend_position": 0.2
+        },
+        {
+            "region": "AK",
+            "value": 1633.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "AZ",
+            "value": 13301.0,
+            "legend_position": 0.18
+        },
+        {
+            "region": "AR",
+            "value": 9284.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "CA",
+            "value": 69441.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CO",
+            "value": 10521.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "CT",
+            "value": 7806.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "DE",
+            "value": 2053.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "FL",
+            "value": 53489.0,
+            "legend_position": 0.77
+        },
+        {
+            "region": "GA",
+            "value": 24479.0,
+            "legend_position": 0.34
+        },
+        {
+            "region": "HI",
+            "value": 2861.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "ID",
+            "value": 3311.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "IL",
+            "value": 31573.0,
+            "legend_position": 0.45
+        },
+        {
+            "region": "IN",
+            "value": 17193.0,
+            "legend_position": 0.23
+        },
+        {
+            "region": "IA",
+            "value": 9740.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "KS",
+            "value": 10028.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "KY",
+            "value": 13994.0,
+            "legend_position": 0.19
+        },
+        {
+            "region": "LA",
+            "value": 15076.0,
+            "legend_position": 0.2
+        },
+        {
+            "region": "ME",
+            "value": 3379.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "MD",
+            "value": 12027.0,
+            "legend_position": 0.16
+        },
+        {
+            "region": "MA",
+            "value": 16060.0,
+            "legend_position": 0.22
+        },
+        {
+            "region": "MI",
+            "value": 24398.0,
+            "legend_position": 0.34
+        },
+        {
+            "region": "MN",
+            "value": 14562.0,
+            "legend_position": 0.2
+        },
+        {
+            "region": "MS",
+            "value": 12471.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "MO",
+            "value": 18613.0,
+            "legend_position": 0.26
+        },
+        {
+            "region": "MT",
+            "value": 3685.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "NE",
+            "value": 6674.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "NV",
+            "value": 5549.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "NH",
+            "value": 2839.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "NJ",
+            "value": 20517.0,
+            "legend_position": 0.28
+        },
+        {
+            "region": "NM",
+            "value": 3771.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "NY",
+            "value": 55306.0,
+            "legend_position": 0.79
+        },
+        {
+            "region": "NC",
+            "value": 22034.0,
+            "legend_position": 0.31
+        },
+        {
+            "region": "ND",
+            "value": 3144.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "OH",
+            "value": 33566.0,
+            "legend_position": 0.47
+        },
+        {
+            "region": "OK",
+            "value": 11240.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "OR",
+            "value": 6740.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "PA",
+            "value": 38124.0,
+            "legend_position": 0.54
+        },
+        {
+            "region": "RI",
+            "value": 2247.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "SC",
+            "value": 12228.0,
+            "legend_position": 0.16
+        },
+        {
+            "region": "SD",
+            "value": 4086.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "TN",
+            "value": 20031.0,
+            "legend_position": 0.28
+        },
+        {
+            "region": "TX",
+            "value": 61335.0,
+            "legend_position": 0.88
+        },
+        {
+            "region": "UT",
+            "value": 5207.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "VT",
+            "value": 1200.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "VA",
+            "value": 18234.0,
+            "legend_position": 0.25
+        },
+        {
+            "region": "WA",
+            "value": 11988.0,
+            "legend_position": 0.16
+        },
+        {
+            "region": "WV",
+            "value": 6841.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "WI",
+            "value": 12659.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "WY",
+            "value": 1835.0,
+            "legend_position": 0.01
+        }
+    ],
+    "colormap_name": "Purpor",
+    "showgrid": false,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Total Hospital Beds | KFF",
+        "font_family": "Droid Serif",
+        "font_size": 19,
+        "position": {
+            "x": 0.06,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0.5
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

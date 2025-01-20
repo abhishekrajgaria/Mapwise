@@ -1,0 +1,401 @@
+{
+    "map_id": 20252,
+    "map_type": "Choropleth",
+    "KFF_file_name": "adults-who-report-ever-receiving-an-hiv-test-by-sex_2013_all-adults_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "28.3%-31.9%",
+        "32.4%-38.5%",
+        "38.9%-44.8%",
+        "45.9%-77.2%"
+    ],
+    "data_type": "Percentage",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.44799999999999995,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AK",
+            "value": 0.491,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 0.43200000000000005,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AR",
+            "value": 0.368,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CA",
+            "value": 0.45899999999999996,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 0.42100000000000004,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 0.423,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "DE",
+            "value": 0.48,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "FL",
+            "value": 0.506,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 0.489,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "HI",
+            "value": 0.364,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": 0.344,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IL",
+            "value": 0.389,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 0.35600000000000004,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 0.315,
+            "class": 0,
+            "description": "28.3%-31.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 0.358,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 0.369,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 0.49,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ME",
+            "value": 0.38,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MD",
+            "value": 0.5,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MA",
+            "value": 0.439,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MI",
+            "value": 0.41100000000000003,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 0.324,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 0.478,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MO",
+            "value": 0.373,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 0.37200000000000005,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NE",
+            "value": 0.319,
+            "class": 0,
+            "description": "28.3%-31.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 0.44799999999999995,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NH",
+            "value": 0.36200000000000004,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NJ",
+            "value": 0.42700000000000005,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 0.41,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NY",
+            "value": 0.54,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 0.484,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ND",
+            "value": 0.31,
+            "class": 0,
+            "description": "28.3%-31.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 0.37,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OK",
+            "value": 0.35100000000000003,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 0.42700000000000005,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 0.385,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 0.41700000000000004,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SC",
+            "value": 0.42700000000000005,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 0.312,
+            "class": 0,
+            "description": "28.3%-31.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 0.495,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TX",
+            "value": 0.433,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "UT",
+            "value": 0.28300000000000003,
+            "class": 0,
+            "description": "28.3%-31.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 0.363,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VA",
+            "value": 0.473,
+            "class": 3,
+            "description": "45.9%-77.2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WA",
+            "value": 0.43,
+            "class": 2,
+            "description": "38.9%-44.8%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 0.37799999999999995,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WI",
+            "value": 0.368,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 0.342,
+            "class": 1,
+            "description": "32.4%-38.5%",
+            "legend_position": "legend_3"
+        }
+    ],
+    "colormap_name": "Mint",
+    "colorscales": [
+        "rgb(228, 241, 225)",
+        "rgb(156, 190, 181)",
+        "rgb(84, 139, 138)",
+        "rgb(13, 88, 95)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Adults Who Report Ever Receiving an HIV Test by Sex | KFF",
+        "font_family": "Times New Roman",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

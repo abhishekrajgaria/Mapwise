@@ -1,0 +1,296 @@
+{
+  "map_id": "3",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 7,
+  "class_descriptions": [
+    "1,361,968.33 - 13,978,608.0",
+    "521,971.0 - 1,361,968.33",
+    "148,921.0 - 521,971.0",
+    "34,472.0 - 148,921.0",
+    "4,647.33 - 34,472.0",
+    "14.99 - 4,647.33",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "AN",
+      "value": 210.0,
+      "description": "14.99 - 4,647.33",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AP",
+      "value": 1729286.0,
+      "description": "1,361,968.33 - 13,978,608.0",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AR",
+      "value": 5000.0,
+      "description": "4,647.33 - 34,472.0",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AS",
+      "value": 152706.0,
+      "description": "148,921.0 - 521,971.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "BH",
+      "value": 1416095.0,
+      "description": "1,361,968.33 - 13,978,608.0",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "CT",
+      "value": 484557.0,
+      "description": "148,921.0 - 521,971.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "GA",
+      "value": 7705.0,
+      "description": "4,647.33 - 34,472.0",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GJ",
+      "value": 2570973.0,
+      "description": "1,361,968.33 - 13,978,608.0",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "HR",
+      "value": 695795.0,
+      "description": "521,971.0 - 1,361,968.33",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HP",
+      "value": 105726.0,
+      "description": "34,472.0 - 148,921.0",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JK",
+      "value": 100976.0,
+      "description": "34,472.0 - 148,921.0",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JH",
+      "value": 226680.0,
+      "description": "148,921.0 - 521,971.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "KA",
+      "value": 548001.0,
+      "description": "521,971.0 - 1,361,968.33",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "KL",
+      "value": 78105.0,
+      "description": "34,472.0 - 148,921.0",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "LD",
+      "value": 15.0,
+      "description": "14.99 - 4,647.33",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "MP",
+      "value": 1253715.0,
+      "description": "521,971.0 - 1,361,968.33",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MH",
+      "value": 881860.0,
+      "description": "521,971.0 - 1,361,968.33",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MN",
+      "value": 3000.0,
+      "description": "14.99 - 4,647.33",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "CH",
+      "value": 12462.0,
+      "description": "4,647.33 - 34,472.0",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "PD",
+      "value": 85.0,
+      "description": "14.99 - 4,647.33",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PB",
+      "value": 2152003.0,
+      "description": "1,361,968.33 - 13,978,608.0",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "RJ",
+      "value": 521387.0,
+      "description": "148,921.0 - 521,971.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SK",
+      "value": 2100.0,
+      "description": "14.99 - 4,647.33",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TN",
+      "value": 316583.0,
+      "description": "148,921.0 - 521,971.0",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "TR",
+      "value": 45477.0,
+      "description": "34,472.0 - 148,921.0",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "UP",
+      "value": 13978608.0,
+      "description": "1,361,968.33 - 13,978,608.0",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "UT",
+      "value": 148921.0,
+      "description": "34,472.0 - 148,921.0",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "WB",
+      "value": 5940511.0,
+      "description": "1,361,968.33 - 13,978,608.0",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "OR",
+      "value": 523139.0,
+      "description": "521,971.0 - 1,361,968.33",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "ME",
+      "value": 8200.0,
+      "description": "4,647.33 - 34,472.0",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "MI",
+      "value": 4471.0,
+      "description": "14.99 - 4,647.33",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NL",
+      "value": 6150.0,
+      "description": "4,647.33 - 34,472.0",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "DL",
+      "value": 129857.0,
+      "description": "34,472.0 - 148,921.0",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    }
+  ],
+  "colormap_name": "Reds",
+  "colorscales": [
+    "rgb(103, 0, 13)",
+    "rgb(188, 20, 26)",
+    "rgb(241, 68, 50)",
+    "rgb(252, 138, 106)",
+    "rgb(253, 202, 181)",
+    "rgb(255, 245, 240)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "State-Wise Cold Storage Capacity (In Metric Tonnes) - 2016",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.62,
+      "y": 0.94
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 2
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "map_id": "134",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 126.1,
+      "legend_position": 0.3
+    },
+    {
+      "region": "AR",
+      "value": 129.8,
+      "legend_position": 0.34
+    },
+    {
+      "region": "AS",
+      "value": 139.4,
+      "legend_position": 0.45
+    },
+    {
+      "region": "BH",
+      "value": 137.1,
+      "legend_position": 0.42
+    },
+    {
+      "region": "CT",
+      "value": 121.6,
+      "legend_position": 0.25
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 126.3,
+      "legend_position": 0.3
+    },
+    {
+      "region": "GJ",
+      "value": 122.5,
+      "legend_position": 0.26
+    },
+    {
+      "region": "HR",
+      "value": 179.7,
+      "legend_position": 0.91
+    },
+    {
+      "region": "HP",
+      "value": 176.0,
+      "legend_position": 0.86
+    },
+    {
+      "region": "JK",
+      "value": 154.5,
+      "legend_position": 0.62
+    },
+    {
+      "region": "JH",
+      "value": 109.1,
+      "legend_position": 0.1
+    },
+    {
+      "region": "KA",
+      "value": 123.7,
+      "legend_position": 0.27
+    },
+    {
+      "region": "KL",
+      "value": 132.2,
+      "legend_position": 0.37
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 139.0,
+      "legend_position": 0.44
+    },
+    {
+      "region": "MH",
+      "value": 129.7,
+      "legend_position": 0.34
+    },
+    {
+      "region": "MN",
+      "value": 100.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 174.6,
+      "legend_position": 0.85
+    },
+    {
+      "region": "PB",
+      "value": 188.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "RJ",
+      "value": 129.9,
+      "legend_position": 0.34
+    },
+    {
+      "region": "SK",
+      "value": 152.7,
+      "legend_position": 0.6
+    },
+    {
+      "region": "TN",
+      "value": 114.9,
+      "legend_position": 0.17
+    },
+    {
+      "region": "TR",
+      "value": 108.1,
+      "legend_position": 0.09
+    },
+    {
+      "region": "UP",
+      "value": 154.2,
+      "legend_position": 0.62
+    },
+    {
+      "region": "UT",
+      "value": 157.3,
+      "legend_position": 0.65
+    },
+    {
+      "region": "WB",
+      "value": 184.1,
+      "legend_position": 0.96
+    },
+    {
+      "region": "OR",
+      "value": 160.3,
+      "legend_position": 0.69
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 120.4,
+      "legend_position": 0.23
+    },
+    {
+      "region": "MI",
+      "value": 100.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 126.6,
+      "legend_position": 0.3
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "haline",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Pattern Of Land Use - Cropping Intensity (Per Cent) - 2007-08"
+}

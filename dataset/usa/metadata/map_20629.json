@@ -1,0 +1,403 @@
+{
+    "map_id": 20629,
+    "map_type": "Choropleth",
+    "KFF_file_name": "distribution-of-medicare-beneficiaries-by-raceethnicity_2009_number_black_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "1,800-30,600",
+        "32,700-58,200",
+        "76,500-167,300",
+        "169,600-320,900",
+        "N/A"
+    ],
+    "data_type": "Number",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": 154400,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AK",
+            "value": 1800,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 20900,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AR",
+            "value": 57600,
+            "class": 1,
+            "description": "32,700-58,200",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CA",
+            "value": 247100,
+            "class": 3,
+            "description": "169,600-320,900",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 17000,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 27500,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 20900,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 276400,
+            "class": 3,
+            "description": "169,600-320,900",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 274700,
+            "class": 3,
+            "description": "169,600-320,900",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "HI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "ID",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "IL",
+            "value": 215800,
+            "class": 3,
+            "description": "169,600-320,900",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IN",
+            "value": 58200,
+            "class": 1,
+            "description": "32,700-58,200",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 7600,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 17600,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 38700,
+            "class": 1,
+            "description": "32,700-58,200",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 162300,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ME",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MD",
+            "value": 160700,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MA",
+            "value": 32700,
+            "class": 1,
+            "description": "32,700-58,200",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 169600,
+            "class": 3,
+            "description": "169,600-320,900",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MN",
+            "value": 12500,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": 132700,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MO",
+            "value": 76500,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NE",
+            "value": 6000,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 18800,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NJ",
+            "value": 128500,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 5000,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 320900,
+            "class": 3,
+            "description": "169,600-320,900",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 242400,
+            "class": 3,
+            "description": "169,600-320,900",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ND",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "OH",
+            "value": 163000,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 30600,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 6700,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 146600,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "RI",
+            "value": 4000,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 162600,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "TN",
+            "value": 126200,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 279000,
+            "class": 3,
+            "description": "169,600-320,900",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "UT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "VT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "VA",
+            "value": 167300,
+            "class": 2,
+            "description": "76,500-167,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 19000,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WV",
+            "value": 8500,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 29300,
+            "class": 0,
+            "description": "1,800-30,600",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        }
+    ],
+    "colormap_name": "Magma",
+    "colorscales": [
+        "rgb(0, 0, 4)",
+        "rgb(63, 63, 50)",
+        "rgb(126, 126, 97)",
+        "rgb(189, 189, 144)",
+        "rgb(252, 253, 191)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Distribution of Medicare Beneficiaries by Race/Ethnicity | KFF",
+        "font_family": "Balto",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0.5
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

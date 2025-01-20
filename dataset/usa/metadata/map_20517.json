@@ -1,0 +1,401 @@
+{
+    "map_id": 20517,
+    "map_type": "Choropleth",
+    "KFF_file_name": "adults-who-report-not-seeing-a-doctor-in-the-past-12-months-because-of-cost-by-sex_2014_male_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "6.1%-8.0%",
+        "8.2%-10.4%",
+        "10.7%-12.6%",
+        "12.7%-17.0%"
+    ],
+    "data_type": "Percentage",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.134,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AK",
+            "value": 0.1,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AZ",
+            "value": 0.132,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AR",
+            "value": 0.142,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CA",
+            "value": 0.11599999999999999,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CO",
+            "value": 0.11800000000000001,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 0.107,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "DE",
+            "value": 0.10300000000000001,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "FL",
+            "value": 0.138,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 0.158,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "HI",
+            "value": 0.092,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": 0.133,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IL",
+            "value": 0.115,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 0.127,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IA",
+            "value": 0.078,
+            "class": 0,
+            "description": "6.1%-8.0%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 0.102,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 0.147,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "LA",
+            "value": 0.14300000000000002,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ME",
+            "value": 0.10400000000000001,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MD",
+            "value": 0.096,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 0.08900000000000001,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 0.141,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MN",
+            "value": 0.08,
+            "class": 0,
+            "description": "6.1%-8.0%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": 0.17,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MO",
+            "value": 0.111,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": 0.098,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NE",
+            "value": 0.102,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 0.15,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NH",
+            "value": 0.09699999999999999,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NJ",
+            "value": 0.134,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NM",
+            "value": 0.151,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NY",
+            "value": 0.142,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 0.132,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ND",
+            "value": 0.061,
+            "class": 0,
+            "description": "6.1%-8.0%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 0.11,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 0.126,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OR",
+            "value": 0.136,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "PA",
+            "value": 0.102,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 0.11800000000000001,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SC",
+            "value": 0.152,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SD",
+            "value": 0.08199999999999999,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TN",
+            "value": 0.14,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TX",
+            "value": 0.141,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "UT",
+            "value": 0.12,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VT",
+            "value": 0.08199999999999999,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VA",
+            "value": 0.109,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 0.115,
+            "class": 2,
+            "description": "10.7%-12.6%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 0.156,
+            "class": 3,
+            "description": "12.7%-17.0%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WI",
+            "value": 0.09300000000000001,
+            "class": 1,
+            "description": "8.2%-10.4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 0.078,
+            "class": 0,
+            "description": "6.1%-8.0%",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "Sunsetdark",
+    "colorscales": [
+        "rgb(252, 222, 156)",
+        "rgb(209, 157, 141)",
+        "rgb(166, 93, 126)",
+        "rgb(124, 29, 111)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Adults Who Report Not Seeing a Doctor in the Past 12 Months Because of Cost by Sex | KFF",
+        "font_family": "Gravitas One",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

@@ -1,0 +1,178 @@
+{
+  "map_id": "21",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 4.8,
+      "legend_position": 0.57
+    },
+    {
+      "region": "QH",
+      "value": -5.5,
+      "legend_position": 0.3
+    },
+    {
+      "region": "GX",
+      "value": 4.2,
+      "legend_position": 0.55
+    },
+    {
+      "region": "GZ",
+      "value": -2.4,
+      "legend_position": 0.38
+    },
+    {
+      "region": "CQ",
+      "value": 5.7,
+      "legend_position": 0.59
+    },
+    {
+      "region": "BJ",
+      "value": 5.8,
+      "legend_position": 0.59
+    },
+    {
+      "region": "FJ",
+      "value": 6.2,
+      "legend_position": 0.6
+    },
+    {
+      "region": "AH",
+      "value": 7.8,
+      "legend_position": 0.65
+    },
+    {
+      "region": "GD",
+      "value": 11.8,
+      "legend_position": 0.75
+    },
+    {
+      "region": "XZ",
+      "value": -0.4,
+      "legend_position": 0.43
+    },
+    {
+      "region": "XJ",
+      "value": 6.6,
+      "legend_position": 0.61
+    },
+    {
+      "region": "HI",
+      "value": -5.5,
+      "legend_position": 0.3
+    },
+    {
+      "region": "NX",
+      "value": -13.1,
+      "legend_position": 0.1
+    },
+    {
+      "region": "SN",
+      "value": 2.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "SX",
+      "value": 9.4,
+      "legend_position": 0.69
+    },
+    {
+      "region": "HB",
+      "value": 10.9,
+      "legend_position": 0.73
+    },
+    {
+      "region": "HN",
+      "value": 11.2,
+      "legend_position": 0.73
+    },
+    {
+      "region": "SC",
+      "value": 8.7,
+      "legend_position": 0.67
+    },
+    {
+      "region": "YN",
+      "value": 6.6,
+      "legend_position": 0.61
+    },
+    {
+      "region": "HE",
+      "value": 3.6,
+      "legend_position": 0.54
+    },
+    {
+      "region": "HA",
+      "value": 9.6,
+      "legend_position": 0.69
+    },
+    {
+      "region": "LN",
+      "value": 0.8,
+      "legend_position": 0.46
+    },
+    {
+      "region": "SD",
+      "value": -8.4,
+      "legend_position": 0.22
+    },
+    {
+      "region": "TJ",
+      "value": 21.3,
+      "legend_position": 1.0
+    },
+    {
+      "region": "JX",
+      "value": 6.1,
+      "legend_position": 0.6
+    },
+    {
+      "region": "JS",
+      "value": 4.8,
+      "legend_position": 0.57
+    },
+    {
+      "region": "SH",
+      "value": 6.2,
+      "legend_position": 0.6
+    },
+    {
+      "region": "ZJ",
+      "value": 20.8,
+      "legend_position": 0.99
+    },
+    {
+      "region": "JL",
+      "value": -16.8,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NM",
+      "value": 2.5,
+      "legend_position": 0.51
+    },
+    {
+      "region": "HL",
+      "value": -1.0,
+      "legend_position": 0.41
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Darkmint",
+  "paper_bgcolor": "lightgray",
+  "title": "Investment in Fixed Assets (Excluding Rural Households), Construction and Installation Growth Rate over Preceding Year (%) - 2019"
+}

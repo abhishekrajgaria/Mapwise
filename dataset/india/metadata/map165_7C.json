@@ -1,0 +1,193 @@
+{
+  "map_id": "165",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 2785.0,
+      "legend_position": 0.6
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 4192.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "AR",
+      "value": 1321.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "AS",
+      "value": 675.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "BH",
+      "value": 2336.0,
+      "legend_position": 0.47
+    },
+    {
+      "region": "CT",
+      "value": 781.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 933.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "GJ",
+      "value": 1402.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "HR",
+      "value": 2001.0,
+      "legend_position": 0.38
+    },
+    {
+      "region": "HP",
+      "value": 2318.0,
+      "legend_position": 0.47
+    },
+    {
+      "region": "JK",
+      "value": 1490.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "JH",
+      "value": 1443.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "KA",
+      "value": 1957.0,
+      "legend_position": 0.36
+    },
+    {
+      "region": "KL",
+      "value": 831.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 1397.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "MH",
+      "value": 1178.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "MN",
+      "value": 1845.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 2800.0,
+      "legend_position": 0.6
+    },
+    {
+      "region": "PB",
+      "value": 3915.0,
+      "legend_position": 0.92
+    },
+    {
+      "region": "RJ",
+      "value": 1080.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "SK",
+      "value": 1539.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "TN",
+      "value": 3642.0,
+      "legend_position": 0.84
+    },
+    {
+      "region": "TR",
+      "value": 1353.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "UP",
+      "value": 1753.0,
+      "legend_position": 0.31
+    },
+    {
+      "region": "UT",
+      "value": 1335.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "WB",
+      "value": 3432.0,
+      "legend_position": 0.78
+    },
+    {
+      "region": "OR",
+      "value": 1389.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 1443.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "MI",
+      "value": 1214.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "NL",
+      "value": 1833.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "speed",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Estimates Of Yield - Coarse Cereals (Kg. Per Hectare) - 2011-12"
+}

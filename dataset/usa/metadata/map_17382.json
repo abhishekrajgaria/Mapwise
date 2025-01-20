@@ -1,0 +1,401 @@
+{
+    "map_id": 17382,
+    "map_type": "Choropleth",
+    "KFF_file_name": "distribution-of-health-care-expenditures-by-service-by-state-of-residence-in-millions_2009_currency_hospital-care_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "1,696-9,561",
+        "10,266-21,935",
+        "23,478-35,567",
+        "43,011-78,872"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 10266,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 2667,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 13482,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 6654,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 78872,
+            "class": 3,
+            "description": "43,011-78,872",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 10984,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CT",
+            "value": 9561,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 2714,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 43011,
+            "class": 3,
+            "description": "43,011-78,872",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 19138,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 3248,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ID",
+            "value": 3361,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 34521,
+            "class": 2,
+            "description": "23,478-35,567",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 17803,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 8258,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 7053,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 11618,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 11814,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 4283,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MD",
+            "value": 16105,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 23478,
+            "class": 2,
+            "description": "23,478-35,567",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MI",
+            "value": 26836,
+            "class": 2,
+            "description": "23,478-35,567",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 14093,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 8033,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MO",
+            "value": 18098,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 2864,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 5441,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 5171,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 4147,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 21754,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NM",
+            "value": 5343,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 58931,
+            "class": 3,
+            "description": "43,011-78,872",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 21935,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ND",
+            "value": 2241,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 35567,
+            "class": 2,
+            "description": "23,478-35,567",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 9144,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 8632,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 35456,
+            "class": 2,
+            "description": "23,478-35,567",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "RI",
+            "value": 3233,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 11752,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 2737,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 13665,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 55792,
+            "class": 3,
+            "description": "43,011-78,872",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "UT",
+            "value": 5141,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 2236,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 18875,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 17027,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WV",
+            "value": 6015,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 16012,
+            "class": 1,
+            "description": "10,266-21,935",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 1696,
+            "class": 0,
+            "description": "1,696-9,561",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "BuPu",
+    "colorscales": [
+        "rgb(247, 252, 253)",
+        "rgb(190, 168, 193)",
+        "rgb(133, 84, 134)",
+        "rgb(77, 0, 75)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Distribution of Health Care Expenditures by Service by State of Residence (in millions) | KFF",
+        "font_family": "Times New Roman",
+        "font_size": 18,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0.5
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

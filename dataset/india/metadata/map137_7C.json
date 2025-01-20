@@ -1,0 +1,193 @@
+{
+  "map_id": "137",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 4841.0,
+      "legend_position": 0.72
+    },
+    {
+      "region": "AR",
+      "value": 705.0,
+      "legend_position": 0.39
+    },
+    {
+      "region": "AS",
+      "value": -428.0,
+      "legend_position": 0.3
+    },
+    {
+      "region": "BH",
+      "value": 1611.0,
+      "legend_position": 0.46
+    },
+    {
+      "region": "CT",
+      "value": -394.0,
+      "legend_position": 0.31
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 175.0,
+      "legend_position": 0.35
+    },
+    {
+      "region": "GJ",
+      "value": 93.0,
+      "legend_position": 0.34
+    },
+    {
+      "region": "HR",
+      "value": 3153.0,
+      "legend_position": 0.59
+    },
+    {
+      "region": "HP",
+      "value": -497.0,
+      "legend_position": 0.3
+    },
+    {
+      "region": "JK",
+      "value": 1310.0,
+      "legend_position": 0.44
+    },
+    {
+      "region": "JH",
+      "value": -342.0,
+      "legend_position": 0.31
+    },
+    {
+      "region": "KA",
+      "value": 6239.0,
+      "legend_position": 0.83
+    },
+    {
+      "region": "KL",
+      "value": 6521.0,
+      "legend_position": 0.85
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 460.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "MH",
+      "value": 2465.0,
+      "legend_position": 0.53
+    },
+    {
+      "region": "MN",
+      "value": 650.0,
+      "legend_position": 0.39
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 434.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "PB",
+      "value": 2210.0,
+      "legend_position": 0.51
+    },
+    {
+      "region": "RJ",
+      "value": -4266.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "SK",
+      "value": -11.0,
+      "legend_position": 0.34
+    },
+    {
+      "region": "TN",
+      "value": 8403.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "TR",
+      "value": -752.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "UP",
+      "value": -49.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "UT",
+      "value": -12.0,
+      "legend_position": 0.34
+    },
+    {
+      "region": "WB",
+      "value": 1809.0,
+      "legend_position": 0.48
+    },
+    {
+      "region": "OR",
+      "value": -3198.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 780.0,
+      "legend_position": 0.4
+    },
+    {
+      "region": "MI",
+      "value": -61.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "NL",
+      "value": 122.0,
+      "legend_position": 0.35
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Aggrnyl",
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Primary Deficit (\u20b9 Crore) - 2011-12"
+}

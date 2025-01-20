@@ -1,0 +1,290 @@
+{
+    "map_id": 49,
+    "map_type": "Choropleth",
+    "KFF_file_name": "medicaid-coverage-rates-for-the-nonelderly-by-federal-poverty-level-fpl_2016_number_400_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 47900.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "AK",
+            "value": 14900.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "AZ",
+            "value": 92700.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "AR",
+            "value": 42600.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "CA",
+            "value": 809600.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CO",
+            "value": 90800.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "CT",
+            "value": 63900.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "DE",
+            "value": 19200.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "FL",
+            "value": 197300.0,
+            "legend_position": 0.24
+        },
+        {
+            "region": "GA",
+            "value": 96800.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "HI",
+            "value": 26100.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "ID",
+            "value": 16300.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "IL",
+            "value": 151200.0,
+            "legend_position": 0.18
+        },
+        {
+            "region": "IN",
+            "value": 47400.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "IA",
+            "value": 52400.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "KS",
+            "value": 23400.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "KY",
+            "value": 54700.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "LA",
+            "value": 72300.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "ME",
+            "value": 12000.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "MD",
+            "value": 116600.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "MA",
+            "value": 211300.0,
+            "legend_position": 0.26
+        },
+        {
+            "region": "MI",
+            "value": 120300.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "MN",
+            "value": 78500.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "MS",
+            "value": 30500.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "MO",
+            "value": 36900.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "MT",
+            "value": 12000.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "NE",
+            "value": 15200.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "NV",
+            "value": 34400.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "NH",
+            "value": 21400.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "NJ",
+            "value": 150100.0,
+            "legend_position": 0.18
+        },
+        {
+            "region": "NM",
+            "value": 35600.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "NY",
+            "value": 450700.0,
+            "legend_position": 0.55
+        },
+        {
+            "region": "NC",
+            "value": 83200.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "ND",
+            "value": 3900.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OH",
+            "value": 109800.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "OK",
+            "value": 35800.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "OR",
+            "value": 61400.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "PA",
+            "value": 167900.0,
+            "legend_position": 0.2
+        },
+        {
+            "region": "RI",
+            "value": 16900.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "SC",
+            "value": 44600.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "SD",
+            "value": 6300.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "TN",
+            "value": 71400.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "TX",
+            "value": 249100.0,
+            "legend_position": 0.3
+        },
+        {
+            "region": "UT",
+            "value": 27700.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "VT",
+            "value": 14800.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "VA",
+            "value": 68300.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "WA",
+            "value": 125800.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "WV",
+            "value": 26600.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "WI",
+            "value": 58500.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "WY",
+            "value": 4400.0,
+            "legend_position": 0.0
+        }
+    ],
+    "colormap_name": "Blugrn",
+    "showgrid": false,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Medicaid Coverage Rates for the Nonelderly by Federal Poverty Level (FPL) | KFF",
+        "font_family": "Gravitas One",
+        "font_size": 18,
+        "position": {
+            "x": 0.08,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 1
+        },
+        "bordercolor": "black",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

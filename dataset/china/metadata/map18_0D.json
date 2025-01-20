@@ -1,0 +1,273 @@
+{
+  "map_id": "18",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 6,
+  "class_descriptions": [
+    "151.6 - 525.0",
+    "88.8 - 151.6",
+    "48.3 - 88.8",
+    "26.1 - 48.3",
+    "7.19 - 26.1",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 26.1,
+      "description": "7.19 - 26.1",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "QH",
+      "value": 7.2,
+      "description": "7.19 - 26.1",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GX",
+      "value": 89.7,
+      "description": "88.8 - 151.6",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "GZ",
+      "value": 52.8,
+      "description": "48.3 - 88.8",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "CQ",
+      "value": 151.6,
+      "description": "88.8 - 151.6",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "BJ",
+      "value": 192.5,
+      "description": "151.6 - 525.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "FJ",
+      "value": 137.2,
+      "description": "88.8 - 151.6",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AH",
+      "value": 88.8,
+      "description": "48.3 - 88.8",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "GD",
+      "value": 525.0,
+      "description": "151.6 - 525.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "XZ",
+      "value": 7.4,
+      "description": "7.19 - 26.1",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 29.9,
+      "description": "26.1 - 48.3",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HI",
+      "value": 24.5,
+      "description": "7.19 - 26.1",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NX",
+      "value": 14.4,
+      "description": "7.19 - 26.1",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SN",
+      "value": 55.5,
+      "description": "48.3 - 88.8",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SX",
+      "value": 27.3,
+      "description": "26.1 - 48.3",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HB",
+      "value": 116.9,
+      "description": "88.8 - 151.6",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HN",
+      "value": 82.8,
+      "description": "48.3 - 88.8",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SC",
+      "value": 102.8,
+      "description": "88.8 - 151.6",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "YN",
+      "value": 48.3,
+      "description": "26.1 - 48.3",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HE",
+      "value": 47.6,
+      "description": "26.1 - 48.3",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HA",
+      "value": 102.6,
+      "description": "88.8 - 151.6",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "LN",
+      "value": 63.4,
+      "description": "48.3 - 88.8",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SD",
+      "value": 277.9,
+      "description": "151.6 - 525.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "TJ",
+      "value": 23.6,
+      "description": "7.19 - 26.1",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JX",
+      "value": 85.3,
+      "description": "48.3 - 88.8",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JS",
+      "value": 333.3,
+      "description": "151.6 - 525.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SH",
+      "value": 353.4,
+      "description": "151.6 - 525.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "ZJ",
+      "value": 224.6,
+      "description": "151.6 - 525.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "JL",
+      "value": 32.8,
+      "description": "26.1 - 48.3",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "NM",
+      "value": 46.1,
+      "description": "26.1 - 48.3",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HL",
+      "value": 16.8,
+      "description": "7.19 - 26.1",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    }
+  ],
+  "colormap_name": "BuGn",
+  "colorscales": [
+    "rgb(0, 68, 27)",
+    "rgb(35, 139, 69)",
+    "rgb(102, 194, 164)",
+    "rgb(204, 236, 230)",
+    "rgb(247, 252, 253)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Number of Engaged Persons in Private Enterprises and Self-employed Individuals, Leasing and Business Services (10000 persons) - 2019",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "horizontal",
+    "position": {
+      "x": -0.1,
+      "y": 0.0
+    },
+    "font_size": 16,
+    "bordercolor": "black",
+    "borderwidth": 2
+  }
+}

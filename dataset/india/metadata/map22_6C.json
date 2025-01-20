@@ -1,0 +1,193 @@
+{
+  "map_id": "22",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 600.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 262100.0,
+      "legend_position": 0.26
+    },
+    {
+      "region": "AR",
+      "value": 1100.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 18400.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "BH",
+      "value": 29100.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "CT",
+      "value": 25000.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "DD",
+      "value": 300.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GA",
+      "value": 7700.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GJ",
+      "value": 140500.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "HR",
+      "value": 69100.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "HP",
+      "value": 11400.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "JK",
+      "value": 15800.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "JH",
+      "value": 22300.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "KA",
+      "value": 224800.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "KL",
+      "value": 96000.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "LD",
+      "value": 0.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MP",
+      "value": 71600.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "MH",
+      "value": 996900.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 1100.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "CH",
+      "value": 41300.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "PD",
+      "value": 3500.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PB",
+      "value": 95300.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "RJ",
+      "value": 94300.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "SK",
+      "value": 1200.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 322900.0,
+      "legend_position": 0.32
+    },
+    {
+      "region": "TR",
+      "value": 2300.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "UP",
+      "value": 135100.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "UT",
+      "value": 14200.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "WB",
+      "value": 170000.0,
+      "legend_position": 0.17
+    },
+    {
+      "region": "OR",
+      "value": 44800.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "DN",
+      "value": 600.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "ME",
+      "value": 2000.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MI",
+      "value": 1200.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 1300.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 421600.0,
+      "legend_position": 0.42
+    }
+  ],
+  "colormap_name": "Blugrn",
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Credit By Scheduled Commercial Banks In India (\u20b9 Crore) - 2010"
+}

@@ -1,0 +1,193 @@
+{
+  "map_id": "170",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 4.1,
+      "legend_position": 0.3
+    },
+    {
+      "region": "AN",
+      "value": 6.4,
+      "legend_position": 0.51
+    },
+    {
+      "region": "AP",
+      "value": 4.9,
+      "legend_position": 0.37
+    },
+    {
+      "region": "AR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AS",
+      "value": 9.0,
+      "legend_position": 0.76
+    },
+    {
+      "region": "BH",
+      "value": 3.3,
+      "legend_position": 0.22
+    },
+    {
+      "region": "CT",
+      "value": 1.6,
+      "legend_position": 0.06
+    },
+    {
+      "region": "DD",
+      "value": 6.5,
+      "legend_position": 0.52
+    },
+    {
+      "region": "GA",
+      "value": 2.8,
+      "legend_position": 0.17
+    },
+    {
+      "region": "GJ",
+      "value": 2.9,
+      "legend_position": 0.18
+    },
+    {
+      "region": "HR",
+      "value": 2.8,
+      "legend_position": 0.17
+    },
+    {
+      "region": "HP",
+      "value": 3.7,
+      "legend_position": 0.26
+    },
+    {
+      "region": "JK",
+      "value": 11.5,
+      "legend_position": 1.0
+    },
+    {
+      "region": "JH",
+      "value": 6.4,
+      "legend_position": 0.51
+    },
+    {
+      "region": "KA",
+      "value": 7.8,
+      "legend_position": 0.65
+    },
+    {
+      "region": "KL",
+      "value": 4.4,
+      "legend_position": 0.32
+    },
+    {
+      "region": "LD",
+      "value": 1.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MP",
+      "value": 5.5,
+      "legend_position": 0.43
+    },
+    {
+      "region": "MH",
+      "value": 4.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "MN",
+      "value": 4.8,
+      "legend_position": 0.36
+    },
+    {
+      "region": "CH",
+      "value": 3.6,
+      "legend_position": 0.25
+    },
+    {
+      "region": "PD",
+      "value": 5.1,
+      "legend_position": 0.39
+    },
+    {
+      "region": "PB",
+      "value": 3.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "RJ",
+      "value": 4.3,
+      "legend_position": 0.31
+    },
+    {
+      "region": "SK",
+      "value": 2.1,
+      "legend_position": 0.1
+    },
+    {
+      "region": "TN",
+      "value": 4.6,
+      "legend_position": 0.34
+    },
+    {
+      "region": "TR",
+      "value": 5.7,
+      "legend_position": 0.45
+    },
+    {
+      "region": "UP",
+      "value": 4.5,
+      "legend_position": 0.33
+    },
+    {
+      "region": "UT",
+      "value": 8.0,
+      "legend_position": 0.67
+    },
+    {
+      "region": "WB",
+      "value": 3.8,
+      "legend_position": 0.27
+    },
+    {
+      "region": "OR",
+      "value": 4.4,
+      "legend_position": 0.32
+    },
+    {
+      "region": "DN",
+      "value": 3.5,
+      "legend_position": 0.24
+    },
+    {
+      "region": "ME",
+      "value": 6.0,
+      "legend_position": 0.48
+    },
+    {
+      "region": "MI",
+      "value": 5.1,
+      "legend_position": 0.39
+    },
+    {
+      "region": "NL",
+      "value": 3.1,
+      "legend_position": 0.2
+    },
+    {
+      "region": "DL",
+      "value": 2.9,
+      "legend_position": 0.18
+    }
+  ],
+  "colormap_name": "thermal",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Average Inflation (Cpi) - Housing (Urban) (Per cent) - 2019-20"
+}

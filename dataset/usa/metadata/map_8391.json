@@ -1,0 +1,290 @@
+{
+    "map_id": 8391,
+    "map_type": "Choropleth",
+    "KFF_file_name": "health-insurance-coverage-of-adults-without-dependent-children_2018_number_non-group_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 153300.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "AK",
+            "value": 13500.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AZ",
+            "value": 217200.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "AR",
+            "value": 93000.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "CA",
+            "value": 1667100.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CO",
+            "value": 233900.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "CT",
+            "value": 122800.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "DE",
+            "value": 28000.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "FL",
+            "value": 1190900.0,
+            "legend_position": 0.71
+        },
+        {
+            "region": "GA",
+            "value": 342600.0,
+            "legend_position": 0.2
+        },
+        {
+            "region": "HI",
+            "value": 35800.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "ID",
+            "value": 77300.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "IL",
+            "value": 436600.0,
+            "legend_position": 0.26
+        },
+        {
+            "region": "IN",
+            "value": 178900.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "IA",
+            "value": 98800.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "KS",
+            "value": 94800.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "KY",
+            "value": 102300.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "LA",
+            "value": 150500.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "ME",
+            "value": 53800.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "MD",
+            "value": 186300.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "MA",
+            "value": 239800.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "MI",
+            "value": 317800.0,
+            "legend_position": 0.18
+        },
+        {
+            "region": "MN",
+            "value": 191200.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "MS",
+            "value": 82500.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "MO",
+            "value": 201800.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "MT",
+            "value": 47800.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "NE",
+            "value": 68700.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "NV",
+            "value": 96800.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "NH",
+            "value": 39800.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "NJ",
+            "value": 264100.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "NM",
+            "value": 57200.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "NY",
+            "value": 640700.0,
+            "legend_position": 0.38
+        },
+        {
+            "region": "NC",
+            "value": 388700.0,
+            "legend_position": 0.23
+        },
+        {
+            "region": "ND",
+            "value": 37800.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "OH",
+            "value": 319000.0,
+            "legend_position": 0.18
+        },
+        {
+            "region": "OK",
+            "value": 119300.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "OR",
+            "value": 157800.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "PA",
+            "value": 425600.0,
+            "legend_position": 0.25
+        },
+        {
+            "region": "RI",
+            "value": 31100.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "SC",
+            "value": 186000.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "SD",
+            "value": 39300.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "TN",
+            "value": 225200.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "TX",
+            "value": 901600.0,
+            "legend_position": 0.54
+        },
+        {
+            "region": "UT",
+            "value": 125600.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "VT",
+            "value": 28300.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "VA",
+            "value": 298900.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "WA",
+            "value": 243700.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "WV",
+            "value": 36800.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "WI",
+            "value": 200300.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "WY",
+            "value": 24000.0,
+            "legend_position": 0.01
+        }
+    ],
+    "colormap_name": "tempo",
+    "showgrid": false,
+    "paper_bgcolor": "rgb(217, 217, 217)",
+    "title": {
+        "text": "Health Insurance Coverage of Adults without Dependent Children | KFF",
+        "font_family": "Balto",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "black",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

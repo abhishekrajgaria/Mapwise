@@ -1,0 +1,193 @@
+{
+  "map_id": "168",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 281.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 66508.0,
+      "legend_position": 0.5
+    },
+    {
+      "region": "AR",
+      "value": 865.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "AS",
+      "value": 22414.0,
+      "legend_position": 0.17
+    },
+    {
+      "region": "BH",
+      "value": 64531.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "CT",
+      "value": 17615.0,
+      "legend_position": 0.13
+    },
+    {
+      "region": "DD",
+      "value": 102.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GA",
+      "value": 1170.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GJ",
+      "value": 41310.0,
+      "legend_position": 0.31
+    },
+    {
+      "region": "HR",
+      "value": 16464.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "HP",
+      "value": 5171.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "JK",
+      "value": 7837.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "JH",
+      "value": 21844.0,
+      "legend_position": 0.17
+    },
+    {
+      "region": "KA",
+      "value": 44977.0,
+      "legend_position": 0.34
+    },
+    {
+      "region": "KL",
+      "value": 29099.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "LD",
+      "value": 52.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MP",
+      "value": 48566.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "MH",
+      "value": 78937.0,
+      "legend_position": 0.6
+    },
+    {
+      "region": "MN",
+      "value": 1837.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "CH",
+      "value": 642.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PD",
+      "value": 808.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PB",
+      "value": 20282.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "RJ",
+      "value": 44006.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "SK",
+      "value": 406.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 55859.0,
+      "legend_position": 0.42
+    },
+    {
+      "region": "TR",
+      "value": 2757.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "UP",
+      "value": 132062.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "UT",
+      "value": 7051.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "WB",
+      "value": 68078.0,
+      "legend_position": 0.52
+    },
+    {
+      "region": "OR",
+      "value": 31660.0,
+      "legend_position": 0.24
+    },
+    {
+      "region": "DN",
+      "value": 138.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "ME",
+      "value": 1775.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 690.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 1210.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "DL",
+      "value": 9421.0,
+      "legend_position": 0.07
+    }
+  ],
+  "colormap_name": "YlGnBu",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Total Population (Thousands) - 1991"
+}

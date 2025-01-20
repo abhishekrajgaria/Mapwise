@@ -1,0 +1,403 @@
+{
+    "map_id": 15061,
+    "map_type": "Choropleth",
+    "KFF_file_name": "population-distribution-by-raceethnicity_2014_number_native-hawaiianother-pacific-islander_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "1,700-8,200",
+        "9,000-17,900",
+        "23,300",
+        "44,000-130,400",
+        "N/A"
+    ],
+    "data_type": "Number",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "AK",
+            "value": 8200,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 8000,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AR",
+            "value": 9000,
+            "class": 1,
+            "description": "9,000-17,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CA",
+            "value": 127300,
+            "class": 3,
+            "description": "44,000-130,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 4900,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "DE",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "FL",
+            "value": 12700,
+            "class": 1,
+            "description": "9,000-17,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 6800,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "HI",
+            "value": 130400,
+            "class": 3,
+            "description": "44,000-130,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ID",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "IL",
+            "value": 4900,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IN",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "IA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "KS",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "KY",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "LA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "ME",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MD",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MN",
+            "value": 2700,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MO",
+            "value": 4300,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NE",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NV",
+            "value": 17900,
+            "class": 1,
+            "description": "9,000-17,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NH",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NJ",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NM",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NY",
+            "value": 2200,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NC",
+            "value": 5800,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ND",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "OH",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "OK",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "OR",
+            "value": 11900,
+            "class": 1,
+            "description": "9,000-17,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "PA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "RI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "SC",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "SD",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "TN",
+            "value": 1700,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TX",
+            "value": 15300,
+            "class": 1,
+            "description": "9,000-17,900",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "UT",
+            "value": 23300,
+            "class": 2,
+            "description": "23,300",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "VA",
+            "value": 3100,
+            "class": 0,
+            "description": "1,700-8,200",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WA",
+            "value": 44000,
+            "class": 3,
+            "description": "44,000-130,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WV",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "WI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "WY",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        }
+    ],
+    "colormap_name": "ice",
+    "colorscales": [
+        "rgb(3, 5, 18)",
+        "rgb(60, 66, 76)",
+        "rgb(118, 128, 135)",
+        "rgb(176, 190, 194)",
+        "rgb(234, 252, 253)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Population Distribution by Race/Ethnicity | KFF",
+        "font_family": "PT Sans Narrow",
+        "font_size": 18,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

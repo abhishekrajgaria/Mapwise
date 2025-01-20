@@ -1,0 +1,193 @@
+{
+  "map_id": "158",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 28987.0,
+      "legend_position": 0.27
+    },
+    {
+      "region": "AN",
+      "value": 44754.0,
+      "legend_position": 0.48
+    },
+    {
+      "region": "AP",
+      "value": 28223.0,
+      "legend_position": 0.26
+    },
+    {
+      "region": "AR",
+      "value": 28171.0,
+      "legend_position": 0.26
+    },
+    {
+      "region": "AS",
+      "value": 18396.0,
+      "legend_position": 0.13
+    },
+    {
+      "region": "BH",
+      "value": 8223.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "CT",
+      "value": 20117.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 84721.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "GJ",
+      "value": 37780.0,
+      "legend_position": 0.39
+    },
+    {
+      "region": "HR",
+      "value": 42309.0,
+      "legend_position": 0.44
+    },
+    {
+      "region": "HP",
+      "value": 36949.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "JK",
+      "value": 23240.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "JH",
+      "value": 18326.0,
+      "legend_position": 0.13
+    },
+    {
+      "region": "KA",
+      "value": 31239.0,
+      "legend_position": 0.3
+    },
+    {
+      "region": "KL",
+      "value": 36958.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 16631.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "MH",
+      "value": 41965.0,
+      "legend_position": 0.44
+    },
+    {
+      "region": "MN",
+      "value": 20251.0,
+      "legend_position": 0.16
+    },
+    {
+      "region": "CH",
+      "value": 84993.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "PD",
+      "value": 67205.0,
+      "legend_position": 0.77
+    },
+    {
+      "region": "PB",
+      "value": 36199.0,
+      "legend_position": 0.36
+    },
+    {
+      "region": "RJ",
+      "value": 20275.0,
+      "legend_position": 0.16
+    },
+    {
+      "region": "SK",
+      "value": 30252.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "TN",
+      "value": 35243.0,
+      "legend_position": 0.35
+    },
+    {
+      "region": "TR",
+      "value": 26668.0,
+      "legend_position": 0.24
+    },
+    {
+      "region": "UP",
+      "value": 14221.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "UT",
+      "value": 29441.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "WB",
+      "value": 24720.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "OR",
+      "value": 18846.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 24885.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "MI",
+      "value": 26698.0,
+      "legend_position": 0.24
+    },
+    {
+      "region": "NL",
+      "value": 33792.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "DL",
+      "value": 72208.0,
+      "legend_position": 0.83
+    }
+  ],
+  "colormap_name": "dense",
+  "paper_bgcolor": "lightgray",
+  "title": "Per Capita Net State Domestic Product (\u20b9) - 2005-06"
+}

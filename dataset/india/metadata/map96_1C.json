@@ -1,0 +1,193 @@
+{
+  "map_id": "96",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 19207.0,
+      "legend_position": 0.57
+    },
+    {
+      "region": "AR",
+      "value": 62.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 3232.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "BH",
+      "value": 3561.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "CT",
+      "value": 4052.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 1096.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "GJ",
+      "value": 15698.0,
+      "legend_position": 0.47
+    },
+    {
+      "region": "HR",
+      "value": 9079.0,
+      "legend_position": 0.27
+    },
+    {
+      "region": "HP",
+      "value": 1497.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "JK",
+      "value": 1689.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "JH",
+      "value": 2888.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "KA",
+      "value": 18632.0,
+      "legend_position": 0.55
+    },
+    {
+      "region": "KL",
+      "value": 9779.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 9115.0,
+      "legend_position": 0.27
+    },
+    {
+      "region": "MH",
+      "value": 33540.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 95.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 479.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PB",
+      "value": 8989.0,
+      "legend_position": 0.27
+    },
+    {
+      "region": "RJ",
+      "value": 9880.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "SK",
+      "value": 147.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 23326.0,
+      "legend_position": 0.69
+    },
+    {
+      "region": "TR",
+      "value": 296.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "UP",
+      "value": 18858.0,
+      "legend_position": 0.56
+    },
+    {
+      "region": "UT",
+      "value": 1785.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "WB",
+      "value": 10388.0,
+      "legend_position": 0.31
+    },
+    {
+      "region": "OR",
+      "value": 5002.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 253.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 55.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 106.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "ice",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Own Tax Revenue (\u20b9 Crore) - 2005-06"
+}

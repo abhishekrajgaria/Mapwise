@@ -1,0 +1,193 @@
+{
+  "map_id": "15",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 505.5,
+      "legend_position": 0.07
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 1439.5,
+      "legend_position": 0.19
+    },
+    {
+      "region": "AR",
+      "value": 32.3,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 306.2,
+      "legend_position": 0.04
+    },
+    {
+      "region": "BH",
+      "value": 128.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "CT",
+      "value": 297.5,
+      "legend_position": 0.04
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 3.1,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GJ",
+      "value": 2452.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "HR",
+      "value": 580.2,
+      "legend_position": 0.08
+    },
+    {
+      "region": "HP",
+      "value": 13.5,
+      "legend_position": 0.0
+    },
+    {
+      "region": "JK",
+      "value": 64.8,
+      "legend_position": 0.01
+    },
+    {
+      "region": "JH",
+      "value": 250.6,
+      "legend_position": 0.03
+    },
+    {
+      "region": "KA",
+      "value": 1422.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "KL",
+      "value": 1.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 7534.4,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MH",
+      "value": 3806.0,
+      "legend_position": 0.51
+    },
+    {
+      "region": "MN",
+      "value": 44.1,
+      "legend_position": 0.01
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 0.5,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PB",
+      "value": 51.4,
+      "legend_position": 0.01
+    },
+    {
+      "region": "RJ",
+      "value": 4912.2,
+      "legend_position": 0.65
+    },
+    {
+      "region": "SK",
+      "value": 8.2,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 388.5,
+      "legend_position": 0.05
+    },
+    {
+      "region": "TR",
+      "value": 4.8,
+      "legend_position": 0.0
+    },
+    {
+      "region": "UP",
+      "value": 1147.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "UT",
+      "value": 32.2,
+      "legend_position": 0.0
+    },
+    {
+      "region": "WB",
+      "value": 732.1,
+      "legend_position": 0.1
+    },
+    {
+      "region": "OR",
+      "value": 243.3,
+      "legend_position": 0.03
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 10.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MI",
+      "value": 2.1,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 64.5,
+      "legend_position": 0.01
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "GnBu",
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Area Of Non-Foodgrains - Oilseeds (Thousand Hectares) - 2012-13"
+}

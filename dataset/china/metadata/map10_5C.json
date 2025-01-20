@@ -1,0 +1,178 @@
+{
+  "map_id": "10",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 33.7,
+      "legend_position": 0.18
+    },
+    {
+      "region": "QH",
+      "value": 14.7,
+      "legend_position": 0.04
+    },
+    {
+      "region": "GX",
+      "value": 39.4,
+      "legend_position": 0.22
+    },
+    {
+      "region": "GZ",
+      "value": 41.3,
+      "legend_position": 0.24
+    },
+    {
+      "region": "CQ",
+      "value": 54.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "BJ",
+      "value": 35.5,
+      "legend_position": 0.2
+    },
+    {
+      "region": "FJ",
+      "value": 41.2,
+      "legend_position": 0.24
+    },
+    {
+      "region": "AH",
+      "value": 48.7,
+      "legend_position": 0.29
+    },
+    {
+      "region": "GD",
+      "value": 136.6,
+      "legend_position": 0.94
+    },
+    {
+      "region": "XZ",
+      "value": 8.7,
+      "legend_position": 0.0
+    },
+    {
+      "region": "XJ",
+      "value": 25.5,
+      "legend_position": 0.12
+    },
+    {
+      "region": "HI",
+      "value": 13.3,
+      "legend_position": 0.03
+    },
+    {
+      "region": "NX",
+      "value": 10.7,
+      "legend_position": 0.01
+    },
+    {
+      "region": "SN",
+      "value": 54.3,
+      "legend_position": 0.33
+    },
+    {
+      "region": "SX",
+      "value": 34.1,
+      "legend_position": 0.19
+    },
+    {
+      "region": "HB",
+      "value": 145.3,
+      "legend_position": 1.0
+    },
+    {
+      "region": "HN",
+      "value": 51.3,
+      "legend_position": 0.31
+    },
+    {
+      "region": "SC",
+      "value": 75.6,
+      "legend_position": 0.49
+    },
+    {
+      "region": "YN",
+      "value": 58.2,
+      "legend_position": 0.36
+    },
+    {
+      "region": "HE",
+      "value": 40.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "HA",
+      "value": 57.7,
+      "legend_position": 0.36
+    },
+    {
+      "region": "LN",
+      "value": 41.1,
+      "legend_position": 0.24
+    },
+    {
+      "region": "SD",
+      "value": 84.4,
+      "legend_position": 0.55
+    },
+    {
+      "region": "TJ",
+      "value": 31.4,
+      "legend_position": 0.17
+    },
+    {
+      "region": "JX",
+      "value": 40.6,
+      "legend_position": 0.23
+    },
+    {
+      "region": "JS",
+      "value": 91.1,
+      "legend_position": 0.6
+    },
+    {
+      "region": "SH",
+      "value": 18.6,
+      "legend_position": 0.07
+    },
+    {
+      "region": "ZJ",
+      "value": 71.3,
+      "legend_position": 0.46
+    },
+    {
+      "region": "JL",
+      "value": 42.5,
+      "legend_position": 0.25
+    },
+    {
+      "region": "NM",
+      "value": 54.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "HL",
+      "value": 53.1,
+      "legend_position": 0.33
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Purples",
+  "paper_bgcolor": "lightgray",
+  "title": "Number of Engaged Persons in Private Enterprises and Self-employed Individuals, Hotels and Catering Services (10000 persons) - 2014"
+}

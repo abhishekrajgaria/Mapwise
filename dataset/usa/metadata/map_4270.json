@@ -1,0 +1,401 @@
+{
+    "map_id": 4270,
+    "map_type": "Choropleth",
+    "KFF_file_name": "average-annual-deductible-per-enrolled-employee-in-employer-based-health-insurance-for-single-and-family-coverage_2016_average-single-deductible_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "988-1,205",
+        "1,301-1,583",
+        "1,603-1,819",
+        "1,828-2,434"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 1205,
+            "class": 0,
+            "description": "988-1,205",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AK",
+            "value": 1707,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AZ",
+            "value": 1958,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AR",
+            "value": 1418,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CA",
+            "value": 1476,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CO",
+            "value": 1880,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 1959,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 1567,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "FL",
+            "value": 1694,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 1738,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 988,
+            "class": 0,
+            "description": "988-1,205",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ID",
+            "value": 1732,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IL",
+            "value": 1474,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 1866,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IA",
+            "value": 1659,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KS",
+            "value": 1715,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 1905,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "LA",
+            "value": 1494,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ME",
+            "value": 2103,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MD",
+            "value": 1727,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 1391,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MI",
+            "value": 1379,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 1782,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 1709,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MO",
+            "value": 2009,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MT",
+            "value": 2039,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 1710,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 1634,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NH",
+            "value": 2434,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 1515,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 1301,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NY",
+            "value": 1789,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NC",
+            "value": 1963,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ND",
+            "value": 1695,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OH",
+            "value": 1781,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OK",
+            "value": 1787,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 1950,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 1603,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 1583,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SC",
+            "value": 1719,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 1889,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 2142,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TX",
+            "value": 1872,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 1438,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VT",
+            "value": 1819,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VA",
+            "value": 1523,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 1379,
+            "class": 1,
+            "description": "1,301-1,583",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 1758,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WI",
+            "value": 1828,
+            "class": 3,
+            "description": "1,828-2,434",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": 1746,
+            "class": 2,
+            "description": "1,603-1,819",
+            "legend_position": "legend_3"
+        }
+    ],
+    "colormap_name": "Emrld",
+    "colorscales": [
+        "rgb(211, 242, 163)",
+        "rgb(143, 182, 135)",
+        "rgb(75, 123, 107)",
+        "rgb(7, 64, 80)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Average Annual Deductible per Enrolled Employee in Employer-Based Health Insurance for Single and Family Coverage | KFF",
+        "font_family": "Overpass",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

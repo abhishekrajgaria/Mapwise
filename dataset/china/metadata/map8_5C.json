@@ -1,0 +1,178 @@
+{
+  "map_id": "8",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 6.0,
+      "legend_position": 0.56
+    },
+    {
+      "region": "QH",
+      "value": 8.52,
+      "legend_position": 0.78
+    },
+    {
+      "region": "GX",
+      "value": 7.87,
+      "legend_position": 0.72
+    },
+    {
+      "region": "GZ",
+      "value": 6.5,
+      "legend_position": 0.6
+    },
+    {
+      "region": "CQ",
+      "value": 4.53,
+      "legend_position": 0.43
+    },
+    {
+      "region": "BJ",
+      "value": 4.12,
+      "legend_position": 0.4
+    },
+    {
+      "region": "FJ",
+      "value": 8.3,
+      "legend_position": 0.76
+    },
+    {
+      "region": "AH",
+      "value": 7.06,
+      "legend_position": 0.65
+    },
+    {
+      "region": "GD",
+      "value": 7.44,
+      "legend_position": 0.69
+    },
+    {
+      "region": "XZ",
+      "value": 10.68,
+      "legend_position": 0.97
+    },
+    {
+      "region": "XJ",
+      "value": 11.08,
+      "legend_position": 1.0
+    },
+    {
+      "region": "HI",
+      "value": 8.57,
+      "legend_position": 0.78
+    },
+    {
+      "region": "NX",
+      "value": 8.97,
+      "legend_position": 0.82
+    },
+    {
+      "region": "SN",
+      "value": 4.41,
+      "legend_position": 0.42
+    },
+    {
+      "region": "SX",
+      "value": 4.77,
+      "legend_position": 0.45
+    },
+    {
+      "region": "HB",
+      "value": 5.07,
+      "legend_position": 0.48
+    },
+    {
+      "region": "HN",
+      "value": 6.56,
+      "legend_position": 0.61
+    },
+    {
+      "region": "SC",
+      "value": 3.49,
+      "legend_position": 0.34
+    },
+    {
+      "region": "YN",
+      "value": 6.61,
+      "legend_position": 0.61
+    },
+    {
+      "region": "HE",
+      "value": 6.06,
+      "legend_position": 0.57
+    },
+    {
+      "region": "HA",
+      "value": 6.15,
+      "legend_position": 0.57
+    },
+    {
+      "region": "LN",
+      "value": -0.18,
+      "legend_position": 0.03
+    },
+    {
+      "region": "SD",
+      "value": 10.84,
+      "legend_position": 0.98
+    },
+    {
+      "region": "TJ",
+      "value": 1.83,
+      "legend_position": 0.2
+    },
+    {
+      "region": "JX",
+      "value": 7.29,
+      "legend_position": 0.67
+    },
+    {
+      "region": "JS",
+      "value": 2.73,
+      "legend_position": 0.28
+    },
+    {
+      "region": "SH",
+      "value": 4.0,
+      "legend_position": 0.39
+    },
+    {
+      "region": "ZJ",
+      "value": 5.7,
+      "legend_position": 0.54
+    },
+    {
+      "region": "JL",
+      "value": -0.05,
+      "legend_position": 0.04
+    },
+    {
+      "region": "NM",
+      "value": 3.34,
+      "legend_position": 0.33
+    },
+    {
+      "region": "HL",
+      "value": -0.49,
+      "legend_position": 0.0
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "OrRd",
+  "paper_bgcolor": "white",
+  "title": "Natural Growth Rate - 2016"
+}

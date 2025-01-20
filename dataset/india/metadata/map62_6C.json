@@ -1,0 +1,193 @@
+{
+  "map_id": "62",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 4.3,
+      "legend_position": 0.14
+    },
+    {
+      "region": "AP",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AR",
+      "value": 5.9,
+      "legend_position": 0.46
+    },
+    {
+      "region": "AS",
+      "value": 8.2,
+      "legend_position": 0.92
+    },
+    {
+      "region": "BH",
+      "value": 6.8,
+      "legend_position": 0.64
+    },
+    {
+      "region": "CT",
+      "value": 8.0,
+      "legend_position": 0.88
+    },
+    {
+      "region": "DD",
+      "value": 4.9,
+      "legend_position": 0.26
+    },
+    {
+      "region": "GA",
+      "value": 6.6,
+      "legend_position": 0.6
+    },
+    {
+      "region": "GJ",
+      "value": 6.7,
+      "legend_position": 0.62
+    },
+    {
+      "region": "HR",
+      "value": 6.6,
+      "legend_position": 0.6
+    },
+    {
+      "region": "HP",
+      "value": 6.9,
+      "legend_position": 0.66
+    },
+    {
+      "region": "JK",
+      "value": 5.7,
+      "legend_position": 0.42
+    },
+    {
+      "region": "JH",
+      "value": 7.0,
+      "legend_position": 0.68
+    },
+    {
+      "region": "KA",
+      "value": 7.1,
+      "legend_position": 0.7
+    },
+    {
+      "region": "KL",
+      "value": 7.0,
+      "legend_position": 0.68
+    },
+    {
+      "region": "LD",
+      "value": 6.4,
+      "legend_position": 0.56
+    },
+    {
+      "region": "MP",
+      "value": 8.3,
+      "legend_position": 0.94
+    },
+    {
+      "region": "MH",
+      "value": 6.5,
+      "legend_position": 0.58
+    },
+    {
+      "region": "MN",
+      "value": 4.2,
+      "legend_position": 0.12
+    },
+    {
+      "region": "CH",
+      "value": 3.9,
+      "legend_position": 0.06
+    },
+    {
+      "region": "PD",
+      "value": 7.4,
+      "legend_position": 0.76
+    },
+    {
+      "region": "PB",
+      "value": 7.0,
+      "legend_position": 0.68
+    },
+    {
+      "region": "RJ",
+      "value": 6.7,
+      "legend_position": 0.62
+    },
+    {
+      "region": "SK",
+      "value": 5.6,
+      "legend_position": 0.4
+    },
+    {
+      "region": "TN",
+      "value": 7.6,
+      "legend_position": 0.8
+    },
+    {
+      "region": "TR",
+      "value": 5.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "UP",
+      "value": 8.1,
+      "legend_position": 0.9
+    },
+    {
+      "region": "UT",
+      "value": 6.3,
+      "legend_position": 0.54
+    },
+    {
+      "region": "WB",
+      "value": 6.0,
+      "legend_position": 0.48
+    },
+    {
+      "region": "OR",
+      "value": 8.6,
+      "legend_position": 1.0
+    },
+    {
+      "region": "DN",
+      "value": 4.7,
+      "legend_position": 0.22
+    },
+    {
+      "region": "ME",
+      "value": 7.9,
+      "legend_position": 0.86
+    },
+    {
+      "region": "MI",
+      "value": 4.5,
+      "legend_position": 0.18
+    },
+    {
+      "region": "NL",
+      "value": 3.6,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 4.2,
+      "legend_position": 0.12
+    }
+  ],
+  "colormap_name": "Magma",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Death Rate (Per Thousand) - 2010"
+}

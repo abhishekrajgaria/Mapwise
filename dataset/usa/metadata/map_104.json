@@ -1,0 +1,403 @@
+{
+    "map_id": 104,
+    "map_type": "Choropleth",
+    "KFF_file_name": "rate-of-legal-abortions-per-1000-women-aged-15-44-years-by-state-of-occurrence_2018_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "2.4-6.5",
+        "6.8-10.5",
+        "10.6-14.2",
+        "14.8-25.3",
+        "N/A"
+    ],
+    "data_type": "Number",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": 6.8,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 8.8,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AZ",
+            "value": 9,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 5.3,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "CO",
+            "value": 7.7,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CT",
+            "value": 13.9,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "DE",
+            "value": 9.7,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "FL",
+            "value": 18.1,
+            "class": 3,
+            "description": "14.8-25.3",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 15.7,
+            "class": 3,
+            "description": "14.8-25.3",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "HI",
+            "value": 8,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": 3.7,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 16.9,
+            "class": 3,
+            "description": "14.8-25.3",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IN",
+            "value": 6.2,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IA",
+            "value": 4.8,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 12.4,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KY",
+            "value": 3.8,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "LA",
+            "value": 8.7,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 8.4,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MD",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MA",
+            "value": 13.1,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MI",
+            "value": 14.2,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 9.2,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 5.1,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MO",
+            "value": 2.5,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MT",
+            "value": 8.7,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NE",
+            "value": 5.6,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 14.8,
+            "class": 3,
+            "description": "14.8-25.3",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NH",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NJ",
+            "value": 13.6,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 9.7,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NY",
+            "value": 19.8,
+            "class": 3,
+            "description": "14.8-25.3",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 13.5,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 7.7,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OH",
+            "value": 9.2,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OK",
+            "value": 6.5,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 10.6,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 12.7,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "RI",
+            "value": 13.5,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SC",
+            "value": 4.8,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SD",
+            "value": 2.4,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 8.2,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 9.2,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "UT",
+            "value": 4.5,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 10.5,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VA",
+            "value": 9.8,
+            "class": 1,
+            "description": "6.8-10.5",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 11.5,
+            "class": 2,
+            "description": "10.6-14.2",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 4.7,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 5.7,
+            "class": 0,
+            "description": "2.4-6.5",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        }
+    ],
+    "colormap_name": "Redor",
+    "colorscales": [
+        "rgb(246, 210, 169)",
+        "rgb(228, 173, 151)",
+        "rgb(211, 136, 134)",
+        "rgb(194, 99, 117)",
+        "rgb(177, 63, 100)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Rate of Legal Abortions per 1",
+        "font_family": "Gravitas One",
+        "font_size": 18,
+        "position": {
+            "x": 0.08,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

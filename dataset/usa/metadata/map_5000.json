@@ -1,0 +1,290 @@
+{
+    "map_id": 5000,
+    "map_type": "Choropleth",
+    "KFF_file_name": "average-annual-employee-plus-one-premium-per-enrolled-employee-for-employer-based-health-insurance_2020_percent_employee-contribution_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.33,
+            "legend_position": 0.75
+        },
+        {
+            "region": "AK",
+            "value": 0.26,
+            "legend_position": 0.17
+        },
+        {
+            "region": "AZ",
+            "value": 0.31,
+            "legend_position": 0.58
+        },
+        {
+            "region": "AR",
+            "value": 0.3,
+            "legend_position": 0.5
+        },
+        {
+            "region": "CA",
+            "value": 0.27,
+            "legend_position": 0.25
+        },
+        {
+            "region": "CO",
+            "value": 0.36,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CT",
+            "value": 0.25,
+            "legend_position": 0.08
+        },
+        {
+            "region": "DE",
+            "value": 0.32,
+            "legend_position": 0.67
+        },
+        {
+            "region": "FL",
+            "value": 0.36,
+            "legend_position": 1.0
+        },
+        {
+            "region": "GA",
+            "value": 0.3,
+            "legend_position": 0.5
+        },
+        {
+            "region": "HI",
+            "value": 0.28,
+            "legend_position": 0.33
+        },
+        {
+            "region": "ID",
+            "value": 0.29,
+            "legend_position": 0.42
+        },
+        {
+            "region": "IL",
+            "value": 0.26,
+            "legend_position": 0.17
+        },
+        {
+            "region": "IN",
+            "value": 0.25,
+            "legend_position": 0.08
+        },
+        {
+            "region": "IA",
+            "value": 0.3,
+            "legend_position": 0.5
+        },
+        {
+            "region": "KS",
+            "value": 0.31,
+            "legend_position": 0.58
+        },
+        {
+            "region": "KY",
+            "value": 0.26,
+            "legend_position": 0.17
+        },
+        {
+            "region": "LA",
+            "value": 0.34,
+            "legend_position": 0.83
+        },
+        {
+            "region": "ME",
+            "value": 0.26,
+            "legend_position": 0.17
+        },
+        {
+            "region": "MD",
+            "value": 0.28,
+            "legend_position": 0.33
+        },
+        {
+            "region": "MA",
+            "value": 0.25,
+            "legend_position": 0.08
+        },
+        {
+            "region": "MI",
+            "value": 0.25,
+            "legend_position": 0.08
+        },
+        {
+            "region": "MN",
+            "value": 0.31,
+            "legend_position": 0.58
+        },
+        {
+            "region": "MS",
+            "value": 0.33,
+            "legend_position": 0.75
+        },
+        {
+            "region": "MO",
+            "value": 0.33,
+            "legend_position": 0.75
+        },
+        {
+            "region": "MT",
+            "value": 0.27,
+            "legend_position": 0.25
+        },
+        {
+            "region": "NE",
+            "value": 0.29,
+            "legend_position": 0.42
+        },
+        {
+            "region": "NV",
+            "value": 0.31,
+            "legend_position": 0.58
+        },
+        {
+            "region": "NH",
+            "value": 0.24,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NJ",
+            "value": 0.3,
+            "legend_position": 0.5
+        },
+        {
+            "region": "NM",
+            "value": 0.33,
+            "legend_position": 0.75
+        },
+        {
+            "region": "NY",
+            "value": 0.24,
+            "legend_position": 0.0
+        },
+        {
+            "region": "NC",
+            "value": 0.32,
+            "legend_position": 0.67
+        },
+        {
+            "region": "ND",
+            "value": 0.24,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OH",
+            "value": 0.27,
+            "legend_position": 0.25
+        },
+        {
+            "region": "OK",
+            "value": 0.29,
+            "legend_position": 0.42
+        },
+        {
+            "region": "OR",
+            "value": 0.24,
+            "legend_position": 0.0
+        },
+        {
+            "region": "PA",
+            "value": 0.26,
+            "legend_position": 0.17
+        },
+        {
+            "region": "RI",
+            "value": 0.27,
+            "legend_position": 0.25
+        },
+        {
+            "region": "SC",
+            "value": 0.34,
+            "legend_position": 0.83
+        },
+        {
+            "region": "SD",
+            "value": 0.3,
+            "legend_position": 0.5
+        },
+        {
+            "region": "TN",
+            "value": 0.3,
+            "legend_position": 0.5
+        },
+        {
+            "region": "TX",
+            "value": 0.3,
+            "legend_position": 0.5
+        },
+        {
+            "region": "UT",
+            "value": 0.26,
+            "legend_position": 0.17
+        },
+        {
+            "region": "VT",
+            "value": 0.27,
+            "legend_position": 0.25
+        },
+        {
+            "region": "VA",
+            "value": 0.29,
+            "legend_position": 0.42
+        },
+        {
+            "region": "WA",
+            "value": 0.27,
+            "legend_position": 0.25
+        },
+        {
+            "region": "WV",
+            "value": 0.27,
+            "legend_position": 0.25
+        },
+        {
+            "region": "WI",
+            "value": 0.24,
+            "legend_position": 0.0
+        },
+        {
+            "region": "WY",
+            "value": 0.25,
+            "legend_position": 0.08
+        }
+    ],
+    "colormap_name": "thermal",
+    "showgrid": false,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Average Annual Employee-Plus-One Premium per Enrolled Employee For Employer-Based Health Insurance | KFF",
+        "font_family": "Balto",
+        "font_size": 19,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

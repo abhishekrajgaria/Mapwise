@@ -1,0 +1,401 @@
+{
+    "map_id": 930,
+    "map_type": "Choropleth",
+    "KFF_file_name": "population-distribution-by-age_2008_number_adults-19-25_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "48,500-278,400",
+        "279,600-572,900",
+        "658,300-1,027,600",
+        "1,190,900-3,619,900"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 429900,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AK",
+            "value": 74100,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 572900,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AR",
+            "value": 250300,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CA",
+            "value": 3619900,
+            "class": 3,
+            "description": "1,190,900-3,619,900",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CO",
+            "value": 449500,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 278400,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "DE",
+            "value": 76300,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "FL",
+            "value": 1527100,
+            "class": 3,
+            "description": "1,190,900-3,619,900",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "GA",
+            "value": 853400,
+            "class": 2,
+            "description": "658,300-1,027,600",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 117400,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ID",
+            "value": 142700,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IL",
+            "value": 1190900,
+            "class": 3,
+            "description": "1,190,900-3,619,900",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IN",
+            "value": 532800,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IA",
+            "value": 279600,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KS",
+            "value": 262700,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "KY",
+            "value": 348600,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "LA",
+            "value": 432300,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ME",
+            "value": 95500,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MD",
+            "value": 497500,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MA",
+            "value": 566900,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MI",
+            "value": 882400,
+            "class": 2,
+            "description": "658,300-1,027,600",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MN",
+            "value": 473900,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MS",
+            "value": 267900,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MO",
+            "value": 530500,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": 89300,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NE",
+            "value": 158800,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NV",
+            "value": 216400,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NH",
+            "value": 102300,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NJ",
+            "value": 722400,
+            "class": 2,
+            "description": "658,300-1,027,600",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NM",
+            "value": 187700,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NY",
+            "value": 1805700,
+            "class": 3,
+            "description": "1,190,900-3,619,900",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NC",
+            "value": 757500,
+            "class": 2,
+            "description": "658,300-1,027,600",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ND",
+            "value": 73300,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OH",
+            "value": 972400,
+            "class": 2,
+            "description": "658,300-1,027,600",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OK",
+            "value": 334100,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OR",
+            "value": 333100,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 1027600,
+            "class": 2,
+            "description": "658,300-1,027,600",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 98500,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SC",
+            "value": 385400,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 65500,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TN",
+            "value": 518200,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 2290300,
+            "class": 3,
+            "description": "1,190,900-3,619,900",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 329200,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VT",
+            "value": 50100,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VA",
+            "value": 658300,
+            "class": 2,
+            "description": "658,300-1,027,600",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WA",
+            "value": 551100,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 148600,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WI",
+            "value": 501700,
+            "class": 1,
+            "description": "279,600-572,900",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WY",
+            "value": 48500,
+            "class": 0,
+            "description": "48,500-278,400",
+            "legend_position": "legend_1"
+        }
+    ],
+    "colormap_name": "amp",
+    "colorscales": [
+        "rgb(241, 236, 236)",
+        "rgb(180, 160, 163)",
+        "rgb(120, 84, 90)",
+        "rgb(60, 9, 17)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Population Distribution by Age | KFF",
+        "font_family": "Droid Sans Mono",
+        "font_size": 19,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 1
+        },
+        "bordercolor": "white",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

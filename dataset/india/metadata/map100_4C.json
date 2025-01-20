@@ -1,0 +1,193 @@
+{
+  "map_id": "100",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 3191729.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "AN",
+      "value": 73241.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 3295872.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "AR",
+      "value": 138409.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 1191169.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "BH",
+      "value": 1669773.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "CT",
+      "value": 2452831.0,
+      "legend_position": 0.16
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 628159.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "GJ",
+      "value": 9042100.0,
+      "legend_position": 0.59
+    },
+    {
+      "region": "HR",
+      "value": 3249799.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "HP",
+      "value": 1044594.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "JK",
+      "value": 779321.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "JH",
+      "value": 2263808.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "KA",
+      "value": 5957169.0,
+      "legend_position": 0.39
+    },
+    {
+      "region": "KL",
+      "value": 2961328.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 3916114.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "MH",
+      "value": 15365517.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 195400.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "CH",
+      "value": 143426.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PD",
+      "value": 352856.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "PB",
+      "value": 3301129.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "RJ",
+      "value": 4439156.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "SK",
+      "value": 66610.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 7280656.0,
+      "legend_position": 0.47
+    },
+    {
+      "region": "TR",
+      "value": 257843.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "UP",
+      "value": 6821075.0,
+      "legend_position": 0.44
+    },
+    {
+      "region": "UT",
+      "value": 1130655.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "WB",
+      "value": 4131501.0,
+      "legend_position": 0.27
+    },
+    {
+      "region": "OR",
+      "value": 2850974.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 220715.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 65996.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 115597.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 1970798.0,
+      "legend_position": 0.12
+    }
+  ],
+  "colormap_name": "Redor",
+  "paper_bgcolor": "white",
+  "title": "Net State Value Added By Economic Activity - Industry (\u20b9 Lakh) - 2008-09"
+}

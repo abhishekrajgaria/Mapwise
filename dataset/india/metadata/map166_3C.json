@@ -1,0 +1,193 @@
+{
+  "map_id": "166",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 0.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 13728.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "AR",
+      "value": 5492.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "AS",
+      "value": 16106.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "BH",
+      "value": 42608.0,
+      "legend_position": 0.65
+    },
+    {
+      "region": "CT",
+      "value": 26849.0,
+      "legend_position": 0.41
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 155.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GJ",
+      "value": 12503.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "HR",
+      "value": 5538.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "HP",
+      "value": 11891.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "JK",
+      "value": 6392.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "JH",
+      "value": 14899.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "KA",
+      "value": 18515.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "KL",
+      "value": 2823.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 65681.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MH",
+      "value": 25483.0,
+      "legend_position": 0.39
+    },
+    {
+      "region": "MN",
+      "value": 5517.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 0.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PB",
+      "value": 7115.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "RJ",
+      "value": 61339.0,
+      "legend_position": 0.93
+    },
+    {
+      "region": "SK",
+      "value": 3188.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "TN",
+      "value": 13787.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "TR",
+      "value": 3857.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "UP",
+      "value": 50208.0,
+      "legend_position": 0.76
+    },
+    {
+      "region": "UT",
+      "value": 7529.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "WB",
+      "value": 23121.0,
+      "legend_position": 0.35
+    },
+    {
+      "region": "OR",
+      "value": 39779.0,
+      "legend_position": 0.61
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 1546.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "MI",
+      "value": 2622.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "NL",
+      "value": 3403.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Redor",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Road Constructed Under Pmgsy* (Km) - 2016-17"
+}

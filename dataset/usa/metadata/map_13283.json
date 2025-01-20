@@ -1,0 +1,290 @@
+{
+    "map_id": 13283,
+    "map_type": "Choropleth",
+    "KFF_file_name": "population-distribution-by-sex_2008_number_female_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 2351200.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "AK",
+            "value": 322600.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AZ",
+            "value": 3206300.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "AR",
+            "value": 1418800.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "CA",
+            "value": 18074500.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CO",
+            "value": 2412900.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "CT",
+            "value": 1739100.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "DE",
+            "value": 437900.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "FL",
+            "value": 9176100.0,
+            "legend_position": 0.5
+        },
+        {
+            "region": "GA",
+            "value": 4820400.0,
+            "legend_position": 0.26
+        },
+        {
+            "region": "HI",
+            "value": 624100.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "ID",
+            "value": 740000.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "IL",
+            "value": 6394000.0,
+            "legend_position": 0.34
+        },
+        {
+            "region": "IN",
+            "value": 3143300.0,
+            "legend_position": 0.16
+        },
+        {
+            "region": "IA",
+            "value": 1463600.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "KS",
+            "value": 1372000.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "KY",
+            "value": 2135100.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "LA",
+            "value": 2216100.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "ME",
+            "value": 658100.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "MD",
+            "value": 2843400.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "MA",
+            "value": 3221700.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "MI",
+            "value": 4984500.0,
+            "legend_position": 0.27
+        },
+        {
+            "region": "MN",
+            "value": 2557900.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "MS",
+            "value": 1462900.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "MO",
+            "value": 2944300.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "MT",
+            "value": 474600.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "NE",
+            "value": 869200.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "NV",
+            "value": 1264100.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "NH",
+            "value": 647300.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "NJ",
+            "value": 4353100.0,
+            "legend_position": 0.23
+        },
+        {
+            "region": "NM",
+            "value": 990800.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "NY",
+            "value": 9792200.0,
+            "legend_position": 0.54
+        },
+        {
+            "region": "NC",
+            "value": 4595700.0,
+            "legend_position": 0.24
+        },
+        {
+            "region": "ND",
+            "value": 304400.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OH",
+            "value": 5739100.0,
+            "legend_position": 0.31
+        },
+        {
+            "region": "OK",
+            "value": 1796800.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "OR",
+            "value": 1874000.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "PA",
+            "value": 6181000.0,
+            "legend_position": 0.33
+        },
+        {
+            "region": "RI",
+            "value": 525500.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "SC",
+            "value": 2242400.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "SD",
+            "value": 387300.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "TN",
+            "value": 3114100.0,
+            "legend_position": 0.16
+        },
+        {
+            "region": "TX",
+            "value": 11944700.0,
+            "legend_position": 0.66
+        },
+        {
+            "region": "UT",
+            "value": 1342200.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "VT",
+            "value": 305700.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "VA",
+            "value": 3834600.0,
+            "legend_position": 0.2
+        },
+        {
+            "region": "WA",
+            "value": 3219800.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "WV",
+            "value": 905400.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "WI",
+            "value": 2762300.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "WY",
+            "value": 256500.0,
+            "legend_position": 0.0
+        }
+    ],
+    "colormap_name": "Aggrnyl",
+    "showgrid": true,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Population Distribution by Sex | KFF",
+        "font_family": "Balto",
+        "font_size": 19,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "black",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

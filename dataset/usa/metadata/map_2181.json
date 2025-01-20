@@ -1,0 +1,401 @@
+{
+    "map_id": 2181,
+    "map_type": "Choropleth",
+    "KFF_file_name": "medicare-advantage-plans_2011_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "0-33",
+        "35-63",
+        "66-92",
+        "95-205"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AK",
+            "value": 0,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AL",
+            "value": 31,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AR",
+            "value": 63,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AZ",
+            "value": 55,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CA",
+            "value": 155,
+            "class": 3,
+            "description": "95-205",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CO",
+            "value": 53,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 15,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "DE",
+            "value": 2,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "FL",
+            "value": 205,
+            "class": 3,
+            "description": "95-205",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "GA",
+            "value": 92,
+            "class": 2,
+            "description": "66-92",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 20,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IA",
+            "value": 47,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ID",
+            "value": 41,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IL",
+            "value": 72,
+            "class": 2,
+            "description": "66-92",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IN",
+            "value": 75,
+            "class": 2,
+            "description": "66-92",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KS",
+            "value": 50,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KY",
+            "value": 47,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "LA",
+            "value": 66,
+            "class": 2,
+            "description": "66-92",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 35,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MD",
+            "value": 26,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ME",
+            "value": 33,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MI",
+            "value": 61,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 35,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MO",
+            "value": 82,
+            "class": 2,
+            "description": "66-92",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 62,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": 35,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NC",
+            "value": 84,
+            "class": 2,
+            "description": "66-92",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ND",
+            "value": 35,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NE",
+            "value": 33,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NH",
+            "value": 15,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NJ",
+            "value": 20,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NM",
+            "value": 19,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NV",
+            "value": 42,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NY",
+            "value": 170,
+            "class": 3,
+            "description": "95-205",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 77,
+            "class": 2,
+            "description": "66-92",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OK",
+            "value": 43,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OR",
+            "value": 60,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 121,
+            "class": 3,
+            "description": "95-205",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "RI",
+            "value": 7,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SC",
+            "value": 53,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 27,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TN",
+            "value": 62,
+            "class": 1,
+            "description": "35-63",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 150,
+            "class": 3,
+            "description": "95-205",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 24,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VA",
+            "value": 95,
+            "class": 3,
+            "description": "95-205",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 10,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WA",
+            "value": 90,
+            "class": 2,
+            "description": "66-92",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WI",
+            "value": 95,
+            "class": 3,
+            "description": "95-205",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WV",
+            "value": 25,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WY",
+            "value": 16,
+            "class": 0,
+            "description": "0-33",
+            "legend_position": "legend_1"
+        }
+    ],
+    "colormap_name": "Greys",
+    "colorscales": [
+        "rgb(255, 255, 255)",
+        "rgb(170, 170, 170)",
+        "rgb(85, 85, 85)",
+        "rgb(0, 0, 0)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Medicare Advantage Plans | KFF",
+        "font_family": "Gravitas One",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "black",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "map_id": 1267,
+    "map_type": "Choropleth",
+    "KFF_file_name": "weekly-covid-19-vaccine-allocations_week-of-may-3-2021_total-vaccines-allocated_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 263480.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "AK",
+            "value": 70340.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "AZ",
+            "value": 373920.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "AR",
+            "value": 160820.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "CA",
+            "value": 2096280.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CO",
+            "value": 298100.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "CT",
+            "value": 199080.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "DE",
+            "value": 54020.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "FL",
+            "value": 1146560.0,
+            "legend_position": 0.54
+        },
+        {
+            "region": "GA",
+            "value": 544520.0,
+            "legend_position": 0.25
+        },
+        {
+            "region": "HI",
+            "value": 79560.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "ID",
+            "value": 88440.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "IL",
+            "value": 692820.0,
+            "legend_position": 0.32
+        },
+        {
+            "region": "IN",
+            "value": 353420.0,
+            "legend_position": 0.16
+        },
+        {
+            "region": "IA",
+            "value": 169300.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "KS",
+            "value": 153240.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "KY",
+            "value": 241280.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "LA",
+            "value": 249860.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "ME",
+            "value": 76120.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "MD",
+            "value": 326780.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "MA",
+            "value": 382000.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "MI",
+            "value": 541080.0,
+            "legend_position": 0.25
+        },
+        {
+            "region": "MN",
+            "value": 297400.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "MS",
+            "value": 160420.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "MO",
+            "value": 328180.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "MT",
+            "value": 58560.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "NE",
+            "value": 101860.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "NV",
+            "value": 157380.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "NH",
+            "value": 76320.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "NJ",
+            "value": 481620.0,
+            "legend_position": 0.22
+        },
+        {
+            "region": "NM",
+            "value": 114180.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "NY",
+            "value": 1080760.0,
+            "legend_position": 0.51
+        },
+        {
+            "region": "NC",
+            "value": 549060.0,
+            "legend_position": 0.25
+        },
+        {
+            "region": "ND",
+            "value": 42200.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OH",
+            "value": 629920.0,
+            "legend_position": 0.29
+        },
+        {
+            "region": "OK",
+            "value": 207760.0,
+            "legend_position": 0.08
+        },
+        {
+            "region": "OR",
+            "value": 225520.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "PA",
+            "value": 708980.0,
+            "legend_position": 0.33
+        },
+        {
+            "region": "RI",
+            "value": 59460.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "SC",
+            "value": 271060.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "SD",
+            "value": 46340.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "TN",
+            "value": 360800.0,
+            "legend_position": 0.16
+        },
+        {
+            "region": "TX",
+            "value": 1435680.0,
+            "legend_position": 0.68
+        },
+        {
+            "region": "UT",
+            "value": 149200.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "VT",
+            "value": 37160.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "VA",
+            "value": 458520.0,
+            "legend_position": 0.21
+        },
+        {
+            "region": "WA",
+            "value": 400060.0,
+            "legend_position": 0.18
+        },
+        {
+            "region": "WV",
+            "value": 102060.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "WI",
+            "value": 315160.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "WY",
+            "value": 32820.0,
+            "legend_position": 0.0
+        }
+    ],
+    "colormap_name": "Blugrn",
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Weekly COVID-19 Vaccine Allocations | KFF",
+        "font_family": "Times New Roman",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

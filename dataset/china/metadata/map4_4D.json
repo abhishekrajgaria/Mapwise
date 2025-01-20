@@ -1,0 +1,270 @@
+{
+  "map_id": "4",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "small_to_large",
+  "num_classes": 5,
+  "class_descriptions": [
+    "-41.71 - 2.4",
+    "2.4 - 14.6",
+    "14.6 - 50.6",
+    "N/A",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": -13.4,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "QH",
+      "value": 7.6,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GX",
+      "value": 22.5,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "GZ",
+      "value": 12.5,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CQ",
+      "value": 9.3,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "BJ",
+      "value": -41.7,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "FJ",
+      "value": 22.3,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "AH",
+      "value": 33.3,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "GD",
+      "value": -0.1,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XZ",
+      "value": 50.6,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "XJ",
+      "value": -9.1,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HI",
+      "value": -37.9,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NX",
+      "value": 0.4,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SN",
+      "value": 8.6,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SX",
+      "value": 14.6,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HB",
+      "value": 15.6,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HN",
+      "value": 35.0,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SC",
+      "value": -3.9,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "YN",
+      "value": 14.3,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HE",
+      "value": 8.2,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HA",
+      "value": 3.4,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "LN",
+      "value": 20.3,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SD",
+      "value": 2.4,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TJ",
+      "value": -22.0,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JX",
+      "value": 18.2,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JS",
+      "value": 11.2,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SH",
+      "value": 14.8,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "ZJ",
+      "value": 4.9,
+      "description": "2.4 - 14.6",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JL",
+      "value": -3.8,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NM",
+      "value": -25.8,
+      "description": "-41.71 - 2.4",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HL",
+      "value": 15.6,
+      "description": "14.6 - 50.6",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    }
+  ],
+  "colormap_name": "YlOrRd",
+  "colorscales": [
+    "rgb(255, 255, 204)",
+    "rgb(253, 141, 60)",
+    "rgb(128, 0, 38)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "Investment in Fixed Assets (Excluding Rural Households), Manufacturing Growth Rate over Preceding Year (%) - 2018",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.8,
+      "y": 0.1
+    },
+    "font_size": 16,
+    "bordercolor": "lightgray",
+    "borderwidth": 2
+  }
+}

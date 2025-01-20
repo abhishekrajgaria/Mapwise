@@ -1,0 +1,294 @@
+{
+  "map_id": "81",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 6,
+  "class_descriptions": [
+    "7.52 - 11.0",
+    "6.18 - 7.52",
+    "4.82 - 6.18",
+    "3.54 - 4.82",
+    "-0.41 - 3.54",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 4.9,
+      "description": "4.82 - 6.18",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "AN",
+      "value": 10.4,
+      "description": "7.52 - 11.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "AP",
+      "value": 4.4,
+      "description": "3.54 - 4.82",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AR",
+      "value": NaN,
+      "description": "N/A",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "AS",
+      "value": 5.5,
+      "description": "4.82 - 6.18",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "BH",
+      "value": 2.4,
+      "description": "-0.41 - 3.54",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "CT",
+      "value": 4.2,
+      "description": "3.54 - 4.82",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "DD",
+      "value": -0.4,
+      "description": "-0.41 - 3.54",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GA",
+      "value": 3.6,
+      "description": "3.54 - 4.82",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GJ",
+      "value": 4.7,
+      "description": "3.54 - 4.82",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HR",
+      "value": 4.9,
+      "description": "4.82 - 6.18",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HP",
+      "value": 3.7,
+      "description": "3.54 - 4.82",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JK",
+      "value": 3.2,
+      "description": "-0.41 - 3.54",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JH",
+      "value": 4.5,
+      "description": "3.54 - 4.82",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "KA",
+      "value": 6.4,
+      "description": "6.18 - 7.52",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "KL",
+      "value": 6.3,
+      "description": "6.18 - 7.52",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "LD",
+      "value": 11.0,
+      "description": "7.52 - 11.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MP",
+      "value": 7.6,
+      "description": "7.52 - 11.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MH",
+      "value": 6.1,
+      "description": "4.82 - 6.18",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "MN",
+      "value": 11.0,
+      "description": "7.52 - 11.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "CH",
+      "value": 9.4,
+      "description": "7.52 - 11.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "PD",
+      "value": 7.4,
+      "description": "6.18 - 7.52",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "PB",
+      "value": 6.9,
+      "description": "6.18 - 7.52",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "RJ",
+      "value": 8.3,
+      "description": "7.52 - 11.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "SK",
+      "value": 1.2,
+      "description": "-0.41 - 3.54",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TN",
+      "value": 7.7,
+      "description": "7.52 - 11.0",
+      "class": 0,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "TR",
+      "value": 6.9,
+      "description": "6.18 - 7.52",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "UP",
+      "value": 7.5,
+      "description": "6.18 - 7.52",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "UT",
+      "value": 7.1,
+      "description": "6.18 - 7.52",
+      "class": 1,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "WB",
+      "value": 5.4,
+      "description": "4.82 - 6.18",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "OR",
+      "value": 5.6,
+      "description": "4.82 - 6.18",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DN",
+      "value": 3.1,
+      "description": "-0.41 - 3.54",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "ME",
+      "value": 1.6,
+      "description": "-0.41 - 3.54",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "MI",
+      "value": 5.6,
+      "description": "4.82 - 6.18",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "NL",
+      "value": 3.3,
+      "description": "-0.41 - 3.54",
+      "class": 4,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "DL",
+      "value": 4.4,
+      "description": "3.54 - 4.82",
+      "class": 3,
+      "legend_position": "legend_position_1"
+    }
+  ],
+  "colormap_name": "haline",
+  "colorscales": [
+    "rgb(253, 238, 153)",
+    "rgb(123, 202, 103)",
+    "rgb(59, 146, 134)",
+    "rgb(17, 89, 145)",
+    "rgb(41, 24, 107)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Average Inflation (Cpi) - Food And Beverages (Per cent) - 2019-20",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.68,
+      "y": 0.94
+    },
+    "font_size": 16,
+    "bordercolor": "black",
+    "borderwidth": 1
+  }
+}

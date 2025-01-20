@@ -1,0 +1,193 @@
+{
+  "map_id": "11",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 2893703.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "AN",
+      "value": 59109.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 3110450.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "AR",
+      "value": 116328.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 1418571.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "BH",
+      "value": 1173370.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "CT",
+      "value": 2041364.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 626226.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "GJ",
+      "value": 9325100.0,
+      "legend_position": 0.64
+    },
+    {
+      "region": "HR",
+      "value": 3419462.0,
+      "legend_position": 0.23
+    },
+    {
+      "region": "HP",
+      "value": 1002645.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "JK",
+      "value": 806516.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "JH",
+      "value": 2732725.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "KA",
+      "value": 5471586.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "KL",
+      "value": 3005799.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 3209886.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "MH",
+      "value": 14630829.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 202049.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "CH",
+      "value": 155686.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PD",
+      "value": 389547.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "PB",
+      "value": 2665416.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "RJ",
+      "value": 4238250.0,
+      "legend_position": 0.29
+    },
+    {
+      "region": "SK",
+      "value": 56059.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 7907174.0,
+      "legend_position": 0.54
+    },
+    {
+      "region": "TR",
+      "value": 238529.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "UP",
+      "value": 6707478.0,
+      "legend_position": 0.46
+    },
+    {
+      "region": "UT",
+      "value": 890753.0,
+      "legend_position": 0.06
+    },
+    {
+      "region": "WB",
+      "value": 4668579.0,
+      "legend_position": 0.32
+    },
+    {
+      "region": "OR",
+      "value": 2722052.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 186646.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 57197.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 87996.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 1952555.0,
+      "legend_position": 0.13
+    }
+  ],
+  "colormap_name": "Blugrn",
+  "paper_bgcolor": "white",
+  "title": "Gross State Value Added By Economic Activity - Industry (\u20b9 Lakh) - 2005-06"
+}

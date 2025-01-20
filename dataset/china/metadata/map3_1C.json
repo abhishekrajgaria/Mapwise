@@ -1,0 +1,178 @@
+{
+  "map_id": "3",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 3.3,
+      "legend_position": 0.48
+    },
+    {
+      "region": "QH",
+      "value": 2.1,
+      "legend_position": 0.0
+    },
+    {
+      "region": "GX",
+      "value": 2.8,
+      "legend_position": 0.28
+    },
+    {
+      "region": "GZ",
+      "value": 3.8,
+      "legend_position": 0.68
+    },
+    {
+      "region": "CQ",
+      "value": 4.5,
+      "legend_position": 0.96
+    },
+    {
+      "region": "BJ",
+      "value": 2.6,
+      "legend_position": 0.2
+    },
+    {
+      "region": "FJ",
+      "value": 3.8,
+      "legend_position": 0.68
+    },
+    {
+      "region": "AH",
+      "value": 2.8,
+      "legend_position": 0.28
+    },
+    {
+      "region": "GD",
+      "value": 2.5,
+      "legend_position": 0.16
+    },
+    {
+      "region": "XZ",
+      "value": 2.9,
+      "legend_position": 0.32
+    },
+    {
+      "region": "XJ",
+      "value": 2.4,
+      "legend_position": 0.12
+    },
+    {
+      "region": "HI",
+      "value": 2.8,
+      "legend_position": 0.28
+    },
+    {
+      "region": "NX",
+      "value": 3.9,
+      "legend_position": 0.72
+    },
+    {
+      "region": "SN",
+      "value": 3.6,
+      "legend_position": 0.6
+    },
+    {
+      "region": "SX",
+      "value": 3.1,
+      "legend_position": 0.4
+    },
+    {
+      "region": "HB",
+      "value": 3.4,
+      "legend_position": 0.52
+    },
+    {
+      "region": "HN",
+      "value": 2.7,
+      "legend_position": 0.24
+    },
+    {
+      "region": "SC",
+      "value": 3.6,
+      "legend_position": 0.6
+    },
+    {
+      "region": "YN",
+      "value": 3.9,
+      "legend_position": 0.72
+    },
+    {
+      "region": "HE",
+      "value": 3.5,
+      "legend_position": 0.56
+    },
+    {
+      "region": "HA",
+      "value": 3.2,
+      "legend_position": 0.44
+    },
+    {
+      "region": "LN",
+      "value": 4.6,
+      "legend_position": 1.0
+    },
+    {
+      "region": "SD",
+      "value": 3.1,
+      "legend_position": 0.4
+    },
+    {
+      "region": "TJ",
+      "value": 3.6,
+      "legend_position": 0.6
+    },
+    {
+      "region": "JX",
+      "value": 3.2,
+      "legend_position": 0.44
+    },
+    {
+      "region": "JS",
+      "value": 3.2,
+      "legend_position": 0.44
+    },
+    {
+      "region": "SH",
+      "value": 3.7,
+      "legend_position": 0.64
+    },
+    {
+      "region": "ZJ",
+      "value": 2.8,
+      "legend_position": 0.28
+    },
+    {
+      "region": "JL",
+      "value": 3.4,
+      "legend_position": 0.52
+    },
+    {
+      "region": "NM",
+      "value": 3.8,
+      "legend_position": 0.68
+    },
+    {
+      "region": "HL",
+      "value": 3.4,
+      "legend_position": 0.52
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "YlGn",
+  "paper_bgcolor": "lightgray",
+  "title": "Unemployment Rate in Urban Area (%) - 2020"
+}

@@ -1,0 +1,178 @@
+{
+  "map_id": "1",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 10678.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "QH",
+      "value": 13534.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "GX",
+      "value": 12944.0,
+      "legend_position": 0.16
+    },
+    {
+      "region": "GZ",
+      "value": 11362.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "CQ",
+      "value": 17262.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "BJ",
+      "value": 36057.0,
+      "legend_position": 0.81
+    },
+    {
+      "region": "FJ",
+      "value": 19099.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "AH",
+      "value": 12944.0,
+      "legend_position": 0.16
+    },
+    {
+      "region": "GD",
+      "value": 24582.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "XZ",
+      "value": 7205.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "XJ",
+      "value": 12435.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "HI",
+      "value": 12915.0,
+      "legend_position": 0.16
+    },
+    {
+      "region": "NX",
+      "value": 15193.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "SN",
+      "value": 14812.0,
+      "legend_position": 0.21
+    },
+    {
+      "region": "SX",
+      "value": 12622.0,
+      "legend_position": 0.15
+    },
+    {
+      "region": "HB",
+      "value": 15762.0,
+      "legend_position": 0.24
+    },
+    {
+      "region": "HN",
+      "value": 14384.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "SC",
+      "value": 13755.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "YN",
+      "value": 12235.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "HE",
+      "value": 12171.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "HA",
+      "value": 13078.0,
+      "legend_position": 0.16
+    },
+    {
+      "region": "LN",
+      "value": 22260.0,
+      "legend_position": 0.42
+    },
+    {
+      "region": "SD",
+      "value": 19184.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "TJ",
+      "value": 28492.0,
+      "legend_position": 0.59
+    },
+    {
+      "region": "JX",
+      "value": 12000.0,
+      "legend_position": 0.13
+    },
+    {
+      "region": "JS",
+      "value": 28316.0,
+      "legend_position": 0.59
+    },
+    {
+      "region": "SH",
+      "value": 43007.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "ZJ",
+      "value": 26885.0,
+      "legend_position": 0.55
+    },
+    {
+      "region": "JL",
+      "value": 13663.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "NM",
+      "value": 19827.0,
+      "legend_position": 0.35
+    },
+    {
+      "region": "HL",
+      "value": 15215.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "RdPu",
+  "paper_bgcolor": "white",
+  "title": "Household Consumption Expenditure (yuan) - 2014"
+}

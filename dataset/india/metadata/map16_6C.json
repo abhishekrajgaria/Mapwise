@@ -1,0 +1,193 @@
+{
+  "map_id": "16",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 10900.0,
+      "legend_position": 0.77
+    },
+    {
+      "region": "AR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AS",
+      "value": 1700.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "BH",
+      "value": 5300.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "CT",
+      "value": 1200.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GJ",
+      "value": 1800.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "HR",
+      "value": 4900.0,
+      "legend_position": 0.34
+    },
+    {
+      "region": "HP",
+      "value": 500.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "JK",
+      "value": 600.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "JH",
+      "value": 900.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "KA",
+      "value": 9900.0,
+      "legend_position": 0.7
+    },
+    {
+      "region": "KL",
+      "value": 4700.0,
+      "legend_position": 0.32
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 4800.0,
+      "legend_position": 0.33
+    },
+    {
+      "region": "MH",
+      "value": 2100.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "MN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PB",
+      "value": 1600.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "RJ",
+      "value": 5800.0,
+      "legend_position": 0.4
+    },
+    {
+      "region": "SK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "TN",
+      "value": 2700.0,
+      "legend_position": 0.18
+    },
+    {
+      "region": "TR",
+      "value": 800.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "UP",
+      "value": 14100.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "UT",
+      "value": 800.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "WB",
+      "value": 3500.0,
+      "legend_position": 0.24
+    },
+    {
+      "region": "OR",
+      "value": 4100.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 200.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MI",
+      "value": 200.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "tempo",
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Credit Of Regional Rural Banks (\u20b9 Crore) - 2010"
+}

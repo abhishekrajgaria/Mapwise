@@ -1,0 +1,297 @@
+{
+  "map_id": "56",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "small_to_large",
+  "num_classes": 8,
+  "class_descriptions": [
+    "199.99 - 1,533.33",
+    "1,533.33 - 8,266.67",
+    "8,266.67 - 25,600.0",
+    "25,600.0 - 60,300.0",
+    "60,300.0 - 144,466.67",
+    "144,466.67 - 654,600.0",
+    "N/A",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "AN",
+      "value": 1000.0,
+      "description": "199.99 - 1,533.33",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "AP",
+      "value": 141200.0,
+      "description": "60,300.0 - 144,466.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "AR",
+      "value": 1700.0,
+      "description": "1,533.33 - 8,266.67",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AS",
+      "value": 25600.0,
+      "description": "8,266.67 - 25,600.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "BH",
+      "value": 56200.0,
+      "description": "25,600.0 - 60,300.0",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "CT",
+      "value": 24400.0,
+      "description": "8,266.67 - 25,600.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DD",
+      "value": 1000.0,
+      "description": "199.99 - 1,533.33",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GA",
+      "value": 17500.0,
+      "description": "8,266.67 - 25,600.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "GJ",
+      "value": 120000.0,
+      "description": "60,300.0 - 144,466.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HR",
+      "value": 60800.0,
+      "description": "60,300.0 - 144,466.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HP",
+      "value": 16800.0,
+      "description": "8,266.67 - 25,600.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JK",
+      "value": 22100.0,
+      "description": "8,266.67 - 25,600.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JH",
+      "value": 36900.0,
+      "description": "25,600.0 - 60,300.0",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "KA",
+      "value": 171200.0,
+      "description": "144,466.67 - 654,600.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "KL",
+      "value": 95700.0,
+      "description": "60,300.0 - 144,466.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "LD",
+      "value": 200.0,
+      "description": "199.99 - 1,533.33",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "MP",
+      "value": 65500.0,
+      "description": "60,300.0 - 144,466.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "MH",
+      "value": 654600.0,
+      "description": "144,466.67 - 654,600.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MN",
+      "value": 1400.0,
+      "description": "199.99 - 1,533.33",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "CH",
+      "value": 19800.0,
+      "description": "8,266.67 - 25,600.0",
+      "class": 2,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "PD",
+      "value": 3900.0,
+      "description": "1,533.33 - 8,266.67",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "PB",
+      "value": 84600.0,
+      "description": "60,300.0 - 144,466.67",
+      "class": 4,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "RJ",
+      "value": 59300.0,
+      "description": "25,600.0 - 60,300.0",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "SK",
+      "value": 1600.0,
+      "description": "1,533.33 - 8,266.67",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "TN",
+      "value": 162400.0,
+      "description": "144,466.67 - 654,600.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "TR",
+      "value": 4000.0,
+      "description": "1,533.33 - 8,266.67",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "UP",
+      "value": 181800.0,
+      "description": "144,466.67 - 654,600.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "UT",
+      "value": 29400.0,
+      "description": "25,600.0 - 60,300.0",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "WB",
+      "value": 151000.0,
+      "description": "144,466.67 - 654,600.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "OR",
+      "value": 41500.0,
+      "description": "25,600.0 - 60,300.0",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "DN",
+      "value": 500.0,
+      "description": "199.99 - 1,533.33",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "ME",
+      "value": 3900.0,
+      "description": "1,533.33 - 8,266.67",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "MI",
+      "value": 1200.0,
+      "description": "199.99 - 1,533.33",
+      "class": 0,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NL",
+      "value": 2200.0,
+      "description": "1,533.33 - 8,266.67",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "DL",
+      "value": 336100.0,
+      "description": "144,466.67 - 654,600.0",
+      "class": 5,
+      "legend_position": "legend_position_5"
+    }
+  ],
+  "colormap_name": "Purpor",
+  "colorscales": [
+    "rgb(249, 221, 218)",
+    "rgb(239, 178, 194)",
+    "rgb(220, 139, 183)",
+    "rgb(186, 105, 175)",
+    "rgb(139, 79, 163)",
+    "rgb(87, 59, 136)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "State-Wise Deposits By Scheduled Commercial Banks In India (\u20b9 Crore) - 2007",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": -0.02,
+      "y": -0.04
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 0
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "map_id": "171",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 901076.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "AN",
+      "value": 6127.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 1196204.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "AR",
+      "value": 14255.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 278135.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "BH",
+      "value": 415142.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "CT",
+      "value": 226694.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 123961.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GJ",
+      "value": 1939900.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "HR",
+      "value": 606690.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "HP",
+      "value": 132530.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "JK",
+      "value": 170197.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "JH",
+      "value": 241575.0,
+      "legend_position": 0.03
+    },
+    {
+      "region": "KA",
+      "value": 1919887.0,
+      "legend_position": 0.22
+    },
+    {
+      "region": "KL",
+      "value": 1076139.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 760780.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "MH",
+      "value": 8751278.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 12938.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "CH",
+      "value": 211314.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "PD",
+      "value": 37247.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PB",
+      "value": 812614.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "RJ",
+      "value": 862347.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "SK",
+      "value": 9118.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 2828211.0,
+      "legend_position": 0.32
+    },
+    {
+      "region": "TR",
+      "value": 30187.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "UP",
+      "value": 1725283.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "UT",
+      "value": 188327.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "WB",
+      "value": 2153637.0,
+      "legend_position": 0.25
+    },
+    {
+      "region": "OR",
+      "value": 471497.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 27385.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MI",
+      "value": 12312.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 15864.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 3052345.0,
+      "legend_position": 0.35
+    }
+  ],
+  "colormap_name": "Magma",
+  "paper_bgcolor": "white",
+  "title": "Net State Value Added By Economic Activity - Banking And Insurance (\u20b9 Lakh) - 2008-09"
+}

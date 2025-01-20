@@ -1,0 +1,178 @@
+{
+  "map_id": "5",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 6.52,
+      "legend_position": 0.7
+    },
+    {
+      "region": "QH",
+      "value": 6.17,
+      "legend_position": 0.58
+    },
+    {
+      "region": "GX",
+      "value": 6.22,
+      "legend_position": 0.6
+    },
+    {
+      "region": "GZ",
+      "value": 6.88,
+      "legend_position": 0.82
+    },
+    {
+      "region": "CQ",
+      "value": 7.27,
+      "legend_position": 0.96
+    },
+    {
+      "region": "BJ",
+      "value": 5.3,
+      "legend_position": 0.28
+    },
+    {
+      "region": "FJ",
+      "value": 6.2,
+      "legend_position": 0.59
+    },
+    {
+      "region": "AH",
+      "value": 5.9,
+      "legend_position": 0.49
+    },
+    {
+      "region": "GD",
+      "value": 4.52,
+      "legend_position": 0.01
+    },
+    {
+      "region": "XZ",
+      "value": 4.95,
+      "legend_position": 0.16
+    },
+    {
+      "region": "XJ",
+      "value": 4.48,
+      "legend_position": 0.0
+    },
+    {
+      "region": "HI",
+      "value": 6.01,
+      "legend_position": 0.52
+    },
+    {
+      "region": "NX",
+      "value": 4.75,
+      "legend_position": 0.09
+    },
+    {
+      "region": "SN",
+      "value": 6.24,
+      "legend_position": 0.6
+    },
+    {
+      "region": "SX",
+      "value": 5.45,
+      "legend_position": 0.33
+    },
+    {
+      "region": "HB",
+      "value": 7.01,
+      "legend_position": 0.87
+    },
+    {
+      "region": "HN",
+      "value": 7.08,
+      "legend_position": 0.89
+    },
+    {
+      "region": "SC",
+      "value": 7.03,
+      "legend_position": 0.87
+    },
+    {
+      "region": "YN",
+      "value": 6.68,
+      "legend_position": 0.75
+    },
+    {
+      "region": "HE",
+      "value": 6.6,
+      "legend_position": 0.73
+    },
+    {
+      "region": "HA",
+      "value": 6.97,
+      "legend_position": 0.85
+    },
+    {
+      "region": "LN",
+      "value": 6.93,
+      "legend_position": 0.84
+    },
+    {
+      "region": "SD",
+      "value": 7.4,
+      "legend_position": 1.0
+    },
+    {
+      "region": "TJ",
+      "value": 5.05,
+      "legend_position": 0.2
+    },
+    {
+      "region": "JX",
+      "value": 6.08,
+      "legend_position": 0.55
+    },
+    {
+      "region": "JS",
+      "value": 7.03,
+      "legend_position": 0.87
+    },
+    {
+      "region": "SH",
+      "value": 5.3,
+      "legend_position": 0.28
+    },
+    {
+      "region": "ZJ",
+      "value": 5.56,
+      "legend_position": 0.37
+    },
+    {
+      "region": "JL",
+      "value": 6.5,
+      "legend_position": 0.69
+    },
+    {
+      "region": "NM",
+      "value": 5.74,
+      "legend_position": 0.43
+    },
+    {
+      "region": "HL",
+      "value": 6.63,
+      "legend_position": 0.74
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "thermal",
+  "paper_bgcolor": "white",
+  "title": "Death Rate - 2017"
+}

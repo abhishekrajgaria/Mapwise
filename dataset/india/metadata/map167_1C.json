@@ -1,0 +1,193 @@
+{
+  "map_id": "167",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 40.07,
+      "legend_position": 0.6
+    },
+    {
+      "region": "AP",
+      "value": 21.19,
+      "legend_position": 0.26
+    },
+    {
+      "region": "AR",
+      "value": 7.13,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 32.95,
+      "legend_position": 0.47
+    },
+    {
+      "region": "BH",
+      "value": 21.95,
+      "legend_position": 0.27
+    },
+    {
+      "region": "CT",
+      "value": 18.14,
+      "legend_position": 0.2
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 35.41,
+      "legend_position": 0.52
+    },
+    {
+      "region": "GJ",
+      "value": 31.47,
+      "legend_position": 0.44
+    },
+    {
+      "region": "HR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "HP",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "JK",
+      "value": 12.95,
+      "legend_position": 0.11
+    },
+    {
+      "region": "JH",
+      "value": 21.14,
+      "legend_position": 0.26
+    },
+    {
+      "region": "KA",
+      "value": 29.8,
+      "legend_position": 0.41
+    },
+    {
+      "region": "KL",
+      "value": 55.08,
+      "legend_position": 0.87
+    },
+    {
+      "region": "LD",
+      "value": 27.15,
+      "legend_position": 0.37
+    },
+    {
+      "region": "MP",
+      "value": 21.41,
+      "legend_position": 0.26
+    },
+    {
+      "region": "MH",
+      "value": 35.08,
+      "legend_position": 0.51
+    },
+    {
+      "region": "MN",
+      "value": 36.04,
+      "legend_position": 0.53
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 43.65,
+      "legend_position": 0.67
+    },
+    {
+      "region": "PB",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "RJ",
+      "value": 18.12,
+      "legend_position": 0.2
+    },
+    {
+      "region": "SK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "TN",
+      "value": 36.39,
+      "legend_position": 0.53
+    },
+    {
+      "region": "TR",
+      "value": 20.24,
+      "legend_position": 0.24
+    },
+    {
+      "region": "UP",
+      "value": 20.87,
+      "legend_position": 0.25
+    },
+    {
+      "region": "UT",
+      "value": 18.05,
+      "legend_position": 0.2
+    },
+    {
+      "region": "WB",
+      "value": 34.46,
+      "legend_position": 0.5
+    },
+    {
+      "region": "OR",
+      "value": 21.66,
+      "legend_position": 0.27
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 26.92,
+      "legend_position": 0.36
+    },
+    {
+      "region": "MI",
+      "value": 44.01,
+      "legend_position": 0.67
+    },
+    {
+      "region": "NL",
+      "value": 21.95,
+      "legend_position": 0.27
+    },
+    {
+      "region": "DL",
+      "value": 61.95,
+      "legend_position": 1.0
+    }
+  ],
+  "colormap_name": "tempo",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Literacy Rate (Per cent) - 1961"
+}

@@ -1,0 +1,290 @@
+{
+    "map_id": 98,
+    "map_type": "Choropleth",
+    "KFF_file_name": "total-number-of-medicare-beneficiaries_2019_original-medicare_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 614196.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "AK",
+            "value": 92465.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "AZ",
+            "value": 789341.0,
+            "legend_position": 0.2
+        },
+        {
+            "region": "AR",
+            "value": 472818.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "CA",
+            "value": 3616031.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CO",
+            "value": 528939.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "CT",
+            "value": 401495.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "DE",
+            "value": 174664.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "FL",
+            "value": 2450357.0,
+            "legend_position": 0.67
+        },
+        {
+            "region": "GA",
+            "value": 1048189.0,
+            "legend_position": 0.27
+        },
+        {
+            "region": "HI",
+            "value": 146888.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "ID",
+            "value": 222738.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "IL",
+            "value": 1680672.0,
+            "legend_position": 0.45
+        },
+        {
+            "region": "IN",
+            "value": 864685.0,
+            "legend_position": 0.22
+        },
+        {
+            "region": "IA",
+            "value": 485805.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "KS",
+            "value": 437262.0,
+            "legend_position": 0.1
+        },
+        {
+            "region": "KY",
+            "value": 625190.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "LA",
+            "value": 537985.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "ME",
+            "value": 220969.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "MD",
+            "value": 905714.0,
+            "legend_position": 0.23
+        },
+        {
+            "region": "MA",
+            "value": 1018770.0,
+            "legend_position": 0.26
+        },
+        {
+            "region": "MI",
+            "value": 1238724.0,
+            "legend_position": 0.33
+        },
+        {
+            "region": "MN",
+            "value": 555769.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "MS",
+            "value": 482926.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "MO",
+            "value": 776983.0,
+            "legend_position": 0.19
+        },
+        {
+            "region": "MT",
+            "value": 186094.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "NE",
+            "value": 290042.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "NV",
+            "value": 331126.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "NH",
+            "value": 243886.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "NJ",
+            "value": 1132854.0,
+            "legend_position": 0.3
+        },
+        {
+            "region": "NM",
+            "value": 268517.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "NY",
+            "value": 2125535.0,
+            "legend_position": 0.58
+        },
+        {
+            "region": "NC",
+            "value": 1253163.0,
+            "legend_position": 0.33
+        },
+        {
+            "region": "ND",
+            "value": 107059.0,
+            "legend_position": 0.0
+        },
+        {
+            "region": "OH",
+            "value": 1407738.0,
+            "legend_position": 0.37
+        },
+        {
+            "region": "OK",
+            "value": 580064.0,
+            "legend_position": 0.14
+        },
+        {
+            "region": "OR",
+            "value": 468667.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "PA",
+            "value": 1570364.0,
+            "legend_position": 0.42
+        },
+        {
+            "region": "RI",
+            "value": 134535.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "SC",
+            "value": 769633.0,
+            "legend_position": 0.19
+        },
+        {
+            "region": "SD",
+            "value": 138057.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "TN",
+            "value": 816496.0,
+            "legend_position": 0.21
+        },
+        {
+            "region": "TX",
+            "value": 2533901.0,
+            "legend_position": 0.69
+        },
+        {
+            "region": "UT",
+            "value": 251430.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "VT",
+            "value": 129606.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "VA",
+            "value": 1182610.0,
+            "legend_position": 0.31
+        },
+        {
+            "region": "WA",
+            "value": 897997.0,
+            "legend_position": 0.23
+        },
+        {
+            "region": "WV",
+            "value": 308425.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "WI",
+            "value": 662921.0,
+            "legend_position": 0.16
+        },
+        {
+            "region": "WY",
+            "value": 105746.0,
+            "legend_position": 0.0
+        }
+    ],
+    "colormap_name": "matter",
+    "showgrid": false,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Total Number of Medicare Beneficiaries | KFF",
+        "font_family": "Arial",
+        "font_size": 19,
+        "position": {
+            "x": 0.06,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 1
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

@@ -1,0 +1,178 @@
+{
+  "map_id": "9",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 12.21,
+      "legend_position": 0.57
+    },
+    {
+      "region": "QH",
+      "value": 14.67,
+      "legend_position": 0.82
+    },
+    {
+      "region": "GX",
+      "value": 14.07,
+      "legend_position": 0.76
+    },
+    {
+      "region": "GZ",
+      "value": 12.98,
+      "legend_position": 0.65
+    },
+    {
+      "region": "CQ",
+      "value": 10.67,
+      "legend_position": 0.42
+    },
+    {
+      "region": "BJ",
+      "value": 9.75,
+      "legend_position": 0.33
+    },
+    {
+      "region": "FJ",
+      "value": 13.7,
+      "legend_position": 0.72
+    },
+    {
+      "region": "AH",
+      "value": 12.86,
+      "legend_position": 0.64
+    },
+    {
+      "region": "GD",
+      "value": 10.8,
+      "legend_position": 0.43
+    },
+    {
+      "region": "XZ",
+      "value": 15.76,
+      "legend_position": 0.93
+    },
+    {
+      "region": "XJ",
+      "value": 16.44,
+      "legend_position": 1.0
+    },
+    {
+      "region": "HI",
+      "value": 14.56,
+      "legend_position": 0.81
+    },
+    {
+      "region": "NX",
+      "value": 13.1,
+      "legend_position": 0.66
+    },
+    {
+      "region": "SN",
+      "value": 10.13,
+      "legend_position": 0.37
+    },
+    {
+      "region": "SX",
+      "value": 10.92,
+      "legend_position": 0.45
+    },
+    {
+      "region": "HB",
+      "value": 11.86,
+      "legend_position": 0.54
+    },
+    {
+      "region": "HN",
+      "value": 13.52,
+      "legend_position": 0.71
+    },
+    {
+      "region": "SC",
+      "value": 10.22,
+      "legend_position": 0.37
+    },
+    {
+      "region": "YN",
+      "value": 12.65,
+      "legend_position": 0.62
+    },
+    {
+      "region": "HE",
+      "value": 13.18,
+      "legend_position": 0.67
+    },
+    {
+      "region": "HA",
+      "value": 12.8,
+      "legend_position": 0.63
+    },
+    {
+      "region": "LN",
+      "value": 6.49,
+      "legend_position": 0.0
+    },
+    {
+      "region": "SD",
+      "value": 14.23,
+      "legend_position": 0.78
+    },
+    {
+      "region": "TJ",
+      "value": 8.19,
+      "legend_position": 0.17
+    },
+    {
+      "region": "JX",
+      "value": 13.24,
+      "legend_position": 0.68
+    },
+    {
+      "region": "JS",
+      "value": 9.45,
+      "legend_position": 0.3
+    },
+    {
+      "region": "SH",
+      "value": 8.35,
+      "legend_position": 0.19
+    },
+    {
+      "region": "ZJ",
+      "value": 10.51,
+      "legend_position": 0.4
+    },
+    {
+      "region": "JL",
+      "value": 6.62,
+      "legend_position": 0.01
+    },
+    {
+      "region": "NM",
+      "value": 9.31,
+      "legend_position": 0.28
+    },
+    {
+      "region": "HL",
+      "value": 7.37,
+      "legend_position": 0.09
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Magenta",
+  "paper_bgcolor": "lightgray",
+  "title": "Birth Rate - 2014"
+}

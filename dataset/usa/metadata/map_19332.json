@@ -1,0 +1,401 @@
+{
+    "map_id": 19332,
+    "map_type": "Choropleth",
+    "KFF_file_name": "total-population-in-us-adult-correctional-systems-by-correctional-status_2017_rate_total_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "950-1,400",
+        "1,440-2,270",
+        "2,290-2,920",
+        "2,980-6,320"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 2610,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 2270,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AZ",
+            "value": 2510,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 3170,
+            "class": 3,
+            "description": "2,980-6,320",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 1750,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CO",
+            "value": 2790,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CT",
+            "value": 1980,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "DE",
+            "value": 2880,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "FL",
+            "value": 2140,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "GA",
+            "value": 6320,
+            "class": 3,
+            "description": "2,980-6,320",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "HI",
+            "value": 2430,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": 3890,
+            "class": 3,
+            "description": "2,980-6,320",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 1910,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 3200,
+            "class": 3,
+            "description": "2,980-6,320",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IA",
+            "value": 1950,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KS",
+            "value": 1760,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KY",
+            "value": 2980,
+            "class": 3,
+            "description": "2,980-6,320",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "LA",
+            "value": 3120,
+            "class": 3,
+            "description": "2,980-6,320",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ME",
+            "value": 950,
+            "class": 0,
+            "description": "950-1,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MD",
+            "value": 2100,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MA",
+            "value": 1400,
+            "class": 0,
+            "description": "950-1,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MI",
+            "value": 2920,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MN",
+            "value": 2840,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 2690,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MO",
+            "value": 2220,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": 1880,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NE",
+            "value": 1670,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NV",
+            "value": 1690,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NH",
+            "value": 980,
+            "class": 0,
+            "description": "950-1,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NJ",
+            "value": 2650,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NM",
+            "value": 1780,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NY",
+            "value": 1350,
+            "class": 0,
+            "description": "950-1,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 1890,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 1780,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OH",
+            "value": 3680,
+            "class": 3,
+            "description": "2,980-6,320",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OK",
+            "value": 2800,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 2580,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "PA",
+            "value": 3620,
+            "class": 3,
+            "description": "2,980-6,320",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "RI",
+            "value": 2750,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SC",
+            "value": 1720,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 2200,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TN",
+            "value": 2290,
+            "class": 2,
+            "description": "2,290-2,920",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 3200,
+            "class": 3,
+            "description": "2,980-6,320",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 1190,
+            "class": 0,
+            "description": "950-1,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VT",
+            "value": 1330,
+            "class": 0,
+            "description": "950-1,400",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VA",
+            "value": 1820,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 2070,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 1440,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WI",
+            "value": 2230,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WY",
+            "value": 2250,
+            "class": 1,
+            "description": "1,440-2,270",
+            "legend_position": "legend_2"
+        }
+    ],
+    "colormap_name": "Magma",
+    "colorscales": [
+        "rgb(0, 0, 4)",
+        "rgb(84, 84, 66)",
+        "rgb(168, 168, 128)",
+        "rgb(252, 253, 191)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Total Population in U.S. Adult Correctional Systems by Correctional Status | KFF",
+        "font_family": "Balto",
+        "font_size": 18,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "black",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

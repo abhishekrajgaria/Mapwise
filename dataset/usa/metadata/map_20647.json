@@ -1,0 +1,290 @@
+{
+    "map_id": 20647,
+    "map_type": "Choropleth",
+    "KFF_file_name": "health-care-expenditures-by-service-by-state-of-provider-in-millions_2004_currency_hospital-care_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 7807.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "AK",
+            "value": 1633.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "AZ",
+            "value": 8545.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "AR",
+            "value": 4818.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "CA",
+            "value": 57808.0,
+            "legend_position": 1.0
+        },
+        {
+            "region": "CO",
+            "value": 7909.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "CT",
+            "value": 6885.0,
+            "legend_position": 0.11
+        },
+        {
+            "region": "DE",
+            "value": 1829.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "FL",
+            "value": 31126.0,
+            "legend_position": 0.53
+        },
+        {
+            "region": "GA",
+            "value": 14638.0,
+            "legend_position": 0.24
+        },
+        {
+            "region": "HI",
+            "value": 2303.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "ID",
+            "value": 2006.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "IL",
+            "value": 24539.0,
+            "legend_position": 0.42
+        },
+        {
+            "region": "IN",
+            "value": 12888.0,
+            "legend_position": 0.21
+        },
+        {
+            "region": "IA",
+            "value": 5795.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "KS",
+            "value": 4903.0,
+            "legend_position": 0.07
+        },
+        {
+            "region": "KY",
+            "value": 8214.0,
+            "legend_position": 0.13
+        },
+        {
+            "region": "LA",
+            "value": 9257.0,
+            "legend_position": 0.15
+        },
+        {
+            "region": "ME",
+            "value": 2951.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "MD",
+            "value": 10797.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "MA",
+            "value": 17437.0,
+            "legend_position": 0.29
+        },
+        {
+            "region": "MI",
+            "value": 19631.0,
+            "legend_position": 0.33
+        },
+        {
+            "region": "MN",
+            "value": 10487.0,
+            "legend_position": 0.17
+        },
+        {
+            "region": "MS",
+            "value": 5774.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "MO",
+            "value": 13594.0,
+            "legend_position": 0.22
+        },
+        {
+            "region": "MT",
+            "value": 1904.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "NE",
+            "value": 4019.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "NV",
+            "value": 3552.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "NH",
+            "value": 2525.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "NJ",
+            "value": 15642.0,
+            "legend_position": 0.26
+        },
+        {
+            "region": "NM",
+            "value": 3048.0,
+            "legend_position": 0.04
+        },
+        {
+            "region": "NY",
+            "value": 45680.0,
+            "legend_position": 0.79
+        },
+        {
+            "region": "NC",
+            "value": 16477.0,
+            "legend_position": 0.27
+        },
+        {
+            "region": "ND",
+            "value": 1706.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "OH",
+            "value": 24992.0,
+            "legend_position": 0.42
+        },
+        {
+            "region": "OK",
+            "value": 6281.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "OR",
+            "value": 5996.0,
+            "legend_position": 0.09
+        },
+        {
+            "region": "PA",
+            "value": 27491.0,
+            "legend_position": 0.47
+        },
+        {
+            "region": "RI",
+            "value": 2501.0,
+            "legend_position": 0.03
+        },
+        {
+            "region": "SC",
+            "value": 7913.0,
+            "legend_position": 0.12
+        },
+        {
+            "region": "SD",
+            "value": 1883.0,
+            "legend_position": 0.02
+        },
+        {
+            "region": "TN",
+            "value": 11523.0,
+            "legend_position": 0.19
+        },
+        {
+            "region": "TX",
+            "value": 39785.0,
+            "legend_position": 0.68
+        },
+        {
+            "region": "UT",
+            "value": 3694.0,
+            "legend_position": 0.05
+        },
+        {
+            "region": "VT",
+            "value": 1279.0,
+            "legend_position": 0.01
+        },
+        {
+            "region": "VA",
+            "value": 12998.0,
+            "legend_position": 0.21
+        },
+        {
+            "region": "WA",
+            "value": 10853.0,
+            "legend_position": 0.18
+        },
+        {
+            "region": "WV",
+            "value": 4069.0,
+            "legend_position": 0.06
+        },
+        {
+            "region": "WI",
+            "value": 11488.0,
+            "legend_position": 0.19
+        },
+        {
+            "region": "WY",
+            "value": 883.0,
+            "legend_position": 0.0
+        }
+    ],
+    "colormap_name": "Pinkyl",
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Health Care Expenditures by Service by State of Provider (in millions) | KFF",
+        "font_family": "Raleway",
+        "font_size": 18,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "white",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

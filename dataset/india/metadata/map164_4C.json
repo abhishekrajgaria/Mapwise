@@ -1,0 +1,193 @@
+{
+  "map_id": "164",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 818.0,
+      "legend_position": 0.62
+    },
+    {
+      "region": "AR",
+      "value": 1059.0,
+      "legend_position": 0.86
+    },
+    {
+      "region": "AS",
+      "value": 567.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "BH",
+      "value": 801.0,
+      "legend_position": 0.6
+    },
+    {
+      "region": "CT",
+      "value": 580.0,
+      "legend_position": 0.38
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 1030.0,
+      "legend_position": 0.83
+    },
+    {
+      "region": "GJ",
+      "value": 777.0,
+      "legend_position": 0.58
+    },
+    {
+      "region": "HR",
+      "value": 972.0,
+      "legend_position": 0.77
+    },
+    {
+      "region": "HP",
+      "value": 758.0,
+      "legend_position": 0.56
+    },
+    {
+      "region": "JK",
+      "value": 464.0,
+      "legend_position": 0.26
+    },
+    {
+      "region": "JH",
+      "value": 724.0,
+      "legend_position": 0.52
+    },
+    {
+      "region": "KA",
+      "value": 466.0,
+      "legend_position": 0.27
+    },
+    {
+      "region": "KL",
+      "value": 818.0,
+      "legend_position": 0.62
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 808.0,
+      "legend_position": 0.61
+    },
+    {
+      "region": "MH",
+      "value": 537.0,
+      "legend_position": 0.34
+    },
+    {
+      "region": "MN",
+      "value": 504.0,
+      "legend_position": 0.3
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 200.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PB",
+      "value": 908.0,
+      "legend_position": 0.71
+    },
+    {
+      "region": "RJ",
+      "value": 497.0,
+      "legend_position": 0.3
+    },
+    {
+      "region": "SK",
+      "value": 937.0,
+      "legend_position": 0.73
+    },
+    {
+      "region": "TN",
+      "value": 307.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "TR",
+      "value": 718.0,
+      "legend_position": 0.52
+    },
+    {
+      "region": "UP",
+      "value": 899.0,
+      "legend_position": 0.7
+    },
+    {
+      "region": "UT",
+      "value": 609.0,
+      "legend_position": 0.41
+    },
+    {
+      "region": "WB",
+      "value": 704.0,
+      "legend_position": 0.5
+    },
+    {
+      "region": "OR",
+      "value": 481.0,
+      "legend_position": 0.28
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 867.0,
+      "legend_position": 0.67
+    },
+    {
+      "region": "MI",
+      "value": 900.0,
+      "legend_position": 0.7
+    },
+    {
+      "region": "NL",
+      "value": 1203.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Redor",
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Estimates Of Yield - Total Foodgrains (Kg. Per Hectare) - 2008-09"
+}

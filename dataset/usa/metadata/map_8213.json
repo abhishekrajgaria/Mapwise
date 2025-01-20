@@ -1,0 +1,290 @@
+{
+    "map_id": 8213,
+    "map_type": "Choropleth",
+    "KFF_file_name": "uninsured-rates-for-nonelderly-adults-by-sex_2009_percent_male_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.221,
+            "legend_position": 0.56
+        },
+        {
+            "region": "AK",
+            "value": 0.295,
+            "legend_position": 0.86
+        },
+        {
+            "region": "AZ",
+            "value": 0.264,
+            "legend_position": 0.73
+        },
+        {
+            "region": "AR",
+            "value": 0.265,
+            "legend_position": 0.74
+        },
+        {
+            "region": "CA",
+            "value": 0.278,
+            "legend_position": 0.79
+        },
+        {
+            "region": "CO",
+            "value": 0.23399999999999999,
+            "legend_position": 0.61
+        },
+        {
+            "region": "CT",
+            "value": 0.152,
+            "legend_position": 0.29
+        },
+        {
+            "region": "DE",
+            "value": 0.172,
+            "legend_position": 0.37
+        },
+        {
+            "region": "FL",
+            "value": 0.321,
+            "legend_position": 0.96
+        },
+        {
+            "region": "GA",
+            "value": 0.28600000000000003,
+            "legend_position": 0.82
+        },
+        {
+            "region": "HI",
+            "value": 0.11800000000000001,
+            "legend_position": 0.15
+        },
+        {
+            "region": "ID",
+            "value": 0.249,
+            "legend_position": 0.67
+        },
+        {
+            "region": "IL",
+            "value": 0.22399999999999998,
+            "legend_position": 0.57
+        },
+        {
+            "region": "IN",
+            "value": 0.212,
+            "legend_position": 0.53
+        },
+        {
+            "region": "IA",
+            "value": 0.14300000000000002,
+            "legend_position": 0.25
+        },
+        {
+            "region": "KS",
+            "value": 0.18899999999999997,
+            "legend_position": 0.43
+        },
+        {
+            "region": "KY",
+            "value": 0.218,
+            "legend_position": 0.55
+        },
+        {
+            "region": "LA",
+            "value": 0.261,
+            "legend_position": 0.72
+        },
+        {
+            "region": "ME",
+            "value": 0.165,
+            "legend_position": 0.34
+        },
+        {
+            "region": "MD",
+            "value": 0.187,
+            "legend_position": 0.43
+        },
+        {
+            "region": "MA",
+            "value": 0.08,
+            "legend_position": 0.0
+        },
+        {
+            "region": "MI",
+            "value": 0.20800000000000002,
+            "legend_position": 0.51
+        },
+        {
+            "region": "MN",
+            "value": 0.131,
+            "legend_position": 0.2
+        },
+        {
+            "region": "MS",
+            "value": 0.273,
+            "legend_position": 0.77
+        },
+        {
+            "region": "MO",
+            "value": 0.205,
+            "legend_position": 0.5
+        },
+        {
+            "region": "MT",
+            "value": 0.27399999999999997,
+            "legend_position": 0.77
+        },
+        {
+            "region": "NE",
+            "value": 0.17600000000000002,
+            "legend_position": 0.38
+        },
+        {
+            "region": "NV",
+            "value": 0.29,
+            "legend_position": 0.84
+        },
+        {
+            "region": "NH",
+            "value": 0.162,
+            "legend_position": 0.33
+        },
+        {
+            "region": "NJ",
+            "value": 0.2,
+            "legend_position": 0.48
+        },
+        {
+            "region": "NM",
+            "value": 0.308,
+            "legend_position": 0.91
+        },
+        {
+            "region": "NY",
+            "value": 0.198,
+            "legend_position": 0.47
+        },
+        {
+            "region": "NC",
+            "value": 0.259,
+            "legend_position": 0.71
+        },
+        {
+            "region": "ND",
+            "value": 0.153,
+            "legend_position": 0.29
+        },
+        {
+            "region": "OH",
+            "value": 0.196,
+            "legend_position": 0.46
+        },
+        {
+            "region": "OK",
+            "value": 0.282,
+            "legend_position": 0.8
+        },
+        {
+            "region": "OR",
+            "value": 0.254,
+            "legend_position": 0.69
+        },
+        {
+            "region": "PA",
+            "value": 0.16399999999999998,
+            "legend_position": 0.33
+        },
+        {
+            "region": "RI",
+            "value": 0.19,
+            "legend_position": 0.44
+        },
+        {
+            "region": "SC",
+            "value": 0.255,
+            "legend_position": 0.7
+        },
+        {
+            "region": "SD",
+            "value": 0.217,
+            "legend_position": 0.55
+        },
+        {
+            "region": "TN",
+            "value": 0.235,
+            "legend_position": 0.62
+        },
+        {
+            "region": "TX",
+            "value": 0.331,
+            "legend_position": 1.0
+        },
+        {
+            "region": "UT",
+            "value": 0.21,
+            "legend_position": 0.52
+        },
+        {
+            "region": "VT",
+            "value": 0.16,
+            "legend_position": 0.32
+        },
+        {
+            "region": "VA",
+            "value": 0.182,
+            "legend_position": 0.41
+        },
+        {
+            "region": "WA",
+            "value": 0.213,
+            "legend_position": 0.53
+        },
+        {
+            "region": "WV",
+            "value": 0.21600000000000003,
+            "legend_position": 0.54
+        },
+        {
+            "region": "WI",
+            "value": 0.152,
+            "legend_position": 0.29
+        },
+        {
+            "region": "WY",
+            "value": 0.21899999999999997,
+            "legend_position": 0.55
+        }
+    ],
+    "colormap_name": "Redor",
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Uninsured Rates for Nonelderly Adults by Sex | KFF",
+        "font_family": "Droid Sans Mono",
+        "font_size": 19,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 1
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

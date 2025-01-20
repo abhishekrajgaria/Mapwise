@@ -1,0 +1,193 @@
+{
+  "map_id": "64",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 20.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 8515.0,
+      "legend_position": 0.72
+    },
+    {
+      "region": "AR",
+      "value": 55.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AS",
+      "value": 570.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "BH",
+      "value": 1126.0,
+      "legend_position": 0.1
+    },
+    {
+      "region": "CT",
+      "value": 1462.0,
+      "legend_position": 0.12
+    },
+    {
+      "region": "DD",
+      "value": 192.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "GA",
+      "value": 298.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "GJ",
+      "value": 7443.0,
+      "legend_position": 0.63
+    },
+    {
+      "region": "HR",
+      "value": 3554.0,
+      "legend_position": 0.3
+    },
+    {
+      "region": "HP",
+      "value": 811.0,
+      "legend_position": 0.07
+    },
+    {
+      "region": "JK",
+      "value": 1089.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "JH",
+      "value": 603.0,
+      "legend_position": 0.05
+    },
+    {
+      "region": "KA",
+      "value": 5402.0,
+      "legend_position": 0.46
+    },
+    {
+      "region": "KL",
+      "value": 1947.0,
+      "legend_position": 0.17
+    },
+    {
+      "region": "LD",
+      "value": 4.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "MP",
+      "value": 4139.0,
+      "legend_position": 0.35
+    },
+    {
+      "region": "MH",
+      "value": 11772.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 50.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "CH",
+      "value": 156.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "PD",
+      "value": 214.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "PB",
+      "value": 4379.0,
+      "legend_position": 0.37
+    },
+    {
+      "region": "RJ",
+      "value": 4949.0,
+      "legend_position": 0.42
+    },
+    {
+      "region": "SK",
+      "value": 38.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 7671.0,
+      "legend_position": 0.65
+    },
+    {
+      "region": "TR",
+      "value": 90.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "UP",
+      "value": 7212.0,
+      "legend_position": 0.61
+    },
+    {
+      "region": "UT",
+      "value": 1021.0,
+      "legend_position": 0.09
+    },
+    {
+      "region": "WB",
+      "value": 3828.0,
+      "legend_position": 0.32
+    },
+    {
+      "region": "OR",
+      "value": 2269.0,
+      "legend_position": 0.19
+    },
+    {
+      "region": "DN",
+      "value": 435.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "ME",
+      "value": 145.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 36.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "NL",
+      "value": 51.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": 2667.0,
+      "legend_position": 0.23
+    }
+  ],
+  "colormap_name": "Purples",
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Availability Of Power (Net Crore Units) - 2011-12"
+}

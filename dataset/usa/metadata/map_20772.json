@@ -1,0 +1,401 @@
+{
+    "map_id": 20772,
+    "map_type": "Choropleth",
+    "KFF_file_name": "percent-of-children-ages-3-17-who-faced-difficulties-obtaining-mental-health-care_somewhat-or-very-difficult-or-impossible-to-get-care_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "28%-33%",
+        "34%-39%",
+        "40%-47%",
+        "48%-59%"
+    ],
+    "data_type": "Percentage",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.3,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AK",
+            "value": 0.54,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 0.47,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 0.34,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CA",
+            "value": 0.43,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CO",
+            "value": 0.54,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 0.28,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "DE",
+            "value": 0.44,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "FL",
+            "value": 0.51,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "GA",
+            "value": 0.43,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 0.42,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": 0.34,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IL",
+            "value": 0.5,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IN",
+            "value": 0.46,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 0.39,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KS",
+            "value": 0.42,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 0.31,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "LA",
+            "value": 0.37,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ME",
+            "value": 0.35,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MD",
+            "value": 0.46,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 0.46,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 0.36,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 0.48,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": 0.36,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MO",
+            "value": 0.39,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": 0.39,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NE",
+            "value": 0.28,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NV",
+            "value": 0.55,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 0.59,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 0.38,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 0.39,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NY",
+            "value": 0.51,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NC",
+            "value": 0.32,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ND",
+            "value": 0.52,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 0.31,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OK",
+            "value": 0.36,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OR",
+            "value": 0.51,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 0.36,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "RI",
+            "value": 0.32,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SC",
+            "value": 0.33,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SD",
+            "value": 0.31,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TN",
+            "value": 0.4,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 0.54,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 0.35,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VT",
+            "value": 0.56,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 0.53,
+            "class": 3,
+            "description": "48%-59%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WA",
+            "value": 0.46,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WV",
+            "value": 0.34,
+            "class": 1,
+            "description": "34%-39%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WI",
+            "value": 0.43,
+            "class": 2,
+            "description": "40%-47%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 0.32,
+            "class": 0,
+            "description": "28%-33%",
+            "legend_position": "legend_1"
+        }
+    ],
+    "colormap_name": "Magma",
+    "colorscales": [
+        "rgb(0, 0, 4)",
+        "rgb(84, 84, 66)",
+        "rgb(168, 168, 128)",
+        "rgb(252, 253, 191)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Percent of Children (Ages 3-17) Who Faced Difficulties Obtaining Mental Health Care | KFF",
+        "font_family": "Raleway",
+        "font_size": 19,
+        "position": {
+            "x": 0.06,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "white",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

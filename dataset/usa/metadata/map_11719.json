@@ -1,0 +1,401 @@
+{
+    "map_id": 11719,
+    "map_type": "Choropleth",
+    "KFF_file_name": "health-insurance-coverage-of-the-total-population-multiple-sources-of-coverage_2019_percent_military_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "0.4%-0.9%",
+        "1.0%-1.5%",
+        "1.6%-2.3%",
+        "2.4%-5.3%"
+    ],
+    "data_type": "Percentage",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.021,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AK",
+            "value": 0.053,
+            "class": 3,
+            "description": "2.4%-5.3%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 0.015,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 0.013999999999999999,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CA",
+            "value": 0.009000000000000001,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CO",
+            "value": 0.023,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 0.006999999999999999,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 0.018000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "FL",
+            "value": 0.017,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "GA",
+            "value": 0.022000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": 0.04,
+            "class": 3,
+            "description": "2.4%-5.3%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ID",
+            "value": 0.013999999999999999,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IL",
+            "value": 0.006999999999999999,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IN",
+            "value": 0.01,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 0.009000000000000001,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 0.02,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KY",
+            "value": 0.013999999999999999,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 0.013999999999999999,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 0.015,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MD",
+            "value": 0.019,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MA",
+            "value": 0.005,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MI",
+            "value": 0.006,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MN",
+            "value": 0.006999999999999999,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": 0.018000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MO",
+            "value": 0.013000000000000001,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 0.018000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NE",
+            "value": 0.016,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NV",
+            "value": 0.017,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NH",
+            "value": 0.012,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NJ",
+            "value": 0.005,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NM",
+            "value": 0.018000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NY",
+            "value": 0.004,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NC",
+            "value": 0.024,
+            "class": 3,
+            "description": "2.4%-5.3%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ND",
+            "value": 0.021,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OH",
+            "value": 0.008,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OK",
+            "value": 0.02,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OR",
+            "value": 0.009000000000000001,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "PA",
+            "value": 0.008,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "RI",
+            "value": 0.008,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 0.022000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "SD",
+            "value": 0.018000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TN",
+            "value": 0.018000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 0.016,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "UT",
+            "value": 0.012,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VT",
+            "value": 0.01,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VA",
+            "value": 0.044000000000000004,
+            "class": 3,
+            "description": "2.4%-5.3%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WA",
+            "value": 0.018000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 0.013000000000000001,
+            "class": 1,
+            "description": "1.0%-1.5%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WI",
+            "value": 0.008,
+            "class": 0,
+            "description": "0.4%-0.9%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": 0.018000000000000002,
+            "class": 2,
+            "description": "1.6%-2.3%",
+            "legend_position": "legend_2"
+        }
+    ],
+    "colormap_name": "Blues",
+    "colorscales": [
+        "rgb(247, 251, 255)",
+        "rgb(167, 183, 205)",
+        "rgb(87, 115, 156)",
+        "rgb(8, 48, 107)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "rgb(217, 217, 217)",
+    "title": {
+        "text": "Health Insurance Coverage of the Total Population",
+        "font_family": "Raleway",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 1
+        },
+        "bordercolor": "black",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

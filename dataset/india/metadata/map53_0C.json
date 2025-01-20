@@ -1,0 +1,193 @@
+{
+  "map_id": "53",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 9601.0,
+      "legend_position": 0.64
+    },
+    {
+      "region": "AR",
+      "value": 135.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "AS",
+      "value": 3470.7,
+      "legend_position": 0.23
+    },
+    {
+      "region": "BH",
+      "value": 2472.2,
+      "legend_position": 0.16
+    },
+    {
+      "region": "CT",
+      "value": 4383.3,
+      "legend_position": 0.29
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": 145.2,
+      "legend_position": 0.01
+    },
+    {
+      "region": "GJ",
+      "value": 1238.2,
+      "legend_position": 0.08
+    },
+    {
+      "region": "HR",
+      "value": 3023.0,
+      "legend_position": 0.2
+    },
+    {
+      "region": "HP",
+      "value": 122.0,
+      "legend_position": 0.01
+    },
+    {
+      "region": "JK",
+      "value": 492.2,
+      "legend_position": 0.03
+    },
+    {
+      "region": "JH",
+      "value": 1677.0,
+      "legend_position": 0.11
+    },
+    {
+      "region": "KA",
+      "value": 3547.0,
+      "legend_position": 0.24
+    },
+    {
+      "region": "KL",
+      "value": 667.1,
+      "legend_position": 0.04
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 1169.0,
+      "legend_position": 0.08
+    },
+    {
+      "region": "MH",
+      "value": 2164.0,
+      "legend_position": 0.14
+    },
+    {
+      "region": "MN",
+      "value": 435.9,
+      "legend_position": 0.03
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": 65.7,
+      "legend_position": 0.0
+    },
+    {
+      "region": "PB",
+      "value": 10437.0,
+      "legend_position": 0.7
+    },
+    {
+      "region": "RJ",
+      "value": 150.4,
+      "legend_position": 0.01
+    },
+    {
+      "region": "SK",
+      "value": 21.6,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 5062.2,
+      "legend_position": 0.34
+    },
+    {
+      "region": "TR",
+      "value": 545.1,
+      "legend_position": 0.04
+    },
+    {
+      "region": "UP",
+      "value": 9555.6,
+      "legend_position": 0.64
+    },
+    {
+      "region": "UT",
+      "value": 572.0,
+      "legend_position": 0.04
+    },
+    {
+      "region": "WB",
+      "value": 14884.8,
+      "legend_position": 1.0
+    },
+    {
+      "region": "OR",
+      "value": 6466.0,
+      "legend_position": 0.43
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 193.7,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 104.1,
+      "legend_position": 0.01
+    },
+    {
+      "region": "NL",
+      "value": 259.8,
+      "legend_position": 0.02
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Pinkyl",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Production Of Foodgrains - Rice (Thousand Tonnes) - 2004-05"
+}

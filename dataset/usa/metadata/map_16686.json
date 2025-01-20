@@ -1,0 +1,403 @@
+{
+    "map_id": 16686,
+    "map_type": "Choropleth",
+    "KFF_file_name": "opioid-overdose-deaths-by-age-group_2009_percent_0-24_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "6%-8%",
+        "9%-10%",
+        "11%-12%",
+        "13%-18%",
+        "N/A"
+    ],
+    "data_type": "Percentage",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.14,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AK",
+            "value": 0.13,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 0.13,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AR",
+            "value": 0.16,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 0.08,
+            "class": 0,
+            "description": "6%-8%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 0.13,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 0.13,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 0.15,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 0.11,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 0.11,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "ID",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "IL",
+            "value": 0.14,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IN",
+            "value": 0.13,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IA",
+            "value": 0.11,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KS",
+            "value": 0.11,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 0.07,
+            "class": 0,
+            "description": "6%-8%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "LA",
+            "value": 0.1,
+            "class": 1,
+            "description": "9%-10%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ME",
+            "value": 0.09,
+            "class": 1,
+            "description": "9%-10%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MD",
+            "value": 0.11,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 0.1,
+            "class": 1,
+            "description": "9%-10%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MI",
+            "value": 0.1,
+            "class": 1,
+            "description": "9%-10%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 0.14,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MS",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MO",
+            "value": 0.15,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NE",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NV",
+            "value": 0.12,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NH",
+            "value": 0.12,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NJ",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NM",
+            "value": 0.18,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 0.11,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NC",
+            "value": 0.13,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ND",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "OH",
+            "value": 0.08,
+            "class": 0,
+            "description": "6%-8%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OK",
+            "value": 0.1,
+            "class": 1,
+            "description": "9%-10%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OR",
+            "value": 0.08,
+            "class": 0,
+            "description": "6%-8%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "PA",
+            "value": 0.14,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "RI",
+            "value": 0.12,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SC",
+            "value": 0.11,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "TN",
+            "value": 0.1,
+            "class": 1,
+            "description": "9%-10%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 0.14,
+            "class": 3,
+            "description": "13%-18%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 0.12,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "VT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "VA",
+            "value": 0.1,
+            "class": 1,
+            "description": "9%-10%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 0.08,
+            "class": 0,
+            "description": "6%-8%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WV",
+            "value": 0.06,
+            "class": 0,
+            "description": "6%-8%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WI",
+            "value": 0.12,
+            "class": 2,
+            "description": "11%-12%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        }
+    ],
+    "colormap_name": "Sunsetdark",
+    "colorscales": [
+        "rgb(252, 222, 156)",
+        "rgb(220, 173, 144)",
+        "rgb(188, 125, 133)",
+        "rgb(156, 77, 122)",
+        "rgb(124, 29, 111)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "rgb(200, 200, 200)",
+    "title": {
+        "text": "Opioid Overdose Deaths by Age Group | KFF",
+        "font_family": "Droid Serif",
+        "font_size": 19,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

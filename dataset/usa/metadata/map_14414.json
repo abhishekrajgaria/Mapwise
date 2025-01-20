@@ -1,0 +1,403 @@
+{
+    "map_id": 14414,
+    "map_type": "Choropleth",
+    "KFF_file_name": "distribution-of-the-nonelderly-uninsured-by-raceethnicity_2016_percent_black_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "2.9%-4.5%",
+        "6.7%-12.7%",
+        "13.2%-21.1%",
+        "22.0%-50.6%",
+        "N/A"
+    ],
+    "data_type": "Percentage",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.32,
+            "class": 3,
+            "description": "22.0%-50.6%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AK",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "AZ",
+            "value": 0.032,
+            "class": 0,
+            "description": "2.9%-4.5%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AR",
+            "value": 0.122,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CA",
+            "value": 0.042,
+            "class": 0,
+            "description": "2.9%-4.5%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CO",
+            "value": 0.031,
+            "class": 0,
+            "description": "2.9%-4.5%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CT",
+            "value": 0.115,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "DE",
+            "value": 0.21100000000000002,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "FL",
+            "value": 0.16899999999999998,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "GA",
+            "value": 0.309,
+            "class": 3,
+            "description": "22.0%-50.6%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "HI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "ID",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "IL",
+            "value": 0.145,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 0.096,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 0.045,
+            "class": 0,
+            "description": "2.9%-4.5%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KS",
+            "value": 0.107,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KY",
+            "value": 0.079,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 0.35100000000000003,
+            "class": 3,
+            "description": "22.0%-50.6%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ME",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MD",
+            "value": 0.278,
+            "class": 3,
+            "description": "22.0%-50.6%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MA",
+            "value": 0.10800000000000001,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 0.16399999999999998,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 0.091,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 0.43,
+            "class": 3,
+            "description": "22.0%-50.6%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MO",
+            "value": 0.139,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NE",
+            "value": 0.09,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 0.067,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NH",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NJ",
+            "value": 0.132,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NY",
+            "value": 0.156,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NC",
+            "value": 0.22,
+            "class": 3,
+            "description": "22.0%-50.6%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ND",
+            "value": 0.09,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OH",
+            "value": 0.14400000000000002,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 0.078,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "PA",
+            "value": 0.127,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "RI",
+            "value": 0.077,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SC",
+            "value": 0.275,
+            "class": 3,
+            "description": "22.0%-50.6%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "SD",
+            "value": 0.028999999999999998,
+            "class": 0,
+            "description": "2.9%-4.5%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 0.18,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 0.096,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "UT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "VT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "VA",
+            "value": 0.198,
+            "class": 2,
+            "description": "13.2%-21.1%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 0.037000000000000005,
+            "class": 0,
+            "description": "2.9%-4.5%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WV",
+            "value": 0.071,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WI",
+            "value": 0.08900000000000001,
+            "class": 1,
+            "description": "6.7%-12.7%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        }
+    ],
+    "colormap_name": "PuRd",
+    "colorscales": [
+        "rgb(247, 244, 249)",
+        "rgb(211, 183, 194)",
+        "rgb(175, 122, 140)",
+        "rgb(139, 61, 85)",
+        "rgb(103, 0, 31)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Distribution of the Nonelderly Uninsured by Race/Ethnicity | KFF",
+        "font_family": "Open Sans",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "black",
+        "borderwidth": 0,
+        "font_size": 13
+    }
+}

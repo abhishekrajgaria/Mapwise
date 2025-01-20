@@ -1,0 +1,403 @@
+{
+    "map_id": 340,
+    "map_type": "Choropleth",
+    "KFF_file_name": "food-insufficiency-among-children_could-sometimes-or-often-not-afford-food_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "small_to_large",
+    "num_classes": 4,
+    "num_symbols": 5,
+    "class_descriptions": [
+        "2%",
+        "3%",
+        "4%",
+        "5%-7%",
+        "N/A"
+    ],
+    "data_type": "Percentage",
+    "missing_data": true,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AK",
+            "value": 0.03,
+            "class": 1,
+            "description": "3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "AZ",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "AR",
+            "value": 0.06,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 0.06,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CO",
+            "value": 0.03,
+            "class": 1,
+            "description": "3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "CT",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "DE",
+            "value": 0.07,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 0.02,
+            "class": 0,
+            "description": "2%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "ID",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "IL",
+            "value": 0.06,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IN",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "IA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "KS",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ME",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MD",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MI",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MN",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "MS",
+            "value": 0.07,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MO",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NV",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NJ",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "NM",
+            "value": 0.06,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 0.06,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NC",
+            "value": 0.06,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ND",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "OH",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "OK",
+            "value": 0.06,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OR",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "PA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "RI",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "SC",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TN",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TX",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "VT",
+            "value": 0.03,
+            "class": 1,
+            "description": "3%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VA",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WA",
+            "value": NaN,
+            "class": -1,
+            "description": "N/A",
+            "legend_position": "legend_5"
+        },
+        {
+            "region": "WV",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WI",
+            "value": 0.05,
+            "class": 3,
+            "description": "5%-7%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WY",
+            "value": 0.04,
+            "class": 2,
+            "description": "4%",
+            "legend_position": "legend_3"
+        }
+    ],
+    "colormap_name": "Magenta",
+    "colorscales": [
+        "rgb(243, 203, 211)",
+        "rgb(209, 160, 184)",
+        "rgb(175, 118, 157)",
+        "rgb(141, 75, 130)",
+        "rgb(108, 33, 103)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Food Insufficiency among Children | KFF",
+        "font_family": "Droid Sans Mono",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.98
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": 1.02,
+            "y": 0
+        },
+        "bordercolor": "white",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

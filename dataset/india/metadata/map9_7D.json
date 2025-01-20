@@ -1,0 +1,296 @@
+{
+  "map_id": "9",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 7,
+  "class_descriptions": [
+    "1,477.75 - 5,185.9",
+    "635.03 - 1,477.75",
+    "149.85 - 635.03",
+    "27.67 - 149.85",
+    "8.25 - 27.67",
+    "2.39 - 8.25",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": 618.3,
+      "description": "149.85 - 635.03",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "AP",
+      "value": 1312.7,
+      "description": "635.03 - 1,477.75",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "AR",
+      "value": 9.5,
+      "description": "8.25 - 27.67",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AS",
+      "value": 119.7,
+      "description": "27.67 - 149.85",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "BH",
+      "value": 524.3,
+      "description": "149.85 - 635.03",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "CT",
+      "value": 813.6,
+      "description": "635.03 - 1,477.75",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "GA",
+      "value": 9.9,
+      "description": "8.25 - 27.67",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GJ",
+      "value": 957.0,
+      "description": "635.03 - 1,477.75",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "HR",
+      "value": 180.0,
+      "description": "149.85 - 635.03",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "HP",
+      "value": 32.3,
+      "description": "27.67 - 149.85",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JK",
+      "value": 26.0,
+      "description": "8.25 - 27.67",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JH",
+      "value": 465.5,
+      "description": "149.85 - 635.03",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "KA",
+      "value": 2303.0,
+      "description": "1,477.75 - 5,185.9",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "KL",
+      "value": 3.4,
+      "description": "2.39 - 8.25",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "MP",
+      "value": 5185.9,
+      "description": "1,477.75 - 5,185.9",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MH",
+      "value": 3273.0,
+      "description": "1,477.75 - 5,185.9",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "MN",
+      "value": 28.5,
+      "description": "27.67 - 149.85",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "PD",
+      "value": 2.4,
+      "description": "2.39 - 8.25",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "PB",
+      "value": 19.0,
+      "description": "8.25 - 27.67",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "RJ",
+      "value": 4458.0,
+      "description": "1,477.75 - 5,185.9",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "SK",
+      "value": 6.5,
+      "description": "2.39 - 8.25",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "TN",
+      "value": 668.5,
+      "description": "635.03 - 1,477.75",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "TR",
+      "value": 8.6,
+      "description": "8.25 - 27.67",
+      "class": 4,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "UP",
+      "value": 2421.0,
+      "description": "1,477.75 - 5,185.9",
+      "class": 0,
+      "legend_position": "legend_position_5"
+    },
+    {
+      "region": "UT",
+      "value": 55.0,
+      "description": "27.67 - 149.85",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "WB",
+      "value": 185.0,
+      "description": "149.85 - 635.03",
+      "class": 2,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "OR",
+      "value": 729.3,
+      "description": "635.03 - 1,477.75",
+      "class": 1,
+      "legend_position": "legend_position_4"
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    },
+    {
+      "region": "ME",
+      "value": 4.2,
+      "description": "2.39 - 8.25",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "MI",
+      "value": 3.8,
+      "description": "2.39 - 8.25",
+      "class": 5,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NL",
+      "value": 31.8,
+      "description": "27.67 - 149.85",
+      "class": 3,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "description": "N/A",
+      "class": 6,
+      "legend_position": "legend_position_6"
+    }
+  ],
+  "colormap_name": "Teal",
+  "colorscales": [
+    "rgb(42, 86, 116)",
+    "rgb(63, 121, 148)",
+    "rgb(89, 155, 173)",
+    "rgb(121, 186, 194)",
+    "rgb(161, 214, 214)",
+    "rgb(209, 238, 234)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "white",
+  "title": "State-Wise Area Of Foodgrains - Pulses (Thousand Hectares) - 2011-12",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "horizontal",
+    "position": {
+      "x": 0.0,
+      "y": -0.02
+    },
+    "font_size": 16,
+    "bordercolor": "black",
+    "borderwidth": 0
+  }
+}

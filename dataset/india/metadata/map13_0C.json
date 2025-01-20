@@ -1,0 +1,193 @@
+{
+  "map_id": "13",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": 625.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "AP",
+      "value": 986.0,
+      "legend_position": 0.72
+    },
+    {
+      "region": "AR",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AS",
+      "value": 868.0,
+      "legend_position": 0.48
+    },
+    {
+      "region": "BH",
+      "value": 1000.0,
+      "legend_position": 0.75
+    },
+    {
+      "region": "CT",
+      "value": 1024.0,
+      "legend_position": 0.79
+    },
+    {
+      "region": "DD",
+      "value": 1125.0,
+      "legend_position": 0.99
+    },
+    {
+      "region": "GA",
+      "value": 1128.0,
+      "legend_position": 1.0
+    },
+    {
+      "region": "GJ",
+      "value": 952.0,
+      "legend_position": 0.65
+    },
+    {
+      "region": "HR",
+      "value": 871.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "HP",
+      "value": 912.0,
+      "legend_position": 0.57
+    },
+    {
+      "region": "JK",
+      "value": 873.0,
+      "legend_position": 0.49
+    },
+    {
+      "region": "JH",
+      "value": 961.0,
+      "legend_position": 0.67
+    },
+    {
+      "region": "KA",
+      "value": 966.0,
+      "legend_position": 0.68
+    },
+    {
+      "region": "KL",
+      "value": 1028.0,
+      "legend_position": 0.8
+    },
+    {
+      "region": "LD",
+      "value": 1043.0,
+      "legend_position": 0.83
+    },
+    {
+      "region": "MP",
+      "value": 945.0,
+      "legend_position": 0.64
+    },
+    {
+      "region": "MH",
+      "value": 941.0,
+      "legend_position": 0.63
+    },
+    {
+      "region": "MN",
+      "value": 1036.0,
+      "legend_position": 0.82
+    },
+    {
+      "region": "CH",
+      "value": 781.0,
+      "legend_position": 0.31
+    },
+    {
+      "region": "PD",
+      "value": 1030.0,
+      "legend_position": 0.81
+    },
+    {
+      "region": "PB",
+      "value": 844.0,
+      "legend_position": 0.44
+    },
+    {
+      "region": "RJ",
+      "value": 921.0,
+      "legend_position": 0.59
+    },
+    {
+      "region": "SK",
+      "value": 907.0,
+      "legend_position": 0.56
+    },
+    {
+      "region": "TN",
+      "value": 1007.0,
+      "legend_position": 0.76
+    },
+    {
+      "region": "TR",
+      "value": 904.0,
+      "legend_position": 0.55
+    },
+    {
+      "region": "UP",
+      "value": 908.0,
+      "legend_position": 0.56
+    },
+    {
+      "region": "UT",
+      "value": 940.0,
+      "legend_position": 0.63
+    },
+    {
+      "region": "WB",
+      "value": 865.0,
+      "legend_position": 0.48
+    },
+    {
+      "region": "OR",
+      "value": 1022.0,
+      "legend_position": 0.79
+    },
+    {
+      "region": "DN",
+      "value": 946.0,
+      "legend_position": 0.64
+    },
+    {
+      "region": "ME",
+      "value": 949.0,
+      "legend_position": 0.64
+    },
+    {
+      "region": "MI",
+      "value": 1041.0,
+      "legend_position": 0.83
+    },
+    {
+      "region": "NL",
+      "value": 999.0,
+      "legend_position": 0.74
+    },
+    {
+      "region": "DL",
+      "value": 768.0,
+      "legend_position": 0.28
+    }
+  ],
+  "colormap_name": "Aggrnyl",
+  "paper_bgcolor": "white",
+  "title": "State-Wise Sex Ratio (Females per Thousand Males) - 1951"
+}

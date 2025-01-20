@@ -1,0 +1,401 @@
+{
+    "map_id": 20078,
+    "map_type": "Choropleth",
+    "KFF_file_name": "weekly-covid-19-vaccine-allocations_week-of-april-5-2021_total-vaccines-allocated_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "15,800-183,460",
+        "193,640-439,880",
+        "461,640-798,760",
+        "815,980-2,415,820"
+    ],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 304780,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AK",
+            "value": 15800,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AZ",
+            "value": 430100,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 183460,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 2415820,
+            "class": 3,
+            "description": "815,980-2,415,820",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CO",
+            "value": 344160,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "CT",
+            "value": 229320,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "DE",
+            "value": 62180,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "FL",
+            "value": 1321300,
+            "class": 3,
+            "description": "815,980-2,415,820",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "GA",
+            "value": 628280,
+            "class": 2,
+            "description": "461,640-798,760",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "HI",
+            "value": 90680,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "ID",
+            "value": 101460,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "IL",
+            "value": 798760,
+            "class": 2,
+            "description": "461,640-798,760",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "IN",
+            "value": 408140,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 193640,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "KS",
+            "value": 177020,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "KY",
+            "value": 277580,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "LA",
+            "value": 285720,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 88980,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MD",
+            "value": 375800,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MA",
+            "value": 439880,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MI",
+            "value": 624440,
+            "class": 2,
+            "description": "461,640-798,760",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 342960,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MS",
+            "value": 182760,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MO",
+            "value": 380140,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "MT",
+            "value": 67620,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NE",
+            "value": 117480,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NV",
+            "value": 182060,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 88980,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NJ",
+            "value": 555220,
+            "class": 2,
+            "description": "461,640-798,760",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 132100,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NY",
+            "value": 1244540,
+            "class": 3,
+            "description": "815,980-2,415,820",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NC",
+            "value": 633720,
+            "class": 2,
+            "description": "461,640-798,760",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 47960,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "OH",
+            "value": 726400,
+            "class": 2,
+            "description": "461,640-798,760",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "OK",
+            "value": 240100,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 261460,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "PA",
+            "value": 815980,
+            "class": 3,
+            "description": "815,980-2,415,820",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "RI",
+            "value": 69220,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "SC",
+            "value": 311220,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 53300,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "TN",
+            "value": 414480,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "TX",
+            "value": 1654680,
+            "class": 3,
+            "description": "815,980-2,415,820",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "UT",
+            "value": 172180,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VT",
+            "value": 41820,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "VA",
+            "value": 527020,
+            "class": 2,
+            "description": "461,640-798,760",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 461640,
+            "class": 2,
+            "description": "461,640-798,760",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WV",
+            "value": 117880,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 364420,
+            "class": 1,
+            "description": "193,640-439,880",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "WY",
+            "value": 36680,
+            "class": 0,
+            "description": "15,800-183,460",
+            "legend_position": "legend_4"
+        }
+    ],
+    "colormap_name": "BuPu",
+    "colorscales": [
+        "rgb(247, 252, 253)",
+        "rgb(190, 168, 193)",
+        "rgb(133, 84, 134)",
+        "rgb(77, 0, 75)"
+    ],
+    "showgrid": true,
+    "paper_bgcolor": "white",
+    "title": {
+        "text": "Weekly COVID-19 Vaccine Allocations | KFF",
+        "font_family": "Arial",
+        "font_size": 18,
+        "position": {
+            "x": 0.06,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "vertical",
+        "position": {
+            "x": -0.2,
+            "y": 0
+        },
+        "bordercolor": "black",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

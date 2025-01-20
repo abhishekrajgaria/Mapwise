@@ -1,0 +1,401 @@
+{
+    "map_id": 20208,
+    "map_type": "Choropleth",
+    "KFF_file_name": "adult-self-reported-health-status_2020_very-good_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Discrete",
+    "legend_order": "large_to_small",
+    "num_classes": 4,
+    "num_symbols": 4,
+    "class_descriptions": [
+        "28.9%-31.8%",
+        "32.0%-34.3%",
+        "34.5%-36.4%",
+        "36.5%-40.4%"
+    ],
+    "data_type": "Percentage",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.308,
+            "class": 0,
+            "description": "28.9%-31.8%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "AK",
+            "value": 0.37,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "AZ",
+            "value": 0.336,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "AR",
+            "value": 0.301,
+            "class": 0,
+            "description": "28.9%-31.8%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CA",
+            "value": 0.313,
+            "class": 0,
+            "description": "28.9%-31.8%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "CO",
+            "value": 0.375,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "CT",
+            "value": 0.361,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "DE",
+            "value": 0.32799999999999996,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "FL",
+            "value": 0.32899999999999996,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "GA",
+            "value": 0.331,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "HI",
+            "value": 0.332,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ID",
+            "value": 0.341,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IL",
+            "value": 0.369,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "IN",
+            "value": 0.332,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "IA",
+            "value": 0.36,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KS",
+            "value": 0.361,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "KY",
+            "value": 0.318,
+            "class": 0,
+            "description": "28.9%-31.8%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "LA",
+            "value": 0.327,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "ME",
+            "value": 0.375,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MD",
+            "value": 0.369,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MA",
+            "value": 0.37799999999999995,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MI",
+            "value": 0.364,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MN",
+            "value": 0.39,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "MS",
+            "value": 0.289,
+            "class": 0,
+            "description": "28.9%-31.8%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "MO",
+            "value": 0.348,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "MT",
+            "value": 0.369,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NE",
+            "value": 0.381,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NV",
+            "value": 0.307,
+            "class": 0,
+            "description": "28.9%-31.8%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "NH",
+            "value": 0.38,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "NJ",
+            "value": 0.355,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NM",
+            "value": 0.331,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "NY",
+            "value": 0.349,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "NC",
+            "value": 0.345,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "ND",
+            "value": 0.369,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "OH",
+            "value": 0.341,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OK",
+            "value": 0.32,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "OR",
+            "value": 0.354,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "PA",
+            "value": 0.375,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "RI",
+            "value": 0.34299999999999997,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SC",
+            "value": 0.33899999999999997,
+            "class": 1,
+            "description": "32.0%-34.3%",
+            "legend_position": "legend_3"
+        },
+        {
+            "region": "SD",
+            "value": 0.391,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "TN",
+            "value": 0.35,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "TX",
+            "value": 0.311,
+            "class": 0,
+            "description": "28.9%-31.8%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "UT",
+            "value": 0.364,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "VT",
+            "value": 0.38299999999999995,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "VA",
+            "value": 0.354,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        },
+        {
+            "region": "WA",
+            "value": 0.365,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WV",
+            "value": 0.306,
+            "class": 0,
+            "description": "28.9%-31.8%",
+            "legend_position": "legend_4"
+        },
+        {
+            "region": "WI",
+            "value": 0.40399999999999997,
+            "class": 3,
+            "description": "36.5%-40.4%",
+            "legend_position": "legend_1"
+        },
+        {
+            "region": "WY",
+            "value": 0.363,
+            "class": 2,
+            "description": "34.5%-36.4%",
+            "legend_position": "legend_2"
+        }
+    ],
+    "colormap_name": "Mint",
+    "colorscales": [
+        "rgb(228, 241, 225)",
+        "rgb(156, 190, 181)",
+        "rgb(84, 139, 138)",
+        "rgb(13, 88, 95)"
+    ],
+    "showgrid": false,
+    "paper_bgcolor": "rgb(217, 217, 217)",
+    "title": {
+        "text": "Adult Self-Reported Health Status | KFF",
+        "font_family": "Old Standard TT",
+        "font_size": 19,
+        "position": {
+            "x": 0.04,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0.1,
+            "y": -0.1
+        },
+        "bordercolor": "white",
+        "borderwidth": 2,
+        "font_size": 13
+    }
+}

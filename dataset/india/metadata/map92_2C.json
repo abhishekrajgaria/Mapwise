@@ -1,0 +1,193 @@
+{
+  "map_id": "92",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "TS",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "AP",
+      "value": 818.0,
+      "legend_position": 0.58
+    },
+    {
+      "region": "AR",
+      "value": 54.6,
+      "legend_position": 0.03
+    },
+    {
+      "region": "AS",
+      "value": 118.5,
+      "legend_position": 0.08
+    },
+    {
+      "region": "BH",
+      "value": 279.5,
+      "legend_position": 0.2
+    },
+    {
+      "region": "CT",
+      "value": 90.7,
+      "legend_position": 0.06
+    },
+    {
+      "region": "DD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GA",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "GJ",
+      "value": 288.3,
+      "legend_position": 0.2
+    },
+    {
+      "region": "HR",
+      "value": 30.3,
+      "legend_position": 0.02
+    },
+    {
+      "region": "HP",
+      "value": 197.4,
+      "legend_position": 0.14
+    },
+    {
+      "region": "JK",
+      "value": 171.5,
+      "legend_position": 0.12
+    },
+    {
+      "region": "JH",
+      "value": 33.0,
+      "legend_position": 0.02
+    },
+    {
+      "region": "KA",
+      "value": 278.3,
+      "legend_position": 0.19
+    },
+    {
+      "region": "KL",
+      "value": 316.9,
+      "legend_position": 0.22
+    },
+    {
+      "region": "LD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MP",
+      "value": 47.7,
+      "legend_position": 0.03
+    },
+    {
+      "region": "MH",
+      "value": 1394.9,
+      "legend_position": 1.0
+    },
+    {
+      "region": "MN",
+      "value": 33.9,
+      "legend_position": 0.02
+    },
+    {
+      "region": "CH",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PD",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "PB",
+      "value": 57.3,
+      "legend_position": 0.03
+    },
+    {
+      "region": "RJ",
+      "value": 27.5,
+      "legend_position": 0.01
+    },
+    {
+      "region": "SK",
+      "value": 9.0,
+      "legend_position": 0.0
+    },
+    {
+      "region": "TN",
+      "value": 278.4,
+      "legend_position": 0.19
+    },
+    {
+      "region": "TR",
+      "value": 33.2,
+      "legend_position": 0.02
+    },
+    {
+      "region": "UP",
+      "value": 308.5,
+      "legend_position": 0.22
+    },
+    {
+      "region": "UT",
+      "value": 167.8,
+      "legend_position": 0.11
+    },
+    {
+      "region": "WB",
+      "value": 187.1,
+      "legend_position": 0.13
+    },
+    {
+      "region": "OR",
+      "value": 255.7,
+      "legend_position": 0.18
+    },
+    {
+      "region": "DN",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "ME",
+      "value": 28.5,
+      "legend_position": 0.01
+    },
+    {
+      "region": "MI",
+      "value": 20.5,
+      "legend_position": 0.01
+    },
+    {
+      "region": "NL",
+      "value": 10.3,
+      "legend_position": 0.0
+    },
+    {
+      "region": "DL",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "PuRd",
+  "paper_bgcolor": "lightgray",
+  "title": "State-Wise Area Of Total Fruits (Thousand Hectares) - 2006-07"
+}

@@ -1,0 +1,290 @@
+{
+    "map_id": 7729,
+    "map_type": "Choropleth",
+    "KFF_file_name": "distribution-of-medicare-beneficiaries-by-federal-poverty-level_2015_percent_100-199_kff",
+    "scope": "USA",
+    "locationmode": "USA-states",
+    "projection": "albers usa",
+    "legend_type": "Continuous",
+    "legend_order": "N/A",
+    "num_classes": 0,
+    "num_symbols": 0,
+    "class_descriptions": [],
+    "data_type": "Number",
+    "missing_data": false,
+    "data": [
+        {
+            "region": "AL",
+            "value": 0.261,
+            "legend_position": 0.85
+        },
+        {
+            "region": "AK",
+            "value": 0.198,
+            "legend_position": 0.31
+        },
+        {
+            "region": "AZ",
+            "value": 0.20800000000000002,
+            "legend_position": 0.4
+        },
+        {
+            "region": "AR",
+            "value": 0.273,
+            "legend_position": 0.95
+        },
+        {
+            "region": "CA",
+            "value": 0.214,
+            "legend_position": 0.45
+        },
+        {
+            "region": "CO",
+            "value": 0.185,
+            "legend_position": 0.2
+        },
+        {
+            "region": "CT",
+            "value": 0.19,
+            "legend_position": 0.25
+        },
+        {
+            "region": "DE",
+            "value": 0.165,
+            "legend_position": 0.03
+        },
+        {
+            "region": "FL",
+            "value": 0.225,
+            "legend_position": 0.54
+        },
+        {
+            "region": "GA",
+            "value": 0.244,
+            "legend_position": 0.7
+        },
+        {
+            "region": "HI",
+            "value": 0.17800000000000002,
+            "legend_position": 0.14
+        },
+        {
+            "region": "ID",
+            "value": 0.22,
+            "legend_position": 0.5
+        },
+        {
+            "region": "IL",
+            "value": 0.22,
+            "legend_position": 0.5
+        },
+        {
+            "region": "IN",
+            "value": 0.228,
+            "legend_position": 0.57
+        },
+        {
+            "region": "IA",
+            "value": 0.22899999999999998,
+            "legend_position": 0.58
+        },
+        {
+            "region": "KS",
+            "value": 0.215,
+            "legend_position": 0.46
+        },
+        {
+            "region": "KY",
+            "value": 0.26899999999999996,
+            "legend_position": 0.92
+        },
+        {
+            "region": "LA",
+            "value": 0.276,
+            "legend_position": 0.97
+        },
+        {
+            "region": "ME",
+            "value": 0.247,
+            "legend_position": 0.73
+        },
+        {
+            "region": "MD",
+            "value": 0.161,
+            "legend_position": 0.0
+        },
+        {
+            "region": "MA",
+            "value": 0.207,
+            "legend_position": 0.39
+        },
+        {
+            "region": "MI",
+            "value": 0.218,
+            "legend_position": 0.48
+        },
+        {
+            "region": "MN",
+            "value": 0.201,
+            "legend_position": 0.34
+        },
+        {
+            "region": "MS",
+            "value": 0.27899999999999997,
+            "legend_position": 1.0
+        },
+        {
+            "region": "MO",
+            "value": 0.24,
+            "legend_position": 0.67
+        },
+        {
+            "region": "MT",
+            "value": 0.22399999999999998,
+            "legend_position": 0.53
+        },
+        {
+            "region": "NE",
+            "value": 0.231,
+            "legend_position": 0.59
+        },
+        {
+            "region": "NV",
+            "value": 0.237,
+            "legend_position": 0.64
+        },
+        {
+            "region": "NH",
+            "value": 0.195,
+            "legend_position": 0.29
+        },
+        {
+            "region": "NJ",
+            "value": 0.187,
+            "legend_position": 0.22
+        },
+        {
+            "region": "NM",
+            "value": 0.239,
+            "legend_position": 0.66
+        },
+        {
+            "region": "NY",
+            "value": 0.21,
+            "legend_position": 0.42
+        },
+        {
+            "region": "NC",
+            "value": 0.253,
+            "legend_position": 0.78
+        },
+        {
+            "region": "ND",
+            "value": 0.212,
+            "legend_position": 0.43
+        },
+        {
+            "region": "OH",
+            "value": 0.233,
+            "legend_position": 0.61
+        },
+        {
+            "region": "OK",
+            "value": 0.252,
+            "legend_position": 0.77
+        },
+        {
+            "region": "OR",
+            "value": 0.21899999999999997,
+            "legend_position": 0.49
+        },
+        {
+            "region": "PA",
+            "value": 0.23399999999999999,
+            "legend_position": 0.62
+        },
+        {
+            "region": "RI",
+            "value": 0.209,
+            "legend_position": 0.41
+        },
+        {
+            "region": "SC",
+            "value": 0.23600000000000002,
+            "legend_position": 0.64
+        },
+        {
+            "region": "SD",
+            "value": 0.239,
+            "legend_position": 0.66
+        },
+        {
+            "region": "TN",
+            "value": 0.251,
+            "legend_position": 0.76
+        },
+        {
+            "region": "TX",
+            "value": 0.23199999999999998,
+            "legend_position": 0.6
+        },
+        {
+            "region": "UT",
+            "value": 0.188,
+            "legend_position": 0.23
+        },
+        {
+            "region": "VT",
+            "value": 0.24600000000000002,
+            "legend_position": 0.72
+        },
+        {
+            "region": "VA",
+            "value": 0.2,
+            "legend_position": 0.33
+        },
+        {
+            "region": "WA",
+            "value": 0.195,
+            "legend_position": 0.29
+        },
+        {
+            "region": "WV",
+            "value": 0.27699999999999997,
+            "legend_position": 0.98
+        },
+        {
+            "region": "WI",
+            "value": 0.22899999999999998,
+            "legend_position": 0.58
+        },
+        {
+            "region": "WY",
+            "value": 0.19399999999999998,
+            "legend_position": 0.28
+        }
+    ],
+    "colormap_name": "thermal",
+    "showgrid": false,
+    "paper_bgcolor": "LightSteelBlue",
+    "title": {
+        "text": "Distribution of Medicare Beneficiaries by Federal Poverty Level | KFF",
+        "font_family": "Open Sans",
+        "font_size": 19,
+        "position": {
+            "x": 0.08,
+            "y": 0.95
+        }
+    },
+    "legend": {
+        "title_font_size": 14,
+        "orientation": "horizontal",
+        "position": {
+            "x": 0,
+            "y": -0.1
+        },
+        "bordercolor": "black",
+        "borderwidth": 1,
+        "font_size": 13
+    }
+}

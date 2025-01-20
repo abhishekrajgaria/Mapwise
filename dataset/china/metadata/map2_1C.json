@@ -1,0 +1,178 @@
+{
+  "map_id": "2",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Continuous",
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": -10.1,
+      "legend_position": 0.2
+    },
+    {
+      "region": "QH",
+      "value": -1.8,
+      "legend_position": 0.3
+    },
+    {
+      "region": "GX",
+      "value": -1.3,
+      "legend_position": 0.31
+    },
+    {
+      "region": "GZ",
+      "value": -11.7,
+      "legend_position": 0.17
+    },
+    {
+      "region": "CQ",
+      "value": 7.3,
+      "legend_position": 0.42
+    },
+    {
+      "region": "BJ",
+      "value": -18.4,
+      "legend_position": 0.09
+    },
+    {
+      "region": "FJ",
+      "value": 4.4,
+      "legend_position": 0.38
+    },
+    {
+      "region": "AH",
+      "value": 19.6,
+      "legend_position": 0.57
+    },
+    {
+      "region": "GD",
+      "value": 5.3,
+      "legend_position": 0.39
+    },
+    {
+      "region": "XZ",
+      "value": 40.3,
+      "legend_position": 0.84
+    },
+    {
+      "region": "XJ",
+      "value": -2.2,
+      "legend_position": 0.3
+    },
+    {
+      "region": "HI",
+      "value": -3.5,
+      "legend_position": 0.28
+    },
+    {
+      "region": "NX",
+      "value": 47.0,
+      "legend_position": 0.92
+    },
+    {
+      "region": "SN",
+      "value": -11.3,
+      "legend_position": 0.18
+    },
+    {
+      "region": "SX",
+      "value": 52.9,
+      "legend_position": 1.0
+    },
+    {
+      "region": "HB",
+      "value": -12.3,
+      "legend_position": 0.17
+    },
+    {
+      "region": "HN",
+      "value": 0.2,
+      "legend_position": 0.33
+    },
+    {
+      "region": "SC",
+      "value": 10.9,
+      "legend_position": 0.46
+    },
+    {
+      "region": "YN",
+      "value": -22.2,
+      "legend_position": 0.04
+    },
+    {
+      "region": "HE",
+      "value": 6.3,
+      "legend_position": 0.4
+    },
+    {
+      "region": "HA",
+      "value": 4.0,
+      "legend_position": 0.38
+    },
+    {
+      "region": "LN",
+      "value": 15.4,
+      "legend_position": 0.52
+    },
+    {
+      "region": "SD",
+      "value": -18.9,
+      "legend_position": 0.08
+    },
+    {
+      "region": "TJ",
+      "value": -25.4,
+      "legend_position": 0.0
+    },
+    {
+      "region": "JX",
+      "value": 4.5,
+      "legend_position": 0.38
+    },
+    {
+      "region": "JS",
+      "value": 11.6,
+      "legend_position": 0.47
+    },
+    {
+      "region": "SH",
+      "value": 1.3,
+      "legend_position": 0.34
+    },
+    {
+      "region": "ZJ",
+      "value": -8.4,
+      "legend_position": 0.22
+    },
+    {
+      "region": "JL",
+      "value": -12.4,
+      "legend_position": 0.17
+    },
+    {
+      "region": "NM",
+      "value": -2.9,
+      "legend_position": 0.29
+    },
+    {
+      "region": "HL",
+      "value": 33.7,
+      "legend_position": 0.75
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "legend_position": NaN
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "legend_position": NaN
+    }
+  ],
+  "colormap_name": "Blugrn",
+  "paper_bgcolor": "lightgray",
+  "title": "Investment in Fixed Assets (Excluding Rural Households), State Budget Growth Rate over Preceding Year (%) - 2021"
+}

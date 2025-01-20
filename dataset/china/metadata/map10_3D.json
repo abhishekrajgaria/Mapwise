@@ -1,0 +1,269 @@
+{
+  "map_id": "10",
+  "map_type": "Choropleth",
+  "scope": null,
+  "locationmode": "geojson-id",
+  "legend_type": "Discrete",
+  "legend_order": "large_to_small",
+  "num_classes": 4,
+  "class_descriptions": [
+    "75.0 - 208.2",
+    "54.2 - 75.0",
+    "13.09 - 54.2",
+    "N/A"
+  ],
+  "missing_data": "True",
+  "data": [
+    {
+      "region": "GS",
+      "value": 47.4,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "QH",
+      "value": 13.2,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "GX",
+      "value": 55.7,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "GZ",
+      "value": 60.0,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "CQ",
+      "value": 82.2,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "BJ",
+      "value": 39.8,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "FJ",
+      "value": 67.8,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "AH",
+      "value": 76.8,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "GD",
+      "value": 208.2,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "XZ",
+      "value": 13.1,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "XJ",
+      "value": 39.7,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HI",
+      "value": 19.2,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "NX",
+      "value": 14.6,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "SN",
+      "value": 77.1,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SX",
+      "value": 51.2,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HB",
+      "value": 159.5,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "HN",
+      "value": 71.4,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SC",
+      "value": 115.1,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "YN",
+      "value": 75.0,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HE",
+      "value": 74.1,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HA",
+      "value": 103.3,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "LN",
+      "value": 59.4,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "SD",
+      "value": 146.5,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "TJ",
+      "value": 40.8,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "JX",
+      "value": 55.5,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "JS",
+      "value": 132.3,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "SH",
+      "value": 21.8,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "ZJ",
+      "value": 118.9,
+      "description": "75.0 - 208.2",
+      "class": 0,
+      "legend_position": "legend_position_2"
+    },
+    {
+      "region": "JL",
+      "value": 69.2,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "NM",
+      "value": 54.2,
+      "description": "13.09 - 54.2",
+      "class": 2,
+      "legend_position": "legend_position_0"
+    },
+    {
+      "region": "HL",
+      "value": 55.1,
+      "description": "54.2 - 75.0",
+      "class": 1,
+      "legend_position": "legend_position_1"
+    },
+    {
+      "region": "HK",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    },
+    {
+      "region": "MO",
+      "value": NaN,
+      "description": "N/A",
+      "class": 3,
+      "legend_position": "legend_position_3"
+    }
+  ],
+  "colormap_name": "YlGn",
+  "colorscales": [
+    "rgb(0, 69, 41)",
+    "rgb(120, 198, 121)",
+    "rgb(255, 255, 229)",
+    "rgb(128, 128, 128)"
+  ],
+  "paper_bgcolor": "lightgray",
+  "title": "Number of Engaged Persons in Private Enterprises and Self-employed Individuals, Hotels and Catering Services (10000 persons) - 2016",
+  "legend": {
+    "title_font_size": 16,
+    "orientation": "vertical",
+    "position": {
+      "x": 0.1,
+      "y": -0.1
+    },
+    "font_size": 16,
+    "bordercolor": "white",
+    "borderwidth": 2
+  }
+}
