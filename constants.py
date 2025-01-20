@@ -45,6 +45,8 @@ cot_f2_example_image_path = os.path.join(
 actual_map_dataset_folder_name = "dataset"
 counter_factual_dataset_folder_name = "dataset/counter_factual"
 
+CACHE_DIR = "/scratch/general/vast/u1471428/mapwise_data/models_cache"
+
 
 TEMPLATES_TO_DROP = [2, 4, 5]
 

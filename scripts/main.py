@@ -5,6 +5,9 @@ import json
 import argparse
 import importlib
 import models.gemini.gemini_model as gemini
+import models.cog.cog_model as cog
+import models.internlm.internlm_model as internlm
+import models.qwen.qwen_model as qwen
 
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
@@ -49,7 +52,7 @@ if __name__ == "__main__":
         "--model",
         type=str,
         required=True,
-        choices=["gemini", "gpt4", "cog", "idefics", "internLM", "qwen"],
+        choices=["gemini", "gpt4", "cog", "idefics", "internlm", "qwen"],
         help="Model Name",
     )
 
@@ -151,9 +154,30 @@ if __name__ == "__main__":
             response_filename,
             no_response_filename,
         )
+    elif model_name == "cog":
+        model = cog.get_cog_model()
+        cog.execute_store_response(
+            json_data,
+            model,
+            country_name,
+            prompt_type,
+            response_filename,
+            no_response_filename,
+        )
+
+    elif model_name == "internlm":
+        model = internlm.get_internlm_model()
+        internlm.execute_store_response(
+            json_data,
+            model,
+            country_name,
+            prompt_type,
+            response_filename,
+            no_response_filename,
+        )
 
     json_array = load_json_data(response_filename)
-    print(json_array)
+    # print(json_array)
 
     with open(response_filename, "w") as file:
         json.dump(json_array, file, indent=4)

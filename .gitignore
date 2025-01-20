@@ -4,3 +4,4 @@ dataset/*
 responses/*
 no_responses/*
 __pycache__/
+run_output/
