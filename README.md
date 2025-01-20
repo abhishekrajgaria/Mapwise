@@ -77,6 +77,30 @@ Create a `.env` file in the root directory of the project. This file should cont
             - `shuff_maps/` (120 files)
             - `shuff_data.csv`
 
+## Running Models
+
+### Overview
+
+This `main.py` script processes map-related data for various models and generates structured responses. It supports multiple models, countries, and map types, with options to customize the input prompts and shuffle or sample the dataset.
+
+Usage
+
+Run the script using the command line:
+
+```bash
+python main.py --model <MODEL> --country <COUNTRY> --map_type <MAP_TYPE> --prompt <PROMPT> [--random] [--sample_size <SIZE>]
+```
+### Arguments
+
+| Argument       | Type   | Required | Choices                                                                                       | Description                                                                                   |
+|----------------|--------|----------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| `--model`      | String | Yes      | `gemini`, `gpt4`, `cog`, `idefics`, `internlm`, `qwen`                                       | Specifies the model to use.                                                                  |
+| `--country`    | String | Yes      | `usa`, `india`, `china`, `orgs`, `img`, `shuff`                                              | The country or data category to process.                                                     |
+| `--map_type`   | String | Yes      | `w`, `wo`, `h`                                                                               | Specifies the type of map to process: `w` (with annotations), `wo` (without annotations), or `h` (hatched). |
+| `--prompt`     | String | Yes      | `d`, `cot_z`, `cot_f`, `cot_f2`, `eer`                                                      | Specifies the prompt type for the model.                                                     |
+| `--random`     | Flag   | No       | None                                                                                         | Shuffles the dataset if specified.                                                           |
+| `--sample_size`| Int    | No       | Any positive integer                                                                         | Limits the number of records to process. Default is `-1` (process all records).              |
+
     
 ## Scripts
 
