@@ -60,7 +60,7 @@ if __name__ == "__main__":
         "--country",
         type=str,
         required=True,
-        choices=["usa", "india", "china", "orgs", "img", "shuff", "img"],
+        choices=["usa", "india", "china", "orgs", "img", "shuff", "jumb", "img"],
         help="The country to check",
     )
 
