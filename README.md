@@ -105,7 +105,7 @@ python scripts/main.py --model <model_name> --country <country_name> --map_type 
 ## Evaluating Model Responses
 
 ### Overview
-This script is designed to evaluate model responses based on various parameters like the model name, country, map type, and prompt type. The responses are loaded from a structured directory and processed using a defined evaluation function.
+The `script/evaluate.py` is designed to evaluate model responses based on various parameters like the model name, country, map type, and prompt type. The responses are loaded from a structured directory and processed using a defined evaluation function.
 
 Usage
 
