@@ -161,7 +161,7 @@ For counterfactual maps you could choose country from {'orgs', 'jumb', 'shuff','
     python scripts/csv_to_json.py --country=shuff --map_type=w
 
     
-## Project Directory Structure
+## Project Dataset Structure
 
 ```
 ├── dataset/ (1 files)
