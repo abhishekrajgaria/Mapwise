@@ -130,7 +130,7 @@ python scripts/evaluate_model.py --model <model_name> --country <country_name> -
 
 ## Other Scripts
 
-### `csv_to_json.py`
+### `scripts/csv_to_json.py`
 
 Our original question answer data was captured and stored in csv format, but for efficient use and consistency we convert it to a json array format. (**We recommend directly using the json data only**)\
 It takes two parameters --country and --map_type \
@@ -147,10 +147,10 @@ map_type = {wo, w, h}
 
 To run for actual maps you could choose country from {'usa', 'india', 'china'} and map_type form {wo, w, h}, e.g., 
 
-    python csv_to_json.py --country=usa --map_type=wo
+    python scripts/csv_to_json.py --country=usa --map_type=wo
 
 For counterfactual maps you could choose country from {'orgs', 'jumb', 'shuff','img'} and map_type from {w}, e.g.,
 
-    python csv_to_json.py --country=shuff --map_type=w
+    python scripts/csv_to_json.py --country=shuff --map_type=w
 
     
