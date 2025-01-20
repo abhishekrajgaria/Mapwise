@@ -25,7 +25,7 @@ def generateJsonData(
     num_None_answer = 0
     num_range_none = 0
 
-    map_directory = f"{actual_map_dataset_folder}/{country_name}/{map_type}"
+    map_directory = f"{actual_map_paths}/{country_name}/{map_type}"
     if (
         country_name == "img"
         or country_name == "jumb"
@@ -33,7 +33,7 @@ def generateJsonData(
         or country_name == "shuff"
     ):
         map_directory = (
-            f"{counter_factual_dataset_folder}/{country_name}/{country_name}_maps/"
+            f"{counter_factual_dataset_folder_name}/{country_name}/{country_name}_maps/"
         )
 
     def getMapPath(map_no: str) -> str:
@@ -278,7 +278,8 @@ if __name__ == "__main__":
     os.makedirs(f"{dataset_dir_path}/{country}/json_data/", exist_ok=True)
 
     with open(
-        f"{dataset_dir_path}/{country}/json_data//{map_type}_maps_data.json", "w"
+        f"{dataset_dir_path}/{country}/json_data/{country}_{map_type}_maps_data.json",
+        "w",
     ) as file:
         json.dump(json_data, file, indent=4)
 

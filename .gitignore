@@ -1,5 +1,6 @@
 .env
 tree.py
 dataset/*
-
-__pycache__/*
+responses/*
+no_responses/*
+__pycache__/

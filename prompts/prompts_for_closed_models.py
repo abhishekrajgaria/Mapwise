@@ -1,4 +1,4 @@
-def get_shuff_eedp_with_dict(question, dictionary):
+def get_shuff_eer_with_dict(question, dictionary):
     return f"""
     Assume, given map does not represent original United state, but a fictional map where the position of states are shuffled, new position are represented by their abbreviations.
 
@@ -39,7 +39,7 @@ def get_shuff_eedp_with_dict(question, dictionary):
     """
 
 
-def get_shuff_eedp_wo_dict(question):
+def get_shuff_eer_wo_dict(question):
     return f"""
     Assume, given map does not represent original United state, but a fictional map where the position of states are shuffled, new position are represented by their abbreviations.
 
@@ -125,28 +125,7 @@ def get_shuff_cot_zero_wo_dict(question):
     """
 
 
-def get_cot_prompt_zero_shot_ann(question):
-    return f"""
-    Assume, given map does not represent original United state, but a fictional map where the position of states are shuffled, new position are represented by their abbreviations.
-
-    Your task is to answer the question based on the provided map using a well-reasoned response.
-    Only deal with abbreviations, the ordering of the states have been changed in the given map.
-    
-    Output Response Format - The output could be of different types such as:
-    {{"answer": "BooleanValue"}} (Yes or No)
-    {{"answer": "StateName"}}
-    {{"answer": "SingleWord"}}
-    {{"answer": "State1, State2, .... "}} (list of states)
-    {{"answer": "IntegerValue"}} (integer output)
-    {{"answer": "RangeStart - RangeEnd"}} (range type output)
-    {{"answer": "None"}} (when there is no answer)
-
-    Question: {question}
-    Output: Let's think step by step, explain the steps and then provide final answer as {{"answer":}}
-"""
-
-
-def get_img_cot_zero_shot(question, dictionary):
+def get_img_cot_zero_shot_with_dict(question, dictionary):
     return f"""Your task is to answer the question based on the provided image using a well-reasoned response.
     Note - The map in the image represents fictional names for each states as specified in the following dictionary, use this dictionary while analyzing the map.
 
@@ -166,7 +145,7 @@ def get_img_cot_zero_shot(question, dictionary):
     Output: Let's think step by step, explain the steps and then provide final answer as {{"answer":}}."""
 
 
-def get_img_eedp_with_dict(question, dictionary):
+def get_img_eer_with_dict(question, dictionary):
     return f"""
     Answer the question based on the provided image using a well-reasoned response.
     Note - The map in the image represents fictional names for each states as specified in the following dictionary, use this dictionary while analyzing the map.
@@ -202,7 +181,7 @@ def get_img_eedp_with_dict(question, dictionary):
     """
 
 
-def get_eedp_prompt(question):
+def get_eer_prompt(question):
     return f"""
         You should answer the question step by step, explicitly stating the answer for each step. Your final answer should be in the format of answer: <answer>
         You are an expert at answering questions based on maps. You will be given a map and a question and you will have to answer the question through the following four steps. 
@@ -283,7 +262,7 @@ def get_non_dec_order(context):
     """
 
 
-def get_direct_prompt_wo_reason_wo_example(question):
+def get_direct_prompt(question):
     return f"""Your task is to answer the question based on the provided Image.
 
 Output Response Format - The output could be of different types such as:

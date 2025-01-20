@@ -1,5 +1,6 @@
 pandas
 pillow
+python-dotenv
 openpyxl
 google-generativeai
 torch
