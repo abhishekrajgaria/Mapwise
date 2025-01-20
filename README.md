@@ -164,8 +164,8 @@ For counterfactual maps you could choose country from {'orgs', 'jumb', 'shuff','
 ## Project Dataset Structure
 
 ```
-├── dataset/ (1 files)
-│   ├── china/ (1 files)
+├── dataset/ 
+│   ├── china/ 
 │   │   ├── hatched/ (51 files)
 │   │   ├── json_data/ (3 files)
 │   │   │   └── china_hatched_maps_data.json
@@ -175,28 +175,28 @@ For counterfactual maps you could choose country from {'orgs', 'jumb', 'shuff','
 │   │   ├── with_annotations/ (100 files)
 │       ├── wo_annotations/ (100 files)
 │   │   └── final_china_cleaned3.csv
-│   ├── counter_factuals/ (0 files)
-│   │   ├── img/ (1 files)
+│   ├── counter_factuals/
+│   │   ├── img/ 
 │   │   │   ├── img_maps/ (120 files)
 │   │       ├── json_data/ (1 files)
 │   │       │   └── img_with_annotations_maps_data.json
 │   │   │   └── img_data.csv
-│   │   ├── jumb/ (1 files)
+│   │   ├── jumb/ 
 │   │   │   ├── json_data/ (1 files)
 │   │   │   │   └── jumb_with_annotations_maps_data.json
 │   │       ├── jumb_maps/ (120 files)
 │   │   │   └── jumb_data.csv
-│   │   ├── orgs/ (1 files)
+│   │   ├── orgs/ 
 │   │   │   ├── json_data/ (1 files)
 │   │   │   │   └── orgs_with_annotations_maps_data.json
 │   │       ├── orgs_maps/ (120 files)
 │   │   │   └── orgs_data.csv
-│       ├── shuff/ (1 files)
+│       ├── shuff/ 
 │       │   ├── json_data/ (1 files)
 │       │   │   └── shuff_with_annotations_maps_data.json
 │           ├── shuff_maps/ (120 files)
 │       │   └── shuff_data.csv
-│   ├── india/ (1 files)
+│   ├── india/ 
 │   │   ├── hatched/ (55 files)
 │   │   ├── json_data/ (3 files)
 │   │   │   └── india_hatched_maps_data.json
@@ -206,7 +206,7 @@ For counterfactual maps you could choose country from {'orgs', 'jumb', 'shuff','
 │   │   ├── with_annotations/ (110 files)
 │       ├── wo_annotations/ (110 files)
 │   │   └── final_india_cleaned4.csv
-    ├── usa/ (1 files)
+    ├── usa/ 
     │   ├── hatched/ (81 files)
     │   ├── json_data/ (3 files)
     │   │   └── usa_hatched_maps_data.json
