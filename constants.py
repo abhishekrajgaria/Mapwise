@@ -30,7 +30,7 @@ shuff_file_path = os.path.join(
 
 actual_map_paths = os.path.join(os.path.dirname(__file__), "dataset")
 counter_factual_map_paths = os.path.join(
-    os.path.dirname(__file__), "dataset/counter_factual"
+    os.path.dirname(__file__), "dataset/counter_factuals"
 )
 
 responses_dir_path = os.path.join(os.path.dirname(__file__), "responses")
@@ -43,7 +43,7 @@ cot_f2_example_image_path = os.path.join(
 )
 
 actual_map_dataset_folder_name = "dataset"
-counter_factual_dataset_folder_name = "dataset/counter_factual"
+counter_factual_dataset_folder_name = "dataset/counter_factuals"
 
 CACHE_DIR = "/scratch/general/vast/u1471428/mapwise_data/models_cache"
 
