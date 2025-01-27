@@ -17,7 +17,7 @@ For installing Miniconda on the above link, right-click on a suitable installer 
 
 Create and activate a test Conda environment with desired python version e.g., 3.9
 
-     conda create-n mapwise python=3.9
+     conda create -n mapwise python=3.9
 
      conda activate mapwise
 
