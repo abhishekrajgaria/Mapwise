@@ -200,12 +200,6 @@ if __name__ == "__main__":
         "--country", type=str, required=True, help="The country to check"
     )
 
-    # parser.add_argument(
-    #     "--rank",
-    #     action="store_true",
-    #     help="Set this flag if only need to compute rank type question.",
-    # )
-
     parser.add_argument(
         "--map_type",
         type=str,
@@ -268,12 +262,6 @@ if __name__ == "__main__":
     if map_type == "hatched":
         hatched_path = f"./{country}/{map_type}"
         json_data = filter_data(json_data)
-
-    # if rank:
-    #     json_data = filter_ranks(json_data)
-    #     with open(f"json_data/{country}_rank_{map_type}_maps_data.json", "w") as file:
-    #         json.dump(json_data, file, indent=4)
-    # else:
 
     os.makedirs(f"{dataset_dir_path}/{country}/json_data/", exist_ok=True)
 
